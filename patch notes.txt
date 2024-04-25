@@ -1,6 +1,10 @@
+VERSÃO 0.0.6.2 | 25/04/24
+— Correção de bug na imagem cover.
+
 VERSÃO 0.0.6 | 25/04/24
-— 35% do jogo traduzido.
-— Novo preview e cover.
+— 35% do jogo traduzido;
+— Novo preview e cover;
+— Sincronizado no Github.
 
 VERSÃO 0.0.5.2 | 24/04/24
 — Preview do mod atualizado.
