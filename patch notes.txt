@@ -1,0 +1,33 @@
+VERSÃO 0.0.6 | 25/04/24
+— 35% do jogo traduzido.
+— Novo preview e cover.
+
+VERSÃO 0.0.5.2 | 24/04/24
+— Preview do mod atualizado.
+
+VERSÃO 0.0.5 | 24/04/24
+— 33% do jogo traduzido;
+— Versão da tradução adicionada à IU do jogo.
+
+VERSÃO 0.0.4 | 23/04/24
+— 31% do jogo traduzido;
+— Várias correções na tradução.
+
+VERSÃO 0.0.3.2 | 22/04/24
+— Correção de bug.
+
+VERSÃO 0.0.3 | 22/04/24
+— 30% do jogo traduzido;
+— Várias correções na tradução.
+
+VERSÃO 0.0.2.2 | 22/04/24
+— Correções nos arquivos do mod.
+
+VERSÃO 0.0.2 | 22/04/24
+— 25% do jogo traduzido.
+
+VERSÃO 0.0.1.2 | 21/04/24
+— Erro no preview corrigido.
+<br>
+VERSÃO 0.0.1 | 21/04/24
+— Primeira versão: 22% do jogo traduzido.
