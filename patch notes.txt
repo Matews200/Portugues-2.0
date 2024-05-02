@@ -1,3 +1,6 @@
+v0.0.10-alpha | 02.05.24
+— 47% do jogo traduzido.
+
 v0.0.9-alpha | 28.04.24
 — 45% do jogo traduzido.
 
