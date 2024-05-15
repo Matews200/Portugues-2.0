@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Application: Oxygen Not IncludedPOT Version: 2.0\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.4.4\n"
 "X-Poedit-KeywordsList: Português;Pt\n"
 
 #. STRINGS.BUILDING.DETAILS.USE_COUNT
@@ -6745,7 +6745,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.CARGOBAYCLUSTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CARGOBAYCLUSTER.DESC"
 msgid "Holds more than a regular cargo bay."
-msgstr ""
+msgstr "Comporta mais do que um compartimento de carga normal."
 
 #. STRINGS.BUILDINGS.PREFABS.CARGOBAYCLUSTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CARGOBAYCLUSTER.EFFECT"
@@ -6798,7 +6798,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.FACADES.BLOSSOM.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.FACADES.BLOSSOM.DESC"
 msgid "For Duplicants who can't keep real plants alive."
-msgstr ""
+msgstr "Para Duplicantes que não conseguem manter plantas reais vivas."
 
 #. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.FACADES.BLOSSOM.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.FACADES.BLOSSOM.NAME"
@@ -6820,7 +6820,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.FACADES.FAUXPIPE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.FACADES.FAUXPIPE.DESC"
 msgid "The height of plumbing-inspired interior design."
-msgstr ""
+msgstr "O auge do design de interiores inspirado no encanamento."
 
 #. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.FACADES.FAUXPIPE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.FACADES.FAUXPIPE.NAME"
@@ -6830,7 +6830,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.FACADES.LABFLASK.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.FACADES.LABFLASK.DESC"
 msgid "For best results, do not fill with liquids."
-msgstr ""
+msgstr "Para melhores resultados, não encha com líquidos."
 
 #. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.FACADES.LABFLASK.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.FACADES.LABFLASK.NAME"
@@ -6892,7 +6892,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.CHECKPOINT.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CHECKPOINT.LOGIC_PORT"
 msgid "Duplicant Stop/Go"
-msgstr ""
+msgstr "Duplicante Parar/Avançar"
 
 #. STRINGS.BUILDINGS.PREFABS.CHECKPOINT.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.CHECKPOINT.LOGIC_PORT_ACTIVE"
@@ -7000,7 +7000,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.CLUSTERCOMMANDMODULE.LOGIC_PORT_READY
 msgctxt "STRINGS.BUILDINGS.PREFABS.CLUSTERCOMMANDMODULE.LOGIC_PORT_READY"
 msgid "Rocket Checklist"
-msgstr ""
+msgstr "Lista de Verificação de Foguete"
 
 #. STRINGS.BUILDINGS.PREFABS.CLUSTERCOMMANDMODULE.LOGIC_PORT_READY_ACTIVE
 msgctxt ""
@@ -7088,7 +7088,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.CLUSTERTELESCOPEENCLOSED.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CLUSTERTELESCOPEENCLOSED.NAME"
 msgid "<link=\"CLUSTERTELESCOPEENCLOSED\">Enclosed Telescope</link>"
-msgstr ""
+msgstr "<link=\"CLUSTERTELESCOPEENCLOSED\">Telescópio Fechado</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.CLUSTERTELESCOPEENCLOSED.REQUIREMENT_TOOLTIP
 msgctxt ""
@@ -7168,6 +7168,8 @@ msgid ""
 "At least one astronaut must be assigned to the command module to pilot a "
 "rocket."
 msgstr ""
+"Pelo menos um astronauta deve ser designado para o módulo de comando para "
+"pilotar um foguete."
 
 #. STRINGS.BUILDINGS.PREFABS.COMMANDMODULE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMMANDMODULE.EFFECT"
@@ -7196,7 +7198,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.COMMANDMODULE.LOGIC_PORT_READY
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMMANDMODULE.LOGIC_PORT_READY"
 msgid "Rocket Checklist"
-msgstr ""
+msgstr "Lista de Verificação de Foguete"
 
 #. STRINGS.BUILDINGS.PREFABS.COMMANDMODULE.LOGIC_PORT_READY_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMMANDMODULE.LOGIC_PORT_READY_ACTIVE"
@@ -7230,12 +7232,12 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.COMPOST.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOST.NAME"
 msgid "<link=\"COMPOST\">Compost</link>"
-msgstr ""
+msgstr "<link=\"COMPOST\">Compostagem</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.CONDUIT.STATUS_ITEM.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CONDUIT.STATUS_ITEM.NAME"
 msgid "Marked for Emptying"
-msgstr ""
+msgstr "Marcado Para Esvaziamento"
 
 #. STRINGS.BUILDINGS.PREFABS.CONDUIT.STATUS_ITEM.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.PREFABS.CONDUIT.STATUS_ITEM.TOOLTIP"
@@ -7261,7 +7263,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.CONTACTCONDUCTIVEPIPEBRIDGE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CONTACTCONDUCTIVEPIPEBRIDGE.NAME"
 msgid "<link=\"CONTACTCONDUCTIVEPIPEBRIDGE\">Conduction Panel</link>"
-msgstr ""
+msgstr "<link=\"CONTACTCONDUCTIVEPIPEBRIDGE\">Painel de Condução</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.DESC"
@@ -7277,16 +7279,20 @@ msgid ""
 "\n"
 "Duplicants will not fabricate items unless recipes are queued."
 msgstr ""
+"Cozinha uma grande variedade de <link=\"FOOD\">Alimentos</link> melhorados.\n"
+"\n"
+"Duplicantes não fabricarão itens a menos que as receitas estejam na fila."
 
 #. STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.NAME"
 msgid "<link=\"COOKINGSTATION\">Electric Grill</link>"
-msgstr ""
+msgstr "<link=\"COOKINGSTATION\">Grelha Elétrica</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.CORNERMOULDING.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CORNERMOULDING.DESC"
 msgid "Corner trim is a purely decorative addition for ceiling corners."
 msgstr ""
+"O acabamento dos cantos é uma adição puramente decorativa aos cantos do teto."
 
 #. STRINGS.BUILDINGS.PREFABS.CORNERMOULDING.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CORNERMOULDING.EFFECT"
@@ -7354,6 +7360,8 @@ msgid ""
 "Crafting stations allow Duplicants to make oxygen masks to wear in low "
 "breathability areas."
 msgstr ""
+"As estações de artesanato permitem que os Duplicantes façam máscaras de "
+"oxigênio para usar em áreas de baixa respirabilidade."
 
 #. STRINGS.BUILDINGS.PREFABS.CRAFTINGTABLE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CRAFTINGTABLE.EFFECT"
@@ -7450,6 +7458,8 @@ msgstr ""
 msgctxt "STRINGS.BUILDINGS.PREFABS.CREATURETRAP.DESC"
 msgid "Critter traps cannot catch swimming or flying critters."
 msgstr ""
+"As armadilhas para criaturas não podem capturar criaturas nadadoras ou "
+"voadoras."
 
 #. STRINGS.BUILDINGS.PREFABS.CREATURETRAP.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CREATURETRAP.EFFECT"
@@ -7458,6 +7468,9 @@ msgid ""
 "\n"
 "Single use."
 msgstr ""
+"Captura uma <link=\"CREATURES\">Criatura</link> viva para transporte.\n"
+"\n"
+"Uso único."
 
 #. STRINGS.BUILDINGS.PREFABS.CREATURETRAP.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CREATURETRAP.NAME"
@@ -7467,7 +7480,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.CRITTERCONDO.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CRITTERCONDO.DESC"
 msgid "It's nice to have nice things."
-msgstr ""
+msgstr "É bom ter coisas boas."
 
 #. STRINGS.BUILDINGS.PREFABS.CRITTERCONDO.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CRITTERCONDO.EFFECT"
@@ -7523,7 +7536,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.CRITTERPICKUP.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CRITTERPICKUP.DESC"
 msgid "Duplicants will automatically wrangle excess critters."
-msgstr ""
+msgstr "Os duplicantes irão capturar automaticamente as criaturas em excesso."
 
 #. STRINGS.BUILDINGS.PREFABS.CRITTERPICKUP.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CRITTERPICKUP.EFFECT"
@@ -7737,7 +7750,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.DEVLIGHTGENERATOR.FALLOFF_LABEL
 msgctxt "STRINGS.BUILDINGS.PREFABS.DEVLIGHTGENERATOR.FALLOFF_LABEL"
 msgid "Falloff Rate"
-msgstr ""
+msgstr "Taxa de Queda"
 
 #. STRINGS.BUILDINGS.PREFABS.DEVLIGHTGENERATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DEVLIGHTGENERATOR.NAME"
@@ -7854,7 +7867,7 @@ msgstr "Converte {1} em {0}"
 #. STRINGS.BUILDINGS.PREFABS.DININGTABLE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.DININGTABLE.DESC"
 msgid "Duplicants prefer to dine at a table, rather than eat off the floor."
-msgstr ""
+msgstr "Os duplicantes preferem jantar à mesa, em vez de comer no chão."
 
 #. STRINGS.BUILDINGS.PREFABS.DININGTABLE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DININGTABLE.EFFECT"
@@ -7863,11 +7876,15 @@ msgid ""
 "\n"
 "Duplicants will automatically eat at their assigned table when hungry."
 msgstr ""
+"Dá a um Duplicante um lugar para comer.\n"
+"\n"
+"Os Duplicantes comerão automaticamente na mesa designada quando estiverem "
+"com fome."
 
 #. STRINGS.BUILDINGS.PREFABS.DININGTABLE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DININGTABLE.NAME"
 msgid "<link=\"DININGTABLE\">Mess Table</link>"
-msgstr ""
+msgstr "<link=\"DININGTABLE\">Mesa de Jantar</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.DIRECTIONALWORLDPUMPLIQUID.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.DIRECTIONALWORLDPUMPLIQUID.DESC"
@@ -7888,7 +7905,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.DIRECTIONALWORLDPUMPLIQUID.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DIRECTIONALWORLDPUMPLIQUID.NAME"
 msgid "<link=\"DIRECTIONALWORLDPUMPLIQUID\">Liquid Channel</link>"
-msgstr ""
+msgstr "<link=\"DIRECTIONALWORLDPUMPLIQUID\">Canal de Líquido</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.DISTILLATIONCOLUMN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.DISTILLATIONCOLUMN.DESC"
@@ -7928,7 +7945,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.DLC1COSMICRESEARCHCENTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DLC1COSMICRESEARCHCENTER.NAME"
 msgid "<link=\"DLC1COSMICRESEARCHCENTER\">Virtual Planetarium</link>"
-msgstr ""
+msgstr "<link=\"DLC1COSMICRESEARCHCENTER\">Planetário Virtual</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.DOCTORSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOCTORSTATION.DESC"
@@ -7969,7 +7986,7 @@ msgstr "Auto"
 #. STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.AUTO.TOOLTIP
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.AUTO.TOOLTIP"
 msgid "Duplicants open and close this door as needed"
-msgstr ""
+msgstr "Duplicantes abrem e fecham esta porta conforme necessário"
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.CLOSE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.CLOSE.NAME"
@@ -8038,12 +8055,12 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.DOOR.PRESSURE_SUIT_NOT_REQUIRED
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.PRESSURE_SUIT_NOT_REQUIRED"
 msgid "<link=\"ATMOSUIT\">Atmo Suit</link> not required {0}"
-msgstr ""
+msgstr "<link=\"ATMOSUIT\">Traje Atmo</link> não é necessário {0}"
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.PRESSURE_SUIT_REQUIRED
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.PRESSURE_SUIT_REQUIRED"
 msgid "<link=\"ATMOSUIT\">Atmo Suit</link> required {0}"
-msgstr ""
+msgstr "<link=\"ATMOSUIT\">Traje Atmo</link> necessário {0}"
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.RIGHT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.RIGHT"
@@ -8069,7 +8086,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.EGGCRACKER.FACADES.BEAKER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EGGCRACKER.FACADES.BEAKER.DESC"
 msgid "A practical exercise in physics."
-msgstr ""
+msgstr "Um exercício prático de física."
 
 #. STRINGS.BUILDINGS.PREFABS.EGGCRACKER.FACADES.BEAKER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EGGCRACKER.FACADES.BEAKER.NAME"
@@ -8099,7 +8116,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.EGGCRACKER.FACADES.HANDS.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EGGCRACKER.FACADES.HANDS.DESC"
 msgid "Just like Mi-Ma used to have."
-msgstr ""
+msgstr "Assim como Mi-Ma costumava fazer."
 
 #. STRINGS.BUILDINGS.PREFABS.EGGCRACKER.FACADES.HANDS.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EGGCRACKER.FACADES.HANDS.NAME"
@@ -8140,7 +8157,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.EGGINCUBATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EGGINCUBATOR.NAME"
 msgid "<link=\"EGGINCUBATOR\">Incubator</link>"
-msgstr ""
+msgstr "<link=\"EGGINCUBATOR\">Incubadora</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.DESC"
@@ -8246,88 +8263,88 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.AQUATICMOSAIC.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.AQUATICMOSAIC.DESC"
 msgid "A multi-hued blue wallpaper."
-msgstr ""
+msgstr "Um papel de parede azul em vários tons."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.AQUATICMOSAIC.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.AQUATICMOSAIC.NAME"
 msgid "<link=\"EXTERIORWALL\">Aquatic Mosaic</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Mosaico Aquático</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BALM_LILY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BALM_LILY.DESC"
 msgid "A mellow floral wallpaper."
-msgstr ""
+msgstr "Um papel de parede floral suave."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BALM_LILY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BALM_LILY.NAME"
 msgid "<link=\"EXTERIORWALL\">Balm Lily Print</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Estampa de Lírio Bálsamo</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_BLUE_COBALT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_BLUE_COBALT.DESC"
 msgid "It doesn't cure the blues, so much as emphasize them."
-msgstr ""
+msgstr "Não cura os azuis, apenas o enfatiza."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_BLUE_COBALT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_BLUE_COBALT.NAME"
 msgid "<link=\"EXTERIORWALL\">Solid Cobalt</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Cobalto Sólido</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_GREEN_KELLY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_GREEN_KELLY.DESC"
 msgid "It's cheaper than having a garden."
-msgstr ""
+msgstr "É mais barato do que ter um jardim."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_GREEN_KELLY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_GREEN_KELLY.NAME"
 msgid "<link=\"EXTERIORWALL\">Spring Green</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Verde Primavera</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_GREY_CHARCOAL.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_GREY_CHARCOAL.DESC"
 msgid "An elevated take on \"gray\"."
-msgstr ""
+msgstr "Uma versão elevada do \"cinza\"."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_GREY_CHARCOAL.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_GREY_CHARCOAL.NAME"
 msgid "<link=\"EXTERIORWALL\">Solid Charcoal</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Carvão Sólido</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_ORANGE_SATSUMA.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_ORANGE_SATSUMA.DESC"
 msgid "Less fruit-forward, but just as fresh."
-msgstr ""
+msgstr "Menos frutado, mas igualmente fresco."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_ORANGE_SATSUMA.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_ORANGE_SATSUMA.NAME"
 msgid "<link=\"EXTERIORWALL\">Solid Satsuma</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Satsuma sólido</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_PINK_FLAMINGO.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_PINK_FLAMINGO.DESC"
 msgid "A bold statement, for bold Duplicants."
-msgstr ""
+msgstr "Uma afirmação ousada, para Duplicantes ousados."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_PINK_FLAMINGO.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_PINK_FLAMINGO.NAME"
 msgid "<link=\"EXTERIORWALL\">Solid Pink</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Rosa Sólido</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_RED_DEEP.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_RED_DEEP.DESC"
 msgid "It really spices up dull walls."
-msgstr ""
+msgstr "Realmente apimenta paredes opacas."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_RED_DEEP.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_RED_DEEP.NAME"
 msgid "<link=\"EXTERIORWALL\">Chili Red</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Vermelho Pimentão</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_WHITE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_WHITE.DESC"
@@ -8337,367 +8354,373 @@ msgstr "É tão fresco e tão limpo."
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_WHITE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_WHITE.NAME"
 msgid "<link=\"EXTERIORWALL\">Fresh White</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Branco Fresco</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_YELLOW_LEMON.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_YELLOW_LEMON.DESC"
 msgid "The original coal-mine chic."
-msgstr ""
+msgstr "O chique original da mina de carvão."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_YELLOW_LEMON.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BASIC_YELLOW_LEMON.NAME"
 msgid "<link=\"EXTERIORWALL\">Canary Yellow</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Amarelo Canário</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BLUEBERRIES.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BLUEBERRIES.DESC"
 msgid "It stains the fingers."
-msgstr ""
+msgstr "Mancha os dedos."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BLUEBERRIES.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.BLUEBERRIES.NAME"
 msgid "<link=\"EXTERIORWALL\">Juicy Blueberry</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Mirtilo Suculento</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_BLUE_COBALT_WHITE.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_BLUE_COBALT_WHITE.DESC"
 msgid "It can be arranged into giant blue polka dots."
-msgstr ""
+msgstr "Pode ser organizado em bolinhas azuis gigantes."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_BLUE_COBALT_WHITE.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_BLUE_COBALT_WHITE.NAME"
 msgid "<link=\"EXTERIORWALL\">H2O Wedge</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Cunha H2O</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_GREEN_KELLY_WHITE.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_GREEN_KELLY_WHITE.DESC"
 msgid "It can be arranged into giant green polka dots."
-msgstr ""
+msgstr "Pode ser organizado em bolinhas verdes gigantes."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_GREEN_KELLY_WHITE.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_GREEN_KELLY_WHITE.NAME"
 msgid "<link=\"EXTERIORWALL\">Algae Wedge</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Cunha de Algas</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_GREY_CHARCOAL_WHITE.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_GREY_CHARCOAL_WHITE."
 "DESC"
 msgid "It can be arranged into giant shadowy polka dots."
-msgstr ""
+msgstr "Ele pode ser organizado em bolinhas gigantes sombreadas."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_GREY_CHARCOAL_WHITE.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_GREY_CHARCOAL_WHITE."
 "NAME"
 msgid "<link=\"EXTERIORWALL\">Charcoal Wedge</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Cunha de Carvão</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_ORANGE_SATSUMA_WHITE.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_ORANGE_SATSUMA_WHITE."
 "DESC"
 msgid "It can be arranged into giant orange polka dots."
-msgstr ""
+msgstr "Pode ser organizado em bolinhas laranja gigantes."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_ORANGE_SATSUMA_WHITE.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_ORANGE_SATSUMA_WHITE."
 "NAME"
 msgid "<link=\"EXTERIORWALL\">Bright Wedge</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Cunha Brilhante</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_PINK_FLAMINGO_WHITE.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_PINK_FLAMINGO_WHITE."
 "DESC"
 msgid "It can be arranged into giant pink polka dots."
-msgstr ""
+msgstr "Pode ser organizado em bolinhas rosas gigantes."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_PINK_FLAMINGO_WHITE.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_PINK_FLAMINGO_WHITE."
 "NAME"
 msgid "<link=\"EXTERIORWALL\">Petal Wedge</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Cunha de Pétala</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_RED_DEEP_WHITE.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_RED_DEEP_WHITE.DESC"
 msgid "It can be arranged into giant red polka dots."
-msgstr ""
+msgstr "Pode ser organizado em bolinhas vermelhas gigantes."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_RED_DEEP_WHITE.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_RED_DEEP_WHITE.NAME"
 msgid "<link=\"EXTERIORWALL\">Magma Wedge</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Cunha de Magma</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_YELLOW_LEMON_WHITE.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_YELLOW_LEMON_WHITE.DESC"
 msgid "A radiation-free pattern that can be arranged into giant polka dots."
 msgstr ""
+"Um padrão livre de radiação que pode ser organizado em bolinhas gigantes."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_YELLOW_LEMON_WHITE.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CIRCLE_YELLOW_LEMON_WHITE.NAME"
 msgid "<link=\"EXTERIORWALL\">Yellowcake Wedge</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Cunha de Yellowcake</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CLOUDS.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CLOUDS.DESC"
 msgid "A soft, fluffy wallpaper."
-msgstr ""
+msgstr "Um papel de parede macio e fofo."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CLOUDS.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.CLOUDS.NAME"
 msgid "<link=\"EXTERIORWALL\">Cloud Print</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Impressão Nuvem</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.COFFEE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.COFFEE.DESC"
 msgid "A caffeine-themed wallpaper."
-msgstr ""
+msgstr "Um papel de parede com tema de cafeína."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.COFFEE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.COFFEE.NAME"
 msgid "<link=\"EXTERIORWALL\">Cafe Print</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Impressão Café</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DEFAULT_EXTERIORWALL.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DEFAULT_EXTERIORWALL.DESC"
 msgid "It gets the job done."
-msgstr ""
+msgstr "Isso finaliza o trabalho."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DEFAULT_EXTERIORWALL.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DEFAULT_EXTERIORWALL.NAME"
 msgid "<link=\"EXTERIORWALL\">Drywall</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Placa de Gesso</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DIAGONAL_BLUE_COBALT_WHITE.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DIAGONAL_BLUE_COBALT_WHITE."
 "DESC"
 msgid "A damp wallpaper with a diagonal stripe."
-msgstr ""
+msgstr "Um papel de parede úmido com uma faixa diagonal."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DIAGONAL_BLUE_COBALT_WHITE.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DIAGONAL_BLUE_COBALT_WHITE."
 "NAME"
 msgid "<link=\"EXTERIORWALL\">H2O Diagonal</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">H2O Diagonal</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DIAGONAL_GREEN_KELLY_WHITE.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DIAGONAL_GREEN_KELLY_WHITE."
 "DESC"
 msgid "A slippery wallpaper with a diagonal stripe."
-msgstr ""
+msgstr "Um papel de parede escorregadio com uma faixa diagonal."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DIAGONAL_GREEN_KELLY_WHITE.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DIAGONAL_GREEN_KELLY_WHITE."
 "NAME"
 msgid "<link=\"EXTERIORWALL\">Algae Diagonal</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Algas Diagonais</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DIAGONAL_GREY_CHARCOAL_WHITE.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DIAGONAL_GREY_CHARCOAL_WHITE."
 "DESC"
 msgid "A sleek wallpaper with a diagonal stripe."
-msgstr ""
+msgstr "Um papel de parede elegante com uma faixa diagonal."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DIAGONAL_GREY_CHARCOAL_WHITE.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DIAGONAL_GREY_CHARCOAL_WHITE."
 "NAME"
 msgid "<link=\"EXTERIORWALL\">Charcoal Diagonal</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Diagonal de Carvão</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DIAGONAL_ORANGE_SATSUMA_WHITE.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DIAGONAL_ORANGE_SATSUMA_WHITE."
 "DESC"
 msgid "An orange wallpaper with a diagonal stripe."
-msgstr ""
+msgstr "Um papel de parede laranja com uma faixa diagonal."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DIAGONAL_ORANGE_SATSUMA_WHITE.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DIAGONAL_ORANGE_SATSUMA_WHITE."
 "NAME"
 msgid "<link=\"EXTERIORWALL\">Bright Diagonal</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Diagonal Brilhante</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DIAGONAL_PINK_FLAMINGO_WHITE.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DIAGONAL_PINK_FLAMINGO_WHITE."
 "DESC"
 msgid "A pink wallpaper with a diagonal stripe."
-msgstr ""
+msgstr "Um papel de parede rosa com uma faixa diagonal."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DIAGONAL_PINK_FLAMINGO_WHITE.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DIAGONAL_PINK_FLAMINGO_WHITE."
 "NAME"
 msgid "<link=\"EXTERIORWALL\">Petal Diagonal</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Pétala Diagonal</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DIAGONAL_RED_DEEP_WHITE.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DIAGONAL_RED_DEEP_WHITE.DESC"
 msgid "A red wallpaper with a diagonal stripe."
-msgstr ""
+msgstr "Um papel de parede vermelho com uma faixa diagonal."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DIAGONAL_RED_DEEP_WHITE.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DIAGONAL_RED_DEEP_WHITE.NAME"
 msgid "<link=\"EXTERIORWALL\">Magma Diagonal</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Diagonal de Magma</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DIAGONAL_YELLOW_LEMON_WHITE.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DIAGONAL_YELLOW_LEMON_WHITE."
 "DESC"
 msgid "A radiation-free wallpaper with a diagonal stripe."
-msgstr ""
+msgstr "Um papel de parede livre de radiação com uma faixa diagonal."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DIAGONAL_YELLOW_LEMON_WHITE.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DIAGONAL_YELLOW_LEMON_WHITE."
 "NAME"
 msgid "<link=\"EXTERIORWALL\">Yellowcake Diagonal</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Yellowcake Diagonal</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_1.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_1.DESC"
 msgid "Inspired by classic dice."
-msgstr ""
+msgstr "Inspirado em dados clássicos."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_1.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_1.NAME"
 msgid "<link=\"EXTERIORWALL\">Roll One</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Rolo Um</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_2.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_2.DESC"
 msgid "Inspired by classic dice."
-msgstr ""
+msgstr "Inspirado em dados clássicos."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_2.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_2.NAME"
 msgid "<link=\"EXTERIORWALL\">Roll Two</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Rolo Dois</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_3.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_3.DESC"
 msgid "Inspired by classic dice."
-msgstr ""
+msgstr "Inspirado em dados clássicos."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_3.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_3.NAME"
 msgid "<link=\"EXTERIORWALL\">Roll Three</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Rolo Três</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_4.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_4.DESC"
 msgid "Inspired by classic dice."
-msgstr ""
+msgstr "Inspirado em dados clássicos."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_4.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_4.NAME"
 msgid "<link=\"EXTERIORWALL\">Roll Four</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Rolo Quatro</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_5.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_5.DESC"
 msgid "Inspired by classic dice."
-msgstr ""
+msgstr "Inspirado em dados clássicos."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_5.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_5.NAME"
 msgid "<link=\"EXTERIORWALL\">Roll Five</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Rolo Cinco</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_6.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_6.DESC"
 msgid "Inspired by classic dice."
-msgstr ""
+msgstr "Inspirado em dados clássicos."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_6.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.DICE_6.NAME"
 msgid "<link=\"EXTERIORWALL\">High Roller</link>"
-msgstr ""
+msgstr "<link=\"PAREDE EXTERIOR\">Rolo Alto</linq>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_AZULENE_VITRO.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_AZULENE_VITRO.DESC"
 msgid "A fun blue print in honor of information storage."
-msgstr ""
+msgstr "Um projeto divertido em homenagem ao armazenamento de informações."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_AZULENE_VITRO.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_AZULENE_VITRO.NAME"
 msgid "<link=\"EXTERIORWALL\">Waterlogged Databank</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Banco de Dados Alagados</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_BLACK_WHITE.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_BLACK_WHITE.DESC"
 msgid "A chic black-and-white print in honor of information storage."
 msgstr ""
+"Uma impressão chique em preto e branco em homenagem ao armazenamento de "
+"informações."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_BLACK_WHITE.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_BLACK_WHITE.NAME"
 msgid "<link=\"EXTERIORWALL\">Monochrome Databank</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Banco de Dados Monocromático</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_MAGMA_AMINO.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_MAGMA_AMINO.DESC"
 msgid "A fun red print in honor of information storage."
 msgstr ""
+"Uma divertida estampa vermelha em homenagem ao armazenamento de informações."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_MAGMA_AMINO.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_MAGMA_AMINO.NAME"
 msgid "<link=\"EXTERIORWALL\">Flashy Databank</link>"
-msgstr ""
+msgstr "<link=\"EXTERIOR WALL\">Banco de Dados Intermitente</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_PEAGREEN_BALMY.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_PEAGREEN_BALMY.DESC"
 msgid "A fun green print in honor of information storage."
 msgstr ""
+"Uma divertida impressão verde em homenagem ao armazenamento de informações."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_PEAGREEN_BALMY.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_PEAGREEN_BALMY.NAME"
 msgid "<link=\"EXTERIORWALL\">Lush Databank</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Banco de Dados Exuberante</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_SATSUMA_YELLOWCAKE.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_SATSUMA_YELLOWCAKE.DESC"
 msgid "A fun orange print in honor of information storage."
 msgstr ""
+"Uma divertida estampa laranja em homenagem ao armazenamento de informações."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_SATSUMA_YELLOWCAKE.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.FLOPPY_SATSUMA_YELLOWCAKE.NAME"
 msgid "<link=\"EXTERIORWALL\">Hi-Vis Databank</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Banco de Dados de Alta Visibilidade</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.GRAPES.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.GRAPES.DESC"
@@ -8707,7 +8730,7 @@ msgstr "Não tem sementes, se isso importa."
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.GRAPES.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.GRAPES.NAME"
 msgid "<link=\"EXTERIORWALL\">Grape Escape</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Fuga da Uva</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.KITCHEN_RETRO1.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.KITCHEN_RETRO1.DESC"
@@ -8717,127 +8740,127 @@ msgstr "Alguns clientes acham isso nostálgico."
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.KITCHEN_RETRO1.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.KITCHEN_RETRO1.NAME"
 msgid "<link=\"EXTERIORWALL\">Cafeteria Kitsch</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Cafetaria Kitsch</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.LEMON.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.LEMON.DESC"
 msgid "A bitter yet refreshing style."
-msgstr ""
+msgstr "Um estilo amargo, mas refrescante."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.LEMON.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.LEMON.NAME"
 msgid "<link=\"EXTERIORWALL\">Sour Lemon</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Limão Azedo</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.LIME.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.LIME.DESC"
 msgid "Contains no actual vitamin C."
-msgstr ""
+msgstr "Não contém vitamina C real."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.LIME.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.LIME.NAME"
 msgid "<link=\"EXTERIORWALL\">Juicy Lime</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Limão Suculento</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.MUSHBAR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.MUSHBAR.DESC"
 msgid "A gag-inducing wallpaper."
-msgstr ""
+msgstr "Um papel de parede que provoca piadas."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.MUSHBAR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.MUSHBAR.NAME"
 msgid "<link=\"EXTERIORWALL\">Mush Bar Print</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Impressão de Barra de Cogumelo</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.ORANGE_JUICE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.ORANGE_JUICE.DESC"
 msgid "If the liquids never hit the floor, is it really a spill?"
-msgstr ""
+msgstr "Se os líquidos nunca atingirem o chão, é realmente um derramamento?"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.ORANGE_JUICE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.ORANGE_JUICE.NAME"
 msgid "<link=\"EXTERIORWALL\">Infinite Spill</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Derramamento Infinito</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PAINT_BLOTS.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PAINT_BLOTS.DESC"
 msgid "There are no mistakes, only cheerful little splotches."
-msgstr ""
+msgstr "Não há erros, apenas pequenas manchas alegres."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PAINT_BLOTS.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PAINT_BLOTS.NAME"
 msgid "<link=\"EXTERIORWALL\">Happy Accidents</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Acidentes Felizes</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PASTELBLUE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PASTELBLUE.DESC"
 msgid "A soothing blue wallpaper."
-msgstr ""
+msgstr "Um papel de parede azul suave."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PASTELBLUE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PASTELBLUE.NAME"
 msgid "<link=\"EXTERIORWALL\">Pastel Blue</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Azul Pastel</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PASTELGREEN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PASTELGREEN.DESC"
 msgid "A soothing green wallpaper."
-msgstr ""
+msgstr "Um papel de parede verde suave."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PASTELGREEN.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PASTELGREEN.NAME"
 msgid "<link=\"EXTERIORWALL\">Pastel Green</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Verde Pastel</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PASTELPINK.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PASTELPINK.DESC"
 msgid "A soothing pink wallpaper."
-msgstr ""
+msgstr "Um papel de parede rosa suave."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PASTELPINK.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PASTELPINK.NAME"
 msgid "<link=\"EXTERIORWALL\">Pastel Pink</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Rosa Pastel</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PASTELPOLKA.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PASTELPOLKA.DESC"
 msgid "A soothing, dotted wallpaper."
-msgstr ""
+msgstr "Um papel de parede suave e pontilhado."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PASTELPOLKA.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PASTELPOLKA.NAME"
 msgid "<link=\"EXTERIORWALL\">Pastel Polka Print</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Estampa Polca Pastel</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PASTELPURPLE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PASTELPURPLE.DESC"
 msgid "A soothing purple wallpaper."
-msgstr ""
+msgstr "Um papel de parede roxo suave."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PASTELPURPLE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PASTELPURPLE.NAME"
 msgid "<link=\"EXTERIORWALL\">Pastel Purple</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Roxo Pastel</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PASTELYELLOW.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PASTELYELLOW.DESC"
 msgid "A soothing yellow wallpaper."
-msgstr ""
+msgstr "Um papel de parede amarelo suave."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PASTELYELLOW.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PASTELYELLOW.NAME"
 msgid "<link=\"EXTERIORWALL\">Pastel Yellow</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Amarelo Pastel</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLAID.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLAID.DESC"
 msgid "A cozy flannel wallpaper."
-msgstr ""
+msgstr "Um aconchegante papel de parede de flanela."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLAID.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLAID.NAME"
 msgid "<link=\"EXTERIORWALL\">Aqua Plaid Print</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Estampa Xadrez Aqua</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUNGER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUNGER.DESC"
@@ -8847,131 +8870,131 @@ msgstr "Desobstrui os impulsos criativos."
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUNGER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUNGER.NAME"
 msgid "<link=\"EXTERIORWALL\">Plunger Print</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Plunger Print</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_BLUE_COBALT_WHITE.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_BLUE_COBALT_WHITE.DESC"
 msgid "A pixelated blue-and-white print."
-msgstr ""
+msgstr "Uma impressão pixelizada em azul e branco."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_BLUE_COBALT_WHITE.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_BLUE_COBALT_WHITE.NAME"
 msgid "<link=\"EXTERIORWALL\">Digital Cobalt</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Cobalto Digital</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_GREEN_KELLY_WHITE.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_GREEN_KELLY_WHITE.DESC"
 msgid "A pixelated green-and-white print."
-msgstr ""
+msgstr "Uma impressão pixelizada em verde e branco."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_GREEN_KELLY_WHITE.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_GREEN_KELLY_WHITE.NAME"
 msgid "<link=\"EXTERIORWALL\">Digital Lawn</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Gramado Digital</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_GREY_CHARCOAL_WHITE.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_GREY_CHARCOAL_WHITE.DESC"
 msgid "It's futuristic, so it must be good."
-msgstr ""
+msgstr "É futurista, então deve ser bom."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_GREY_CHARCOAL_WHITE.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_GREY_CHARCOAL_WHITE.NAME"
 msgid "<link=\"EXTERIORWALL\">Digital Charcoal</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Carvão Digital</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_ORANGE_SATSUMA_WHITE.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_ORANGE_SATSUMA_WHITE.DESC"
 msgid "A pixelated orange-and-white print."
-msgstr ""
+msgstr "Uma impressão pixelizada em laranja e branco."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_ORANGE_SATSUMA_WHITE.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_ORANGE_SATSUMA_WHITE.NAME"
 msgid "<link=\"EXTERIORWALL\">Digital Satsuma</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Satsuma Digital</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_PINK_FLAMINGO_WHITE.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_PINK_FLAMINGO_WHITE.DESC"
 msgid "A pixelated pink-and-white print."
-msgstr ""
+msgstr "Uma impressão pixelizada em rosa e branco."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_PINK_FLAMINGO_WHITE.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_PINK_FLAMINGO_WHITE.NAME"
 msgid "<link=\"EXTERIORWALL\">Digital Pink</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Rosa digital</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_RED_DEEP_WHITE.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_RED_DEEP_WHITE.DESC"
 msgid "A pixelated red-and-white print."
-msgstr ""
+msgstr "Uma impressão pixelizada em vermelho e branco."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_RED_DEEP_WHITE.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_RED_DEEP_WHITE.NAME"
 msgid "<link=\"EXTERIORWALL\">Digital Chili</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Pimentão Digital</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_YELLOW_LEMON_WHITE.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_YELLOW_LEMON_WHITE.DESC"
 msgid "A pixelated yellow-and-white print."
-msgstr ""
+msgstr "Uma impressão pixelizada em amarelo e branco."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_YELLOW_LEMON_WHITE.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.PLUS_YELLOW_LEMON_WHITE.NAME"
 msgid "<link=\"EXTERIORWALL\">Digital Lemon</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Limão Digital</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.RAIN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.RAIN.DESC"
 msgid "A precipitation-themed wallpaper."
-msgstr ""
+msgstr "Um papel de parede com tema de precipitação."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.RAIN.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.RAIN.NAME"
 msgid "<link=\"EXTERIORWALL\">Rainy Print</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Impressão Chuvosa</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.RAINBOW.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.RAINBOW.DESC"
 msgid "A wallpaper with <i>all</i> the colors."
-msgstr ""
+msgstr "Um papel de parede com <i>todas</i> as cores."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.RAINBOW.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.RAINBOW.NAME"
 msgid "<link=\"EXTERIORWALL\">Rainbow Stripe</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Faixa Arco-íris</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SATSUMA.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SATSUMA.DESC"
 msgid "Adds some much-needed zest to the room."
-msgstr ""
+msgstr "Adiciona um toque muito necessário ao ambiente."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SATSUMA.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SATSUMA.NAME"
 msgid "<link=\"EXTERIORWALL\">Satsuma Slice</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Fatia de Satsuma</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SNOW.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SNOW.DESC"
 msgid "A wallpaper as unique as my colony."
-msgstr ""
+msgstr "Um papel de parede tão único quanto a minha colônia."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SNOW.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SNOW.NAME"
 msgid "<link=\"EXTERIORWALL\">Snowflake Print</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Impressão de Floco de Neve</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SQUARES_BLUE_COBALT_WHITE.DESC
 msgctxt ""
@@ -8983,61 +9006,61 @@ msgstr "Beba tudo!"
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SQUARES_BLUE_COBALT_WHITE.NAME"
 msgid "<link=\"EXTERIORWALL\">H2O Checkers</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Verificadores de H2O</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SQUARES_GREEN_KELLY_WHITE.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SQUARES_GREEN_KELLY_WHITE.DESC"
 msgid "Now with real simulated algae color!"
-msgstr ""
+msgstr "Agora com cor de algas simuladas reais!"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SQUARES_GREEN_KELLY_WHITE.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SQUARES_GREEN_KELLY_WHITE.NAME"
 msgid "<link=\"EXTERIORWALL\">Algae Checkers</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Verificadores de Algas</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SQUARES_GREY_CHARCOAL_WHITE.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SQUARES_GREY_CHARCOAL_WHITE."
 "DESC"
 msgid "So retro!"
-msgstr ""
+msgstr "Tão retrô!"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SQUARES_GREY_CHARCOAL_WHITE.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SQUARES_GREY_CHARCOAL_WHITE."
 "NAME"
 msgid "<link=\"EXTERIORWALL\">Charcoal Checkers</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Verificadores de Carvão</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SQUARES_ORANGE_SATSUMA_WHITE.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SQUARES_ORANGE_SATSUMA_WHITE."
 "DESC"
 msgid "Every tile feels like four tiles!"
-msgstr ""
+msgstr "Cada peça parece quatro peças!"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SQUARES_ORANGE_SATSUMA_WHITE.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SQUARES_ORANGE_SATSUMA_WHITE."
 "NAME"
 msgid "<link=\"EXTERIORWALL\">Bright Checkers</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Verificadores Brilhantes</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SQUARES_PINK_FLAMINGO_WHITE.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SQUARES_PINK_FLAMINGO_WHITE."
 "DESC"
 msgid "Fiercely fluorescent floral-inspired pink!"
-msgstr ""
+msgstr "Rosa fortemente fluorescente de inspiração floral!"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SQUARES_PINK_FLAMINGO_WHITE.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SQUARES_PINK_FLAMINGO_WHITE."
 "NAME"
 msgid "<link=\"EXTERIORWALL\">Petal Checkers</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Verificadores de Pétalas</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SQUARES_RED_DEEP_WHITE.DESC
 msgctxt ""
@@ -9049,53 +9072,53 @@ msgstr "Eles estão tão quentes agora!"
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SQUARES_RED_DEEP_WHITE.NAME"
 msgid "<link=\"EXTERIORWALL\">Magma Checkers</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Verificadores de Magma</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SQUARES_YELLOW_LEMON_WHITE.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SQUARES_YELLOW_LEMON_WHITE."
 "DESC"
 msgid "Any brighter, and they'd be radioactive!"
-msgstr ""
+msgstr "Se fossem mais brilhantes, seriam radioativos!"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SQUARES_YELLOW_LEMON_WHITE.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SQUARES_YELLOW_LEMON_WHITE."
 "NAME"
 msgid "<link=\"EXTERIORWALL\">Yellowcake Checkers</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Verificadores de Yellowcake</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRAWBERRY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRAWBERRY.DESC"
 msgid "Fruity freckles for naturally sweet spaces."
-msgstr ""
+msgstr "Sardas frutadas para espaços naturalmente doces."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRAWBERRY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRAWBERRY.NAME"
 msgid "<link=\"EXTERIORWALL\">Strawberry Speckle</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Mancha de Morango</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_BLUE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_BLUE.DESC"
 msgid "Thick stripes in alternating shades of blue."
-msgstr ""
+msgstr "Listras grossas em tons alternados de azul."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_BLUE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_BLUE.NAME"
 msgid "<link=\"EXTERIORWALL\">Blue Awning Stripe</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Faixa Azul para Toldo</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_CIRCLE_BLUE.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_CIRCLE_BLUE.DESC"
 msgid "A stripe that curves to the right."
-msgstr ""
+msgstr "Uma faixa que se curva para a direita."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_CIRCLE_BLUE.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_CIRCLE_BLUE.NAME"
 msgid "<link=\"EXTERIORWALL\">Blue Circle Stripe</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Faixa Circular Azul</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_CIRCLE_MUSH.DESC
 msgctxt ""
@@ -9103,12 +9126,14 @@ msgctxt ""
 msgid ""
 "This wallpaper, like this colony's journey, is full of twists and turns."
 msgstr ""
+"Este papel de parede, assim como a jornada desta colônia, é cheio de "
+"reviravoltas."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_CIRCLE_MUSH.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_CIRCLE_MUSH.NAME"
 msgid "<link=\"EXTERIORWALL\">Mush Curves</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Curvas de Papa</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_CIRCLE_PURPLE_BRAINFAT.DESC
 msgctxt ""
@@ -9117,13 +9142,15 @@ msgctxt ""
 msgid ""
 "This wallpaper, like this colony's journey, is full of twists and turns."
 msgstr ""
+"Este papel de parede, assim como a jornada desta colônia, é cheio de "
+"reviravoltas."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_CIRCLE_PURPLE_BRAINFAT.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES."
 "STRIPES_CIRCLE_PURPLE_BRAINFAT.NAME"
 msgid "<link=\"EXTERIORWALL\">Fainting Curves</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Curvas de Desmaio</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_CIRCLE_ROSE.DESC
 msgctxt ""
@@ -9132,12 +9159,14 @@ msgid ""
 "It's pronounced \"peeyoo-ss,\" a sound that Duplicants just can't seem to "
 "reproduce."
 msgstr ""
+"É pronunciado “peeyoo-ss”, um som que os Duplicantes simplesmente não "
+"conseguem reproduzir."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_CIRCLE_ROSE.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_CIRCLE_ROSE.NAME"
 msgid "<link=\"EXTERIORWALL\">Puce Curves</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Curvas Roxas</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_CIRCLE_YELLOW_TARTAR.DESC
 msgctxt ""
@@ -9146,141 +9175,146 @@ msgctxt ""
 msgid ""
 "This wallpaper, like this colony's journey, is full of twists and turns."
 msgstr ""
+"Este papel de parede, assim como a jornada desta colônia, é cheio de "
+"reviravoltas."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_CIRCLE_YELLOW_TARTAR.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_CIRCLE_YELLOW_TARTAR."
 "NAME"
 msgid "<link=\"EXTERIORWALL\">Ick Curves</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Curvas de Marcação</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_DIAGONAL_BLUE.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_DIAGONAL_BLUE.DESC"
 msgid "Inspired by the ties worn during intraoffice sports."
-msgstr ""
+msgstr "Inspirado nas gravatas usadas durante esportes intra-escritório."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_DIAGONAL_BLUE.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_DIAGONAL_BLUE.NAME"
 msgid "<link=\"EXTERIORWALL\">Blue Regimental Stripe</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Faixa Regimental Azul</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_DIAGONAL_MUSH.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_DIAGONAL_MUSH.DESC"
 msgid "Diagonal stripes in alternating shades of mush bar."
-msgstr ""
+msgstr "Listras diagonais em tons alternados de barra de cogumelo."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_DIAGONAL_MUSH.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_DIAGONAL_MUSH.NAME"
 msgid "<link=\"EXTERIORWALL\">Mush Diagonal</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Cogumelo Diagonal</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_DIAGONAL_PURPLE_BRAINFAT.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES."
 "STRIPES_DIAGONAL_PURPLE_BRAINFAT.DESC"
 msgid "Diagonal stripes in alternating shades of purple."
-msgstr ""
+msgstr "Listras diagonais em tons alternados de roxo."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_DIAGONAL_PURPLE_BRAINFAT.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES."
 "STRIPES_DIAGONAL_PURPLE_BRAINFAT.NAME"
 msgid "<link=\"EXTERIORWALL\">Fainting Diagonal</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Desmaio Diagonal</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_DIAGONAL_ROSE.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_DIAGONAL_ROSE.DESC"
 msgid "Some describe this color as \"squashed bug.\""
-msgstr ""
+msgstr "Alguns descrevem essa cor como “inseto esmagado”."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_DIAGONAL_ROSE.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_DIAGONAL_ROSE.NAME"
 msgid "<link=\"EXTERIORWALL\">Puce Diagonal</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Roxo Diagonal</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_DIAGONAL_YELLOW_TARTAR.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES."
 "STRIPES_DIAGONAL_YELLOW_TARTAR.DESC"
 msgid "Diagonal stripes in alternating shades of yellow."
-msgstr ""
+msgstr "Listras diagonais em tons alternados de amarelo."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_DIAGONAL_YELLOW_TARTAR.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES."
 "STRIPES_DIAGONAL_YELLOW_TARTAR.NAME"
 msgid "<link=\"EXTERIORWALL\">Ick Diagonal</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Marque Diagonal</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_MUSH.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_MUSH.DESC"
 msgid "The kind of green that makes one feel slightly nauseated."
-msgstr ""
+msgstr "O tipo de verde que dá uma sensação de enjoo."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_MUSH.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_MUSH.NAME"
 msgid "<link=\"EXTERIORWALL\">Mush Stripe</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Faixa de Cogumelo</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_PURPLE_BRAINFAT.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_PURPLE_BRAINFAT.DESC"
 msgid "Vertical stripes make it quite obvious when nearby objects are askew."
 msgstr ""
+"Listras verticais tornam bastante óbvio quando objetos próximos estão tortos."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_PURPLE_BRAINFAT.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_PURPLE_BRAINFAT.NAME"
 msgid "<link=\"EXTERIORWALL\">Fainting Stripe</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Faixa de Desmaio</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_ROSE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_ROSE.DESC"
 msgid "Vertical stripes make it quite obvious when nearby objects are askew."
 msgstr ""
+"Listras verticais tornam bastante óbvio quando objetos próximos estão tortos."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_ROSE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_ROSE.NAME"
 msgid "<link=\"EXTERIORWALL\">Puce Stripe</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Faixa Roxa</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_YELLOW_TARTAR.DESC
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_YELLOW_TARTAR.DESC"
 msgid "Vertical stripes make it quite obvious when nearby objects are askew."
 msgstr ""
+"Listras verticais tornam bastante óbvio quando objetos próximos estão tortos."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_YELLOW_TARTAR.NAME
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.STRIPES_YELLOW_TARTAR.NAME"
 msgid "<link=\"EXTERIORWALL\">Ick Stripe</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Faixa Ick</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SUN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SUN.DESC"
 msgid "A UV-free wallpaper."
-msgstr ""
+msgstr "Um papel de parede sem UV."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SUN.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.SUN.NAME"
 msgid "<link=\"EXTERIORWALL\">Sunshine Print</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Estampa Luz do Sol</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.TELESCOPE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.TELESCOPE.DESC"
 msgid "The perfect wallpaper for skygazers."
-msgstr ""
+msgstr "O papel de parede perfeito para observadores do céu."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.TELESCOPE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.TELESCOPE.NAME"
 msgid "<link=\"EXTERIORWALL\">Telescope Print</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Impressão do Telescópio</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.TICTACTOE_O.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.TICTACTOE_O.DESC"
@@ -9288,11 +9322,13 @@ msgid ""
 "A crisp black 'O' on a clean white background. Ideal for monochromatic games "
 "rooms."
 msgstr ""
+"Um preto nítido de \"O\" sobre um fundo branco limpo. Ideal para salas de "
+"jogos monocromáticas."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.TICTACTOE_O.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.TICTACTOE_O.NAME"
 msgid "<link=\"EXTERIORWALL\">TicTacToe O</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Jogo da Velha O</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.TICTACTOE_X.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.TICTACTOE_X.DESC"
@@ -9300,46 +9336,48 @@ msgid ""
 "A crisp black 'X' on a clean white background. Ideal for monochromatic games "
 "rooms."
 msgstr ""
+"Um preto nítido de \"X\" sobre um fundo branco limpo. Ideal para salas de "
+"jogos monocromáticas."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.TICTACTOE_X.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.TICTACTOE_X.NAME"
 msgid "<link=\"EXTERIORWALL\">TicTacToe X</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Jogo da Velha X</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.TOILETPAPER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.TOILETPAPER.DESC"
 msgid "Softly undulating lines create an undeniable air of loo-xury."
-msgstr ""
+msgstr "Linhas suavemente onduladas criam um inegável ar de loucura."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.TOILETPAPER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.TOILETPAPER.NAME"
 msgid "<link=\"EXTERIORWALL\">De-loo-xe</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">De-luu-xo</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.TROPICAL.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.TROPICAL.DESC"
 msgid "The original scratch-and-sniff version was immediately recalled."
-msgstr ""
+msgstr "A versão original de raspar e cheirar foi imediatamente recuperada."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.TROPICAL.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.TROPICAL.NAME"
 msgid "<link=\"EXTERIORWALL\">Sporechid Print</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Impressão de Esporéquide</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.WATERMELON.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.WATERMELON.DESC"
 msgid "Far more practical than gluing real fruit on a wall."
-msgstr ""
+msgstr "Muito mais prático do que colar frutas de verdade na parede."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.WATERMELON.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.WATERMELON.NAME"
 msgid "<link=\"EXTERIORWALL\">Juicy Watermelon</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Melancia Suculenta</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.NAME"
 msgid "<link=\"EXTERIORWALL\">Drywall</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Placa de Gesso</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FACILITYBACKWALLWINDOW.DESC
 #| msgid ""
@@ -9360,7 +9398,7 @@ msgstr "Janela"
 #. STRINGS.BUILDINGS.PREFABS.FARMSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FARMSTATION.DESC"
 msgid "This station only has an effect on crops grown within the same room."
-msgstr ""
+msgstr "Esta estação só tem efeito nas culturas cultivadas na mesma sala."
 
 #. STRINGS.BUILDINGS.PREFABS.FARMSTATION.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FARMSTATION.EFFECT"
@@ -9373,11 +9411,18 @@ msgid ""
 "\n"
 "This building is a necessary component of the Greenhouse room."
 msgstr ""
+"Produz <link=\"FARMSTATIONTOOLS\">Fertilizante de Micronutrientes</link> "
+"para aumentar as taxas de crescimento das <link=\"PLANTS\">Plantas</link>.\n"
+"\n"
+"Os Duplicantes atribuídos devem possuir a característica "
+"<link=\"FARMING2\">Cuidador de Plantas</link>.\n"
+"\n"
+"Esta construção é um componente necessário da estufa."
 
 #. STRINGS.BUILDINGS.PREFABS.FARMSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FARMSTATION.NAME"
 msgid "<link=\"FARMSTATION\">Farm Station</link>"
-msgstr ""
+msgstr "<link=\"FARMSTATION\">Estação Agrícola</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FARMTILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FARMTILE.DESC"
@@ -9385,6 +9430,8 @@ msgid ""
 "Duplicants can deliver fertilizer and liquids to farm tiles, accelerating "
 "plant growth."
 msgstr ""
+"Os Duplicantes podem fornecer fertilizantes e líquidos às plantações, "
+"acelerando o crescimento das plantas."
 
 #. STRINGS.BUILDINGS.PREFABS.FARMTILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FARMTILE.EFFECT"
@@ -9394,11 +9441,15 @@ msgid ""
 "\n"
 "Can be used as floor tile and rotated before construction."
 msgstr ""
+"Cultiva uma <link=\"PLANTS\">Planta</link> a partir de uma "
+"<link=\"PLANTS\">Semente</link>.\n"
+"\n"
+"Pode ser usado como piso e girado antes da construção."
 
 #. STRINGS.BUILDINGS.PREFABS.FARMTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FARMTILE.NAME"
 msgid "<link=\"FARMTILE\">Farm Tile</link>"
-msgstr ""
+msgstr "<link=\"FARMTILE\">Bloco Agrícola</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.DESC"
@@ -9406,6 +9457,8 @@ msgid ""
 "Fertilizer synthesizers convert polluted dirt into fertilizer for domestic "
 "plants."
 msgstr ""
+"Os sintetizadores de fertilizantes convertem sujeira poluída em fertilizante "
+"para plantas domésticas."
 
 #. STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.EFFECT"
@@ -9434,11 +9487,14 @@ msgid ""
 "\n"
 "Significantly slows upward climbing."
 msgstr ""
+"Permite descida rápida do Duplicante.\n"
+"\n"
+"Retarda significativamente a subida."
 
 #. STRINGS.BUILDINGS.PREFABS.FIREPOLE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FIREPOLE.NAME"
 msgid "<link=\"FIREPOLE\">Fire Pole</link>"
-msgstr ""
+msgstr "<link=\"FIREPOLE\">Poste de Fogo</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FISHDELIVERYPOINT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FISHDELIVERYPOINT.DESC"
@@ -9477,7 +9533,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.FISHFEEDER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FISHFEEDER.NAME"
 msgid "<link=\"FISHFEEDER\">Fish Feeder</link>"
-msgstr ""
+msgstr "<link=\"FISHFEEDER\">Alimentador de Peixes</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FISHTRAP.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FISHTRAP.DESC"
@@ -9798,7 +9854,7 @@ msgstr "Facilita a exibição vertical das plantas."
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.DEFAULT_FLOWERVASEWALL.NAME"
 msgid "<link=\"FLOWERVASEWALL\">Wall Pot</link>"
-msgstr ""
+msgstr "<link=\"FLOWERVASEWALL\">Pote de Parede</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_BLUE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.FACADES.RETRO_BLUE.DESC"
@@ -9853,7 +9909,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASEWALL.NAME"
 msgid "<link=\"FLOWERVASEWALL\">Wall Pot</link>"
-msgstr ""
+msgstr "<link=\"FLOWERVASEWALL\">Pote de Parede</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.DESC"
@@ -9955,6 +10011,8 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.YELLOW_TARTAR.DESC"
 msgid ""
 "Someone thought it'd be a good idea to have the outside match the inside."
 msgstr ""
+"Alguém achou que seria uma boa ideia fazer com que o exterior combinasse com "
+"o interior."
 
 #. STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.YELLOW_TARTAR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.FACADES.YELLOW_TARTAR.NAME"
@@ -10066,12 +10124,12 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.FOSSILDIG_COMPLETED.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.FOSSILDIG_COMPLETED.NAME"
 msgid "Fossil Quarry"
-msgstr ""
+msgstr "Pedreira de Fósseis"
 
 #. STRINGS.BUILDINGS.PREFABS.GAMMARAYOVEN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GAMMARAYOVEN.DESC"
 msgid "Nuke your food."
-msgstr ""
+msgstr "Destrua sua comida."
 
 #. STRINGS.BUILDINGS.PREFABS.GAMMARAYOVEN.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GAMMARAYOVEN.EFFECT"
@@ -10080,16 +10138,21 @@ msgid ""
 "\n"
 "Duplicants will not fabricate items unless recipes are queued."
 msgstr ""
+"Cozinha uma variedade de <link=\"FOOD\">Alimentos</link>.\n"
+"\n"
+"Duplicantes não fabricarão itens a menos que as receitas estejam na fila."
 
 #. STRINGS.BUILDINGS.PREFABS.GAMMARAYOVEN.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GAMMARAYOVEN.NAME"
 msgid "<link=\"GAMMARAYOVEN\">Gamma Ray Oven</link>"
-msgstr ""
+msgstr "<link=\"GAMMARAY OVEN\">Forno de Raios Gama</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GANTRY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GANTRY.DESC"
 msgid "A gantry can be built over rocket pieces where ladders and tile cannot."
 msgstr ""
+"Um pórtico pode ser construído sobre peças de foguete, onde escadas e "
+"ladrilhos não podem."
 
 #. STRINGS.BUILDINGS.PREFABS.GANTRY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GANTRY.EFFECT"
@@ -10219,11 +10282,15 @@ msgid ""
 "\n"
 "Can be run through wall and floor tile."
 msgstr ""
+"Transporta <link=\"ELEMENTSGAS\">Gás</link> entre "
+"<link=\"GASPIPING\">Saídas</link> e <link=\"GASPIPING\">Entradas</link>.\n"
+"\n"
+"Pode ser aplicado em paredes e pisos."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUIT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUIT.NAME"
 msgid "<link=\"GASCONDUIT\">Gas Pipe</link>"
-msgstr ""
+msgstr "<link=\"GASCONDUIT\">Tubulação de Gás</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUITBRIDGE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITBRIDGE.DESC"
@@ -10468,7 +10535,7 @@ msgstr "Limite Atingido"
 #. STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.LOGIC_PORT_RESET
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.LOGIC_PORT_RESET"
 msgid "Reset Meter"
-msgstr ""
+msgstr "Redefinir Medidor"
 
 #. STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASLIMITVALVE.NAME"
@@ -10604,7 +10671,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.BLUE_BABYTEARS.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.BLUE_BABYTEARS.DESC"
 msgid "A colorful reservoir keeps gases neatly organized."
-msgstr ""
+msgstr "Um reservatório colorido mantém os gases bem organizados."
 
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.BLUE_BABYTEARS.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.BLUE_BABYTEARS.NAME"
@@ -10626,7 +10693,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.GREEN_MUSH.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.GREEN_MUSH.DESC"
 msgid "A colorful reservoir keeps gases neatly organized."
-msgstr ""
+msgstr "Um reservatório colorido mantém os gases bem organizados."
 
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.GREEN_MUSH.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.GREEN_MUSH.NAME"
@@ -10636,7 +10703,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.LIGHTCOBALT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.LIGHTCOBALT.DESC"
 msgid "A colorful reservoir keeps gases neatly organized."
-msgstr ""
+msgstr "Um reservatório colorido mantém os gases bem organizados."
 
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.LIGHTCOBALT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.LIGHTCOBALT.NAME"
@@ -10646,7 +10713,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.LIGHTGOLD.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.LIGHTGOLD.DESC"
 msgid "A colorful reservoir keeps gases neatly organized."
-msgstr ""
+msgstr "Um reservatório colorido mantém os gases bem organizados."
 
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.LIGHTGOLD.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.LIGHTGOLD.NAME"
@@ -10656,7 +10723,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.PEAGREEN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.PEAGREEN.DESC"
 msgid "A colorful reservoir keeps gases neatly organized."
-msgstr ""
+msgstr "Um reservatório colorido mantém os gases bem organizados."
 
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.PEAGREEN.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.PEAGREEN.NAME"
@@ -10667,7 +10734,7 @@ msgstr ""
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.POLKA_DARKNAVYNOOKGREEN.DESC"
 msgid "Safe gas storage doesn't have to be dull."
-msgstr ""
+msgstr "O armazenamento seguro de gás não precisa ser monótono."
 
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.POLKA_DARKNAVYNOOKGREEN.NAME
 msgctxt ""
@@ -10679,7 +10746,7 @@ msgstr ""
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.POLKA_DARKPURPLERESIN.DESC"
 msgid "It sports the cheeriest of paint jobs. What a gas!"
-msgstr ""
+msgstr "Ele ostenta as pinturas mais alegres. Que gás!"
 
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.POLKA_DARKPURPLERESIN.NAME
 msgctxt ""
@@ -10690,7 +10757,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.PURPLE_BRAINFAT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.PURPLE_BRAINFAT.DESC"
 msgid "A colorful reservoir keeps gases neatly organized."
-msgstr ""
+msgstr "Um reservatório colorido mantém os gases bem organizados."
 
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.PURPLE_BRAINFAT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.PURPLE_BRAINFAT.NAME"
@@ -10700,7 +10767,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.RED_ROSE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.RED_ROSE.DESC"
 msgid "A colorful reservoir keeps gases neatly organized."
-msgstr ""
+msgstr "Um reservatório colorido mantém os gases bem organizados."
 
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.RED_ROSE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.RED_ROSE.NAME"
@@ -10710,7 +10777,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.YELLOW_TARTAR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.YELLOW_TARTAR.DESC"
 msgid "A colorful reservoir keeps gases neatly organized."
-msgstr ""
+msgstr "Um reservatório colorido mantém os gases bem organizados."
 
 #. STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.YELLOW_TARTAR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASRESERVOIR.FACADES.YELLOW_TARTAR.NAME"
@@ -10744,6 +10811,7 @@ msgstr ""
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVENT.DESC"
 msgid "Vents are an exit point for gases from ventilation systems."
 msgstr ""
+"As aberturas são um ponto de saída para gases dos sistemas de ventilação."
 
 #. STRINGS.BUILDINGS.PREFABS.GASVENT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVENT.EFFECT"
@@ -10755,7 +10823,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GASVENT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVENT.NAME"
 msgid "<link=\"GASVENT\">Gas Vent</link>"
-msgstr ""
+msgstr "<link=\"GASVENT\">Ventilação de Gás</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASVENTHIGHPRESSURE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASVENTHIGHPRESSURE.DESC"
@@ -10799,7 +10867,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GENERATOR.OVERPRODUCTION
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENERATOR.OVERPRODUCTION"
 msgid "{Generator} overproduction"
-msgstr ""
+msgstr "Superprodução do {Generator}"
 
 #. STRINGS.BUILDINGS.PREFABS.GENERICFABRICATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENERICFABRICATOR.DESC"
@@ -10909,7 +10977,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GLASSFORGE.RECIPE_DESCRIPTION
 msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSFORGE.RECIPE_DESCRIPTION"
 msgid "Extracts pure {0} from {1}."
-msgstr ""
+msgstr "Extrai {0} puro de {1}."
 
 #. STRINGS.BUILDINGS.PREFABS.GLASSTILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSTILE.DESC"
@@ -10984,11 +11052,14 @@ msgid ""
 "\n"
 "It contains ultra-soft sleepwear."
 msgstr ""
+"Uma unidade de armazenamento de roupas.\n"
+"\n"
+"Contém roupas de dormir ultra macias."
 
 #. STRINGS.BUILDINGS.PREFABS.GRAVITASCONTAINER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVITASCONTAINER.NAME"
 msgid "Pajama Cubby"
-msgstr ""
+msgstr "Cubículo de Pijama"
 
 #. STRINGS.BUILDINGS.PREFABS.GRAVITASCREATUREMANIPULATOR.DESC
 #| msgid ""
@@ -11019,12 +11090,12 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GRAVITASDOOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVITASDOOR.EFFECT"
 msgid "An office door to an office that no longer exists."
-msgstr ""
+msgstr "Uma porta de escritório para um escritório que não existe mais."
 
 #. STRINGS.BUILDINGS.PREFABS.GRAVITASDOOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVITASDOOR.NAME"
 msgid "Gravitas Door"
-msgstr ""
+msgstr "Porta Gravitas"
 
 #. STRINGS.BUILDINGS.PREFABS.GRAVITASLABLIGHT.DESC
 #| msgid ""
@@ -11035,7 +11106,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GRAVITASLABLIGHT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVITASLABLIGHT.EFFECT"
 msgid "An overhead light therapy lamp designed to soothe the minds."
-msgstr ""
+msgstr "Uma lâmpada de terapia de luz projetada para acalmar as mentes."
 
 #. STRINGS.BUILDINGS.PREFABS.GRAVITASLABLIGHT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVITASLABLIGHT.NAME"
@@ -11047,6 +11118,8 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVITASPEDESTAL.DESC"
 msgid ""
 "Perception can be drastically changed by a bit of thoughtful presentation."
 msgstr ""
+"A percepção pode ser drasticamente alterada por meio de uma apresentação "
+"cuidadosa."
 
 #. STRINGS.BUILDINGS.PREFABS.GRAVITASPEDESTAL.DISPLAYED_ITEM_FMT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVITASPEDESTAL.DISPLAYED_ITEM_FMT"
@@ -11558,12 +11631,12 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.AVERAGEQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.AVERAGEQUALITYNAME"
 msgid "Mediocre Ice Sculpture"
-msgstr ""
+msgstr "Escultura de Gelo Medíocre"
 
 #. STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.DESC"
 msgid "Prone to melting."
-msgstr ""
+msgstr "Propenso a derreter."
 
 #. STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ICESCULPTURE.EFFECT"
@@ -11724,6 +11797,8 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.ITEMPEDESTAL.DESC"
 msgid ""
 "Perception can be drastically changed by a bit of thoughtful presentation."
 msgstr ""
+"A percepção pode ser drasticamente alterada por meio de uma apresentação "
+"cuidadosa."
 
 #. STRINGS.BUILDINGS.PREFABS.ITEMPEDESTAL.DISPLAYED_ITEM_FMT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ITEMPEDESTAL.DISPLAYED_ITEM_FMT"
@@ -11744,6 +11819,8 @@ msgctxt ""
 msgid ""
 "Perception can be drastically changed by a bit of thoughtful presentation."
 msgstr ""
+"A percepção pode ser drasticamente alterada por meio de uma apresentação "
+"cuidadosa."
 
 #. STRINGS.BUILDINGS.PREFABS.ITEMPEDESTAL.FACADES.DEFAULT_ITEMPEDESTAL.NAME
 msgctxt ""
@@ -11910,6 +11987,7 @@ msgstr ""
 msgctxt "STRINGS.BUILDINGS.PREFABS.KILN.DESC"
 msgid "Kilns can also be used to refine coal into pure carbon."
 msgstr ""
+"Os fornos também podem ser usados para refinar o carvão em carbono puro."
 
 #. STRINGS.BUILDINGS.PREFABS.KILN.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.KILN.EFFECT"
@@ -11919,32 +11997,37 @@ msgid ""
 "\n"
 "Duplicants will not fabricate items unless recipes are queued."
 msgstr ""
+"Queima <link=\"CLAY\">Argila</link> para produzir "
+"<link=\"CERAMIC\">Cerâmica</link>.\n"
+"\n"
+"Duplicantes não fabricarão itens a menos que as receitas estejam na fila."
 
 #. STRINGS.BUILDINGS.PREFABS.KILN.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.KILN.NAME"
 msgid "<link=\"KILN\">Kiln</link>"
-msgstr ""
+msgstr "<link=\"KILN\">Forno</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LADDER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LADDER.DESC"
 msgid "(That means they climb it.)"
-msgstr ""
+msgstr "(Isso significa que eles escalam.)"
 
 #. STRINGS.BUILDINGS.PREFABS.LADDER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LADDER.EFFECT"
 msgid "Enables vertical mobility for Duplicants."
-msgstr ""
+msgstr "Permite mobilidade vertical para Duplicantes."
 
 #. STRINGS.BUILDINGS.PREFABS.LADDER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LADDER.NAME"
 msgid "<link=\"LADDER\">Ladder</link>"
-msgstr ""
+msgstr "<link=\"LADDER\">Escada</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LADDERBED.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LADDERBED.DESC"
 msgid ""
 "Duplicant's sleep will be interrupted if another Duplicant uses the ladder."
 msgstr ""
+"O sono do Duplicante será interrompido se outro Duplicante usar a escada."
 
 #. STRINGS.BUILDINGS.PREFABS.LADDERBED.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LADDERBED.EFFECT"
@@ -11953,11 +12036,15 @@ msgid ""
 "\n"
 "Duplicants will automatically sleep in their assigned beds at night."
 msgstr ""
+"Fornece uma área de dormir para um Duplicante e também funciona como uma "
+"escada.\n"
+"\n"
+"Os duplicantes dormirão automaticamente nas camas designadas à noite."
 
 #. STRINGS.BUILDINGS.PREFABS.LADDERBED.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LADDERBED.NAME"
 msgid "<link=\"LADDERBED\">Ladder Bed</link>"
-msgstr ""
+msgstr "<link=\"LADDERBED\">Cama-Escada</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LADDERFAST.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LADDERFAST.DESC"
@@ -11965,21 +12052,23 @@ msgid ""
 "Plastic ladders are mildly antiseptic and can help limit the spread of germs "
 "in a colony."
 msgstr ""
+"As escadas de plástico são levemente anti-sépticas e podem ajudar a limitar "
+"a propagação de germes em uma colônia."
 
 #. STRINGS.BUILDINGS.PREFABS.LADDERFAST.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LADDERFAST.EFFECT"
 msgid "Increases Duplicant climbing speed."
-msgstr ""
+msgstr "Aumenta a velocidade de escalada do Duplicante."
 
 #. STRINGS.BUILDINGS.PREFABS.LADDERFAST.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LADDERFAST.NAME"
 msgid "<link=\"LADDERFAST\">Plastic Ladder</link>"
-msgstr ""
+msgstr "<link=\"LADDERFAST\">Escada de Plástico</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LANDING_POD.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LANDING_POD.DESC"
 msgid "Geronimo!"
-msgstr ""
+msgstr "Gerônimo!"
 
 #. STRINGS.BUILDINGS.PREFABS.LANDING_POD.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LANDING_POD.EFFECT"
@@ -11988,6 +12077,9 @@ msgid ""
 "\n"
 "Pod will disintegrate on arrival."
 msgstr ""
+"Contém um Duplicante implantado em órbita.\n"
+"\n"
+"O pod se desintegrará na chegada."
 
 #. STRINGS.BUILDINGS.PREFABS.LANDING_POD.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LANDING_POD.NAME"
@@ -12045,11 +12137,13 @@ msgid ""
 "Sends a Green Signal when its rocket is on the <link=\"LAUNCHPAD\">Rocket "
 "Platform</link>"
 msgstr ""
+"Envia um Sinal Verde quando seu foguete está na "
+"<link=\"LAUNCHPAD\">Plataforma de Foguetes</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.LOGIC_PORT_LANDED_ROCKET_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.LOGIC_PORT_LANDED_ROCKET_INACTIVE"
 msgid "Otherwise, sends a Red Signal"
-msgstr ""
+msgstr "Caso contrário, envia um sinal vermelho"
 
 #. STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.LOGIC_PORT_LAUNCH
 msgctxt "STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.LOGIC_PORT_LAUNCH"
@@ -12069,7 +12163,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.LOGIC_PORT_READY
 msgctxt "STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.LOGIC_PORT_READY"
 msgid "Rocket Checklist"
-msgstr ""
+msgstr "Lista de Verificação de Foguete"
 
 #. STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.LOGIC_PORT_READY_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.LOGIC_PORT_READY_ACTIVE"
@@ -12079,12 +12173,12 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.LOGIC_PORT_READY_INACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.LOGIC_PORT_READY_INACTIVE"
 msgid "Otherwise, sends a Red Signal"
-msgstr ""
+msgstr "Caso contrário, envia um sinal vermelho"
 
 #. STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LAUNCHPAD.NAME"
 msgid "<link=\"LAUNCHPAD\">Rocket Platform</link>"
-msgstr ""
+msgstr "<link=\"LAUNCHPAD\">Plataforma de Foguete</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LEADSUITLOCKER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LEADSUITLOCKER.DESC"
@@ -12556,7 +12650,7 @@ msgstr "Limite Atingido"
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDLIMITVALVE.LOGIC_PORT_RESET
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDLIMITVALVE.LOGIC_PORT_RESET"
 msgid "Reset Meter"
-msgstr ""
+msgstr "Redefinir Medidor"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDLIMITVALVE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDLIMITVALVE.NAME"
@@ -12732,7 +12826,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDVENT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDVENT.NAME"
 msgid "<link=\"LIQUIDVENT\">Liquid Vent</link>"
-msgstr ""
+msgstr "<link=\"LIQUIDVENT\">Ventilação de Líquido</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICALARM.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICALARM.DESC"
@@ -12848,7 +12942,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LOGICCOUNTER.LOGIC_PORT_OUTPUT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICCOUNTER.LOGIC_PORT_OUTPUT"
 msgid "Number Reached"
-msgstr ""
+msgstr "Número Alcançado"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICCOUNTER.LOGIC_PORT_RESET
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICCOUNTER.LOGIC_PORT_RESET"
@@ -13310,7 +13404,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATENOT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATENOT.NAME"
 msgid "<link=\"LOGICGATENOT\">NOT Gate</link>"
-msgstr ""
+msgstr "<link=\"LOGICGATENOT\">Porta NÃO</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATENOT.OUTPUT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATENOT.OUTPUT_ACTIVE"
@@ -13351,7 +13445,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEOR.NAME"
 msgid "<link=\"LOGICGATEOR\">OR Gate</link>"
-msgstr ""
+msgstr "<link=\"LOGICGATEOR\">Porta OR</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEOR.OUTPUT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEOR.OUTPUT_ACTIVE"
@@ -13392,7 +13486,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEXOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEXOR.NAME"
 msgid "<link=\"LOGICGATEXOR\">XOR Gate</link>"
-msgstr ""
+msgstr "<link=\"LOGICGATEXOR\">Porta XOR</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICGATEXOR.OUTPUT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICGATEXOR.OUTPUT_ACTIVE"
@@ -13536,7 +13630,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDSENDER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDSENDER.DESC"
 msgid "Sends automation signals into space."
-msgstr ""
+msgstr "Envia sinais de automação para o espaço."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDSENDER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICINTERASTEROIDSENDER.EFFECT"
@@ -13577,6 +13671,8 @@ msgid ""
 "Light sensors can tell surface bunker doors above solar panels to open or "
 "close based on solar light levels."
 msgstr ""
+"Sensores de luz podem dizer às portas do bunker de superfície acima dos "
+"painéis solares para abrir ou fechar com base nos níveis de luz solar."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICLIGHTSENSOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICLIGHTSENSOR.EFFECT"
@@ -13692,7 +13788,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LOGICMEMORY.STATUS_ITEM_VALUE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICMEMORY.STATUS_ITEM_VALUE"
 msgid "Current Value: {0}"
-msgstr ""
+msgstr "Valor Atual: {0}"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICPOWERRELAY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICPOWERRELAY.DESC"
@@ -14113,7 +14209,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LOGICTEMPERATURESENSOR.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICTEMPERATURESENSOR.LOGIC_PORT"
 msgid "Ambient <link=\"HEAT\">Temperature</link>"
-msgstr ""
+msgstr "<link=\"HEAT\">Temperatura</link> Ambiente"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICTEMPERATURESENSOR.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICTEMPERATURESENSOR.LOGIC_PORT_ACTIVE"
@@ -14138,6 +14234,8 @@ msgid ""
 "Cycle sensors ensure systems always turn on at the same time, day or night, "
 "every cycle."
 msgstr ""
+"Os sensores de ciclo garantem que os sistemas sempre liguem no mesmo "
+"horário, dia ou noite, em cada ciclo."
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICTIMEOFDAYSENSOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICTIMEOFDAYSENSOR.EFFECT"
@@ -14150,7 +14248,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LOGICTIMEOFDAYSENSOR.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICTIMEOFDAYSENSOR.LOGIC_PORT"
 msgid "Cycle Time"
-msgstr ""
+msgstr "Tempo de Ciclo"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGICTIMEOFDAYSENSOR.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGICTIMEOFDAYSENSOR.LOGIC_PORT_ACTIVE"
@@ -14942,7 +15040,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.METALREFINERY.RECIPE_DESCRIPTION
 msgctxt "STRINGS.BUILDINGS.PREFABS.METALREFINERY.RECIPE_DESCRIPTION"
 msgid "Extracts pure {0} from {1}."
-msgstr ""
+msgstr "Extrai {0} puro de {1}."
 
 #. STRINGS.BUILDINGS.PREFABS.METALSCULPTURE.AVERAGEQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.METALSCULPTURE.AVERAGEQUALITYNAME"
@@ -15092,6 +15190,9 @@ msgid ""
 "\n"
 "Significantly increases Duplicant runspeed."
 msgstr ""
+"Usado para construir paredes e pisos de quartos.\n"
+"\n"
+"Aumenta significativamente a velocidade de execução do Duplicante."
 
 #. STRINGS.BUILDINGS.PREFABS.METALTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.METALTILE.NAME"
@@ -15192,7 +15293,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.YELLOW_TARTAR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.YELLOW_TARTAR.DESC"
 msgid "Makes meals that are memorable for all the wrong reasons."
-msgstr ""
+msgstr "Faz refeições memoráveis pelos motivos errados."
 
 #. STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.YELLOW_TARTAR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.FACADES.YELLOW_TARTAR.NAME"
@@ -16352,7 +16453,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.DEFAULT_PLANTERBOX.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.DEFAULT_PLANTERBOX.NAME"
 msgid "<link=\"PLANTERBOX\">Planter Box</link>"
-msgstr ""
+msgstr "<link=\"PLANTERBOX\">Caixa de Plantação</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.MEALWOOD.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.MEALWOOD.DESC"
@@ -16387,7 +16488,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.WHEEZEWORT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.WHEEZEWORT.DESC"
 msgid "For the dreamy agriculturalist."
-msgstr ""
+msgstr "Para o agricultor sonhador."
 
 #. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.WHEEZEWORT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.FACADES.WHEEZEWORT.NAME"
@@ -16397,7 +16498,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.PLANTERBOX.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLANTERBOX.NAME"
 msgid "<link=\"PLANTERBOX\">Planter Box</link>"
-msgstr ""
+msgstr "<link=\"PLANTERBOX\">Caixa de Plantação</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.PLASTICTILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLASTICTILE.DESC"
@@ -16413,11 +16514,14 @@ msgid ""
 "\n"
 "Significantly increases Duplicant runspeed."
 msgstr ""
+"Usado para construir paredes e pisos de quartos.\n"
+"\n"
+"Aumenta significativamente a velocidade de execução do Duplicante."
 
 #. STRINGS.BUILDINGS.PREFABS.PLASTICTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLASTICTILE.NAME"
 msgid "<link=\"PLASTICTILE\">Plastic Tile</link>"
-msgstr ""
+msgstr "<link=\"PLASTICTILE\">Bloco de Plástico</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.POIBUNKEREXTERIORDOOR.DESC
 #| msgid ""
@@ -16428,7 +16532,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.POIBUNKEREXTERIORDOOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.POIBUNKEREXTERIORDOOR.EFFECT"
 msgid "A strong door with a sophisticated genetic lock."
-msgstr ""
+msgstr "Uma porta forte com uma fechadura genética sofisticada."
 
 #. STRINGS.BUILDINGS.PREFABS.POIBUNKEREXTERIORDOOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.POIBUNKEREXTERIORDOOR.NAME"
@@ -16444,7 +16548,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.POIDOORINTERNAL.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.POIDOORINTERNAL.EFFECT"
 msgid "A strong door with a sophisticated genetic lock."
-msgstr ""
+msgstr "Uma porta forte com uma fechadura genética sofisticada."
 
 #. STRINGS.BUILDINGS.PREFABS.POIDOORINTERNAL.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.POIDOORINTERNAL.NAME"
@@ -16466,12 +16570,12 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.POIFACILITYDOOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.POIFACILITYDOOR.NAME"
 msgid "Lobby Doors"
-msgstr ""
+msgstr "Portas do Salão Principal"
 
 #. STRINGS.BUILDINGS.PREFABS.POLYMERIZER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.POLYMERIZER.DESC"
 msgid "Plastic can be used to craft unique buildings and goods."
-msgstr ""
+msgstr "O plástico pode ser usado para criar construções e bens exclusivos."
 
 #. STRINGS.BUILDINGS.PREFABS.POLYMERIZER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.POLYMERIZER.EFFECT"
@@ -17417,7 +17521,7 @@ msgstr ""
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.DEFAULT_REFRIGERATOR.NAME"
 msgid "<link=\"REFRIGERATOR\">Refrigerator</link>"
-msgstr ""
+msgstr "<link=\"REFRIGERADOR\">Geladeira</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.GREEN_MUSH.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.GREEN_MUSH.DESC"
@@ -17452,7 +17556,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.STRIPES_RED_WHITE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.STRIPES_RED_WHITE.DESC"
 msgid "Bold on the outside, cold on the inside!"
-msgstr ""
+msgstr "Ousado por fora, frio por dentro!"
 
 #. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.STRIPES_RED_WHITE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.FACADES.STRIPES_RED_WHITE.NAME"
@@ -17474,7 +17578,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.LOGIC_PORT"
 msgid "Full/Not Full"
-msgstr ""
+msgstr "Cheio/Não Cheio"
 
 #. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.LOGIC_PORT_ACTIVE"
@@ -17489,12 +17593,14 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.REFRIGERATOR.NAME"
 msgid "<link=\"REFRIGERATOR\">Refrigerator</link>"
-msgstr ""
+msgstr "<link=\"REFRIGERADOR\">Geladeira</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.DESC"
 msgid "Research stations are necessary for unlocking all research tiers."
 msgstr ""
+"As estações de pesquisa são necessárias para desbloquear todos os níveis de "
+"pesquisa."
 
 #. STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.EFFECT"
@@ -17547,6 +17653,9 @@ msgid ""
 "\n"
 "Duplicants will lose all assigned skills in the process."
 msgstr ""
+"Reembolsa os Pontos de Habilidade de um Duplicante para reatribuição.\n"
+"\n"
+"Os Duplicantes perderão todas as habilidades atribuídas no processo."
 
 #. STRINGS.BUILDINGS.PREFABS.RESETSKILLSSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.RESETSKILLSSTATION.NAME"
@@ -17556,7 +17665,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.REUSABLETRAP.INPUT_LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.REUSABLETRAP.INPUT_LOGIC_PORT"
 msgid "Trap Setter"
-msgstr ""
+msgstr "Preparador de Armadilhas"
 
 #. STRINGS.BUILDINGS.PREFABS.REUSABLETRAP.INPUT_LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.REUSABLETRAP.INPUT_LOGIC_PORT_ACTIVE"
@@ -17571,7 +17680,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.REUSABLETRAP.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.REUSABLETRAP.LOGIC_PORT"
 msgid "Trap Occupied"
-msgstr ""
+msgstr "Armadilha Ocupada"
 
 #. STRINGS.BUILDINGS.PREFABS.REUSABLETRAP.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.REUSABLETRAP.LOGIC_PORT_ACTIVE"
@@ -18622,7 +18731,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SMARTRESERVOIR.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMARTRESERVOIR.LOGIC_PORT"
 msgid "Refill Parameters"
-msgstr ""
+msgstr "Parâmetros de Recarga"
 
 #. STRINGS.BUILDINGS.PREFABS.SMARTRESERVOIR.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMARTRESERVOIR.LOGIC_PORT_ACTIVE"
@@ -18713,7 +18822,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SOLARPANELMODULE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLARPANELMODULE.NAME"
 msgid "<link=\"SOLARPANELMODULE\">Solar Panel Module</link>"
-msgstr ""
+msgstr "<link=\"SOLARPANELMODULE\">Módulo de Painel Solar</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDBOOSTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDBOOSTER.DESC"
@@ -19007,7 +19116,7 @@ msgstr "Limite Atingido"
 #. STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.LOGIC_PORT_RESET
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.LOGIC_PORT_RESET"
 msgid "Reset Meter"
-msgstr ""
+msgstr "Redefinir Medidor"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDLIMITVALVE.NAME"
@@ -19439,7 +19548,7 @@ msgstr ""
 msgctxt ""
 "STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.FACADES.STRIPES_RED_WHITE.DESC"
 msgid "It's the merriest storage bin of all."
-msgstr ""
+msgstr "É a caixa de armazenamento mais alegre de todas."
 
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.FACADES.STRIPES_RED_WHITE.NAME
 msgctxt ""
@@ -19479,7 +19588,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKERSMART.LOGIC_PORT
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKERSMART.LOGIC_PORT"
 msgid "Full/Not Full"
-msgstr ""
+msgstr "Cheio/Não Cheio"
 
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKERSMART.LOGIC_PORT_ACTIVE
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKERSMART.LOGIC_PORT_ACTIVE"
@@ -19833,6 +19942,8 @@ msgid ""
 "Duplicants will gain {amount} {attrib} if they chat with at least one other "
 "Duplicant."
 msgstr ""
+"Os duplicantes ganharão {amount} {attrib} se conversarem com pelo menos um "
+"outro duplicante."
 
 #. STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_LONG_DISTANCE
 msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPHONE.EFFECT_LONG_DISTANCE"
@@ -19849,7 +19960,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.TELEPHONE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPHONE.NAME"
 msgid "<link=\"TELEPHONE\">Party Line Phone</link>"
-msgstr ""
+msgstr "<link=\"TELEPHONE\">Telefone de Linha Compartilhada</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.TELEPORTALPAD.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.TELEPORTALPAD.DESC"
@@ -20055,6 +20166,8 @@ msgstr ""
 msgctxt "STRINGS.BUILDINGS.PREFABS.TRAVELTUBEENTRANCE.DESC"
 msgid "Duplicants require access points to enter tubes, but not to exit them."
 msgstr ""
+"Os duplicantes necessitam de pontos de acesso para entrar nos tubos, mas não "
+"para sair deles."
 
 #. STRINGS.BUILDINGS.PREFABS.TRAVELTUBEENTRANCE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.TRAVELTUBEENTRANCE.EFFECT"
@@ -20157,7 +20270,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.VENDINGMACHINE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.VENDINGMACHINE.NAME"
 msgid "Vending Machine"
-msgstr ""
+msgstr "Maquina de Vendas"
 
 #. STRINGS.BUILDINGS.PREFABS.VERTICALWINDTUNNEL.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.VERTICALWINDTUNNEL.DESC"
@@ -20789,7 +20902,7 @@ msgstr ""
 #. STRINGS.CLUSTER_NAMES.MINICLUSTER_FORESTFROZENSTART.NAME
 msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_FORESTFROZENSTART.NAME"
 msgid "Moonlet Cluster - Frozen Forest"
-msgstr ""
+msgstr "Aglomerado Moonlet - Floresta Congelada"
 
 #. STRINGS.CLUSTER_NAMES.MINICLUSTER_METALLICSWAMPYSTART.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_METALLICSWAMPYSTART.DESCRIPTION"
@@ -20800,7 +20913,7 @@ msgstr ""
 #. STRINGS.CLUSTER_NAMES.MINICLUSTER_METALLICSWAMPYSTART.NAME
 msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_METALLICSWAMPYSTART.NAME"
 msgid "Moonlet Cluster - Metallic Swampy"
-msgstr ""
+msgstr "Aglomerado Moonlet - Pântano Metálico"
 
 #. STRINGS.CLUSTER_NAMES.MINICLUSTER_RADIOACTIVEOCEANSTART.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_RADIOACTIVEOCEANSTART.DESCRIPTION"
@@ -20811,7 +20924,7 @@ msgstr ""
 #. STRINGS.CLUSTER_NAMES.MINICLUSTER_RADIOACTIVEOCEANSTART.NAME
 msgctxt "STRINGS.CLUSTER_NAMES.MINICLUSTER_RADIOACTIVEOCEANSTART.NAME"
 msgid "Moonlet Cluster - Radioactive Ocean"
-msgstr ""
+msgstr "Aglomerado de Moonlet - Oceano Radioativo"
 
 #. STRINGS.CLUSTER_NAMES.SANDSTONE_START_CLUSTER.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.SANDSTONE_START_CLUSTER.DESCRIPTION"
@@ -20823,7 +20936,7 @@ msgstr ""
 #. STRINGS.CLUSTER_NAMES.SANDSTONE_START_CLUSTER.NAME
 msgctxt "STRINGS.CLUSTER_NAMES.SANDSTONE_START_CLUSTER.NAME"
 msgid "Terrania Cluster"
-msgstr ""
+msgstr "Aglomerado Terrânia"
 
 #. STRINGS.CLUSTER_NAMES.SWAMP_START_CLUSTER.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.SWAMP_START_CLUSTER.DESCRIPTION"
@@ -20835,7 +20948,7 @@ msgstr ""
 #. STRINGS.CLUSTER_NAMES.SWAMP_START_CLUSTER.NAME
 msgctxt "STRINGS.CLUSTER_NAMES.SWAMP_START_CLUSTER.NAME"
 msgid "Quagmiris Cluster"
-msgstr ""
+msgstr "Aglomerado Quagmiris"
 
 #. STRINGS.CLUSTER_NAMES.TWO_SMALL_WORLDS.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.TWO_SMALL_WORLDS.DESCRIPTION"
@@ -20845,7 +20958,7 @@ msgstr ""
 #. STRINGS.CLUSTER_NAMES.TWO_SMALL_WORLDS.NAME
 msgctxt "STRINGS.CLUSTER_NAMES.TWO_SMALL_WORLDS.NAME"
 msgid "Two Small Worlds"
-msgstr ""
+msgstr "Dois Pequenos Mundos"
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_ARBORIA_CLUSTER.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_ARBORIA_CLUSTER.DESCRIPTION"
@@ -20855,7 +20968,7 @@ msgstr ""
 #. STRINGS.CLUSTER_NAMES.VANILLA_ARBORIA_CLUSTER.NAME
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_ARBORIA_CLUSTER.NAME"
 msgid "Arboria Cluster"
-msgstr ""
+msgstr "Aglomerado Arboria"
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_ARIDIO_CLUSTER.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_ARIDIO_CLUSTER.DESCRIPTION"
@@ -20865,7 +20978,7 @@ msgstr ""
 #. STRINGS.CLUSTER_NAMES.VANILLA_ARIDIO_CLUSTER.NAME
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_ARIDIO_CLUSTER.NAME"
 msgid "Aridio Cluster"
-msgstr ""
+msgstr "Aglomerado Arídio"
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_BADLANDS_CLUSTER.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_BADLANDS_CLUSTER.DESCRIPTION"
@@ -20875,7 +20988,7 @@ msgstr ""
 #. STRINGS.CLUSTER_NAMES.VANILLA_BADLANDS_CLUSTER.NAME
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_BADLANDS_CLUSTER.NAME"
 msgid "The Badlands Cluster"
-msgstr ""
+msgstr "O Aglomerado de Badlands"
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_FOREST_CLUSTER.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_FOREST_CLUSTER.DESCRIPTION"
@@ -20885,7 +20998,7 @@ msgstr ""
 #. STRINGS.CLUSTER_NAMES.VANILLA_FOREST_CLUSTER.NAME
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_FOREST_CLUSTER.NAME"
 msgid "Verdante Cluster"
-msgstr ""
+msgstr "Aglomerado Verdejante"
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_OASIS_CLUSTER.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_OASIS_CLUSTER.DESCRIPTION"
@@ -20895,7 +21008,7 @@ msgstr ""
 #. STRINGS.CLUSTER_NAMES.VANILLA_OASIS_CLUSTER.NAME
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_OASIS_CLUSTER.NAME"
 msgid "Oasisse Cluster"
-msgstr ""
+msgstr "Aglomerado Oasisse"
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_OCEANIA_CLUSTER.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_OCEANIA_CLUSTER.DESCRIPTION"
@@ -20905,7 +21018,7 @@ msgstr ""
 #. STRINGS.CLUSTER_NAMES.VANILLA_OCEANIA_CLUSTER.NAME
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_OCEANIA_CLUSTER.NAME"
 msgid "Oceania Cluster"
-msgstr ""
+msgstr "Aglomerado da Oceania"
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_SANDSTONE_CLUSTER.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_SANDSTONE_CLUSTER.DESCRIPTION"
@@ -20915,7 +21028,7 @@ msgstr ""
 #. STRINGS.CLUSTER_NAMES.VANILLA_SANDSTONE_CLUSTER.NAME
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_SANDSTONE_CLUSTER.NAME"
 msgid "Terra Cluster"
-msgstr ""
+msgstr "Aglomerado Terra"
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_SANDSTONE_FROZEN_CLUSTER.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_SANDSTONE_FROZEN_CLUSTER.DESCRIPTION"
@@ -20925,7 +21038,7 @@ msgstr ""
 #. STRINGS.CLUSTER_NAMES.VANILLA_SANDSTONE_FROZEN_CLUSTER.NAME
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_SANDSTONE_FROZEN_CLUSTER.NAME"
 msgid "Rime Cluster"
-msgstr ""
+msgstr "Aglomerado de Rime"
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_SWAMP_CLUSTER.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_SWAMP_CLUSTER.DESCRIPTION"
@@ -20935,7 +21048,7 @@ msgstr ""
 #. STRINGS.CLUSTER_NAMES.VANILLA_SWAMP_CLUSTER.NAME
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_SWAMP_CLUSTER.NAME"
 msgid "Squelchy Cluster"
-msgstr ""
+msgstr "Aglomerado Squelchy"
 
 #. STRINGS.CLUSTER_NAMES.VANILLA_VOLCANIC_CLUSTER.DESCRIPTION
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_VOLCANIC_CLUSTER.DESCRIPTION"
@@ -20947,7 +21060,7 @@ msgstr ""
 #. STRINGS.CLUSTER_NAMES.VANILLA_VOLCANIC_CLUSTER.NAME
 msgctxt "STRINGS.CLUSTER_NAMES.VANILLA_VOLCANIC_CLUSTER.NAME"
 msgid "Volcanea Cluster"
-msgstr ""
+msgstr "Aglomerado Vulcânico"
 
 #. STRINGS.CODEX.A0_PRELIMINARYCALCULATIONS.BODY.CONTAINER2
 msgctxt "STRINGS.CODEX.A0_PRELIMINARYCALCULATIONS.BODY.CONTAINER2"
@@ -70221,7 +70334,7 @@ msgstr ""
 #. STRINGS.ROOMS.CRITERIA.FARMSTATIONTYPE.NAME
 msgctxt "STRINGS.ROOMS.CRITERIA.FARMSTATIONTYPE.NAME"
 msgid "<link=\"FARMSTATION\">Farm Station</link>"
-msgstr ""
+msgstr "<link=\"FARMSTATION\">Estação Agrícola</link>"
 
 #. STRINGS.ROOMS.CRITERIA.FLUSHTOILETTYPE.DESCRIPTION
 msgctxt "STRINGS.ROOMS.CRITERIA.FLUSHTOILETTYPE.DESCRIPTION"
@@ -70360,7 +70473,7 @@ msgstr ""
 #. STRINGS.ROOMS.CRITERIA.MESSTABLE.NAME
 msgctxt "STRINGS.ROOMS.CRITERIA.MESSTABLE.NAME"
 msgid "<link=\"DININGTABLE\">Mess Table</link>"
-msgstr ""
+msgstr "<link=\"DININGTABLE\">Mesa de Jantar</link>"
 
 #. STRINGS.ROOMS.CRITERIA.MINIMUM_SIZE.DESCRIPTION
 msgctxt "STRINGS.ROOMS.CRITERIA.MINIMUM_SIZE.DESCRIPTION"
@@ -70493,7 +70606,7 @@ msgstr ""
 #. STRINGS.ROOMS.CRITERIA.REFRIGERATOR.NAME
 msgctxt "STRINGS.ROOMS.CRITERIA.REFRIGERATOR.NAME"
 msgid "<link=\"REFRIGERATOR\">Refrigerator</link>"
-msgstr ""
+msgstr "<link=\"REFRIGERADOR\">Geladeira</link>"
 
 #. STRINGS.ROOMS.CRITERIA.RESEARCH_STATION.DESCRIPTION
 msgctxt "STRINGS.ROOMS.CRITERIA.RESEARCH_STATION.DESCRIPTION"
@@ -77241,7 +77354,7 @@ msgstr ""
 #. STRINGS.UI.DEVELOPMENTBUILDS.TESTING_WATERMARK
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.TESTING_WATERMARK"
 msgid "TESTING BUILD: {0}"
-msgstr "(v0.0.11-alpha) TESTANDO VERSÃO: {0}"
+msgstr "(v0.0.12-alpha) TESTANDO VERSÃO: {0}"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.UPDATES.BIGGER_TIMES
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.UPDATES.BIGGER_TIMES"
@@ -77271,7 +77384,7 @@ msgstr "PRÓXIMO UPGRADE EM"
 #. STRINGS.UI.DEVELOPMENTBUILDS.WATERMARK
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.WATERMARK"
 msgid "BUILD: {0}"
-msgstr "(v0.0.11alpha) VERSÃO: {0}"
+msgstr "(v0.0.12-alpha) VERSÃO: {0}"
 
 #. STRINGS.UI.DIAGNOSTICS_SCREEN.CLICK_TOGGLE_MESSAGE.ALERT_ONLY
 msgctxt "STRINGS.UI.DIAGNOSTICS_SCREEN.CLICK_TOGGLE_MESSAGE.ALERT_ONLY"
