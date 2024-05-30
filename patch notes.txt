@@ -1,3 +1,6 @@
+v0.0.13-alpha | 30.05.24
+— 55% do jogo traduzido.
+
 v0.0.12-alpha | 15.05.24
 — 52% do jogo traduzido.
 
