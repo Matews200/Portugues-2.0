@@ -16,7 +16,7 @@ msgstr ""
 #. STRINGS.BLUEPRINTS.BEACHCHAIR_DECK.DESC
 msgctxt "STRINGS.BLUEPRINTS.BEACHCHAIR_DECK.DESC"
 msgid "Deck not included."
-msgstr ""
+msgstr "Cadeira não incluída."
 
 #. STRINGS.BLUEPRINTS.BEACHCHAIR_DECK.NAME
 msgctxt "STRINGS.BLUEPRINTS.BEACHCHAIR_DECK.NAME"
@@ -28,11 +28,13 @@ msgctxt "STRINGS.BLUEPRINTS.CEILINGLIGHT_CHANDELIER.DESC"
 msgid ""
 "Designers are not liable for injuries obtained by swinging from this fixture."
 msgstr ""
+"Os designers não são responsáveis ​​por lesões obtidas ao se balançar neste "
+"acessório."
 
 #. STRINGS.BLUEPRINTS.CEILINGLIGHT_CHANDELIER.NAME
 msgctxt "STRINGS.BLUEPRINTS.CEILINGLIGHT_CHANDELIER.NAME"
 msgid "<link=\"CEILINGLIGHT\">Schmancy Chandelier</link>"
-msgstr "<link=\"LIGHT\">Emissor de Luz</link>"
+msgstr "<link=\"LIGHT\">Lustre Schmancy</link>"
 
 #. STRINGS.BLUEPRINTS.DININGTABLE_LOG.DESC
 msgctxt "STRINGS.BLUEPRINTS.DININGTABLE_LOG.DESC"
@@ -40,171 +42,175 @@ msgid ""
 "The unfinished tabletop is a valuable source of splinters- uh, <i>toothpicks!"
 "</i>"
 msgstr ""
+"O tampo da mesa inacabado é uma fonte valiosa de lascas - uh, <i>palitos de "
+"dente!</i>"
 
 #. STRINGS.BLUEPRINTS.DININGTABLE_LOG.NAME
 msgctxt "STRINGS.BLUEPRINTS.DININGTABLE_LOG.NAME"
 msgid "<link=\"DININGTABLE\">Rustic Mess Table</link>"
-msgstr "<link=\"DININGTABLE\">Mesa de Jantar</link>"
+msgstr "<link=\"DININGTABLE\">Mesa de Jantar Rústica</link>"
 
 #. STRINGS.BLUEPRINTS.MANUALGENERATOR_ELLIPTICAL.DESC
 msgctxt "STRINGS.BLUEPRINTS.MANUALGENERATOR_ELLIPTICAL.DESC"
 msgid "A low-impact aerobic workout for fitness-fueled colonies!"
-msgstr ""
+msgstr "Um treino aeróbico de baixo impacto para colônias fitness!"
 
 #. STRINGS.BLUEPRINTS.MANUALGENERATOR_ELLIPTICAL.NAME
 msgctxt "STRINGS.BLUEPRINTS.MANUALGENERATOR_ELLIPTICAL.NAME"
 msgid "<link=\"MANUALGENERATOR\">Elliptical Generator</link>"
-msgstr ""
+msgstr "<link=\"MANUALGENERATOR\">Gerador Elíptico</link>"
 
 #. STRINGS.BLUEPRINTS.OUTFIT_TOP_FLANNEL_BLACK.NAME
 msgctxt "STRINGS.BLUEPRINTS.OUTFIT_TOP_FLANNEL_BLACK.NAME"
 msgid "Monochrome Flannel Outfit"
-msgstr ""
+msgstr "Traje de Flanela Monocromática"
 
 #. STRINGS.BLUEPRINTS.OUTFIT_TOP_FLANNEL_BLUE_MIDDLE.NAME
 msgctxt "STRINGS.BLUEPRINTS.OUTFIT_TOP_FLANNEL_BLUE_MIDDLE.NAME"
 msgid "Scrub Flannel Outfit"
-msgstr ""
+msgstr "Traje de Flanela Esfregado"
 
 #. STRINGS.BLUEPRINTS.OUTFIT_TOP_FLANNEL_GREEN.NAME
 msgctxt "STRINGS.BLUEPRINTS.OUTFIT_TOP_FLANNEL_GREEN.NAME"
 msgid "Swampy Flannel Outfit"
-msgstr ""
+msgstr "Traje de Flanela Pantanoso"
 
 #. STRINGS.BLUEPRINTS.OUTFIT_TOP_FLANNEL_ORANGE.NAME
 msgctxt "STRINGS.BLUEPRINTS.OUTFIT_TOP_FLANNEL_ORANGE.NAME"
 msgid "Cadmium Flannel Outfit"
-msgstr ""
+msgstr "Traje de Flanela de Cádmio"
 
 #. STRINGS.BLUEPRINTS.OUTFIT_TOP_FLANNEL_PINK_ORCHID.NAME
 msgctxt "STRINGS.BLUEPRINTS.OUTFIT_TOP_FLANNEL_PINK_ORCHID.NAME"
 msgid "Flare Flannel Outfit"
-msgstr ""
+msgstr "Traje de Flanela Flare"
 
 #. STRINGS.BLUEPRINTS.OUTFIT_TOP_FLANNEL_PURPLE.NAME
 msgctxt "STRINGS.BLUEPRINTS.OUTFIT_TOP_FLANNEL_PURPLE.NAME"
 msgid "Fusion Flannel Outfit"
-msgstr ""
+msgstr "Traje de Flanela de Fusão"
 
 #. STRINGS.BLUEPRINTS.OUTFIT_TOP_FLANNEL_RED.NAME
 msgctxt "STRINGS.BLUEPRINTS.OUTFIT_TOP_FLANNEL_RED.NAME"
 msgid "Classic Flannel Outfit"
-msgstr ""
+msgstr "Traje Clássico de Flanela"
 
 #. STRINGS.BLUEPRINTS.OUTFIT_TOP_FLANNEL_WHITE.NAME
 msgctxt "STRINGS.BLUEPRINTS.OUTFIT_TOP_FLANNEL_WHITE.NAME"
 msgid "White Flannel Outfit"
-msgstr ""
+msgstr "Traje de Flanela Branco"
 
 #. STRINGS.BLUEPRINTS.OUTFIT_TOP_FLANNEL_YELLOW.NAME
 msgctxt "STRINGS.BLUEPRINTS.OUTFIT_TOP_FLANNEL_YELLOW.NAME"
 msgid "Flax Flannel Outfit"
-msgstr ""
+msgstr "Traje de Flanela de Linho"
 
 #. STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_01.NAME
 msgctxt "STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_01.NAME"
 msgid "Slapshot Outfit"
-msgstr ""
+msgstr "Traje Instantâneo"
 
 #. STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_02.NAME
 msgctxt "STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_02.NAME"
 msgid "Blocker Outfit"
-msgstr ""
+msgstr "Traje Bloqueador"
 
 #. STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_03.NAME
 msgctxt "STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_03.NAME"
 msgid "High-Stick Outfit"
-msgstr ""
+msgstr "Traje de Alto Padrão"
 
 #. STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_04.NAME
 msgctxt "STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_04.NAME"
 msgid "Faceoff Outfit"
-msgstr ""
+msgstr "Traje de Confronto"
 
 #. STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_05.NAME
 msgctxt "STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_05.NAME"
 msgid "MVP Outfit"
-msgstr ""
+msgstr "Traje MVP"
 
 #. STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_07.NAME
 msgctxt "STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_07.NAME"
 msgid "Hat-Trick Outfit"
-msgstr "Traje de Alta Visibilidade"
+msgstr "Traje Hat-Trick"
 
 #. STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_08.NAME
 msgctxt "STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_08.NAME"
 msgid "Overtime Outfit"
-msgstr ""
+msgstr "Traje de Horas Extras"
 
 #. STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_09.NAME
 msgctxt "STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_09.NAME"
 msgid "Penalty Box Outfit"
-msgstr ""
+msgstr "Traje de Caixa de Penalidade"
 
 #. STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_10.NAME
 msgctxt "STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_10.NAME"
 msgid "Enforcer Outfit"
-msgstr "Traje Beneficente"
+msgstr "Traje de Executor"
 
 #. STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_11.NAME
 msgctxt "STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_11.NAME"
 msgid "Hoser Outfit"
-msgstr ""
+msgstr "Traje de Hoser"
 
 #. STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_12.NAME
 msgctxt "STRINGS.BLUEPRINTS.OUTFIT_TOP_HOCKEY_12.NAME"
 msgid "Rookie Outfit"
-msgstr ""
+msgstr "Traje de Novato"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_BELT_80S.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_BELT_80S.DESC"
 msgid "Just big enough to hold a single lip balm whose lid keeps coming off."
 msgstr ""
+"Grande o suficiente para conter um único protetor labial cuja tampa continua "
+"saindo."
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_BELT_80S.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_BELT_80S.NAME"
 msgid "Fannypack Atmo Belt"
-msgstr ""
+msgstr "Cinto Atmo de Pochete"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_GLOVES_80S.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_GLOVES_80S.DESC"
 msgid "A funky fresh pair of hand coverings."
-msgstr ""
+msgstr "Um novo par de coberturas para as mãos."
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_GLOVES_80S.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_GLOVES_80S.NAME"
 msgid "Radical Atmo Gloves"
-msgstr ""
+msgstr "Luvas Atmo Radicais"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_HELMET_80S.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_HELMET_80S.DESC"
 msgid "A choice lid keeps things copacetic out here in the cosmos."
-msgstr ""
+msgstr "Um capacete escolhido mantém as coisas em ordem aqui no cosmos."
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_HELMET_80S.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_HELMET_80S.NAME"
 msgid "Radical Atmo Helmet"
-msgstr ""
+msgstr "Capacete Atmo Radical"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_80S.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_80S.DESC"
 msgid "Can you do the Running Man in space? With these, maybe."
-msgstr ""
+msgstr "Você consegue fazer o Running Man no espaço? Com estes, talvez."
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_80S.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMO_SHOES_80S.NAME"
 msgid "Radical Atmo Boots"
-msgstr ""
+msgstr "Botas Atmo Radicais"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMOSUIT_80S.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMOSUIT_80S.DESC"
 msgid "It's truly excellent, dude."
-msgstr ""
+msgstr "É realmente excelente, cara."
 
 #. STRINGS.BLUEPRINTS.PERMIT_ATMOSUIT_80S.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ATMOSUIT_80S.NAME"
 msgid "Radical Atmo Suit"
-msgstr ""
+msgstr "Traje Atmo Radical"
 
 #. STRINGS.BLUEPRINTS.PERMIT_BED_COTTAGE.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_BED_COTTAGE.DESC"
@@ -212,101 +218,106 @@ msgid ""
 "Little scraps of textile waste make a cozy bedcover when they're stapled "
 "together by hand."
 msgstr ""
+"Pequenos pedaços de resíduos têxteis formam uma colcha aconchegante quando "
+"grampeados à mão."
 
 #. STRINGS.BLUEPRINTS.PERMIT_BED_COTTAGE.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_BED_COTTAGE.NAME"
 msgid "<link=\"BED\">Quilt Cot</link>"
-msgstr ""
+msgstr "<link=\"BED\">Berço com Colcha</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_BED_JORGE.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_BED_JORGE.DESC"
 msgid "One person's junk is another person's bespoke bed."
-msgstr ""
+msgstr "O lixo de uma pessoa é a cama feita sob medida para outra."
 
 #. STRINGS.BLUEPRINTS.PERMIT_BED_JORGE.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_BED_JORGE.NAME"
 msgid "<link=\"BED\">DIY Cot</link>"
-msgstr ""
+msgstr "<link=\"BED\">Berço Artesanal</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_COOKSTATION_COTTAGE.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_COOKSTATION_COTTAGE.DESC"
 msgid "The smoky flavor is intentional."
-msgstr ""
+msgstr "O sabor defumado é intencional."
 
 #. STRINGS.BLUEPRINTS.PERMIT_COOKSTATION_COTTAGE.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_COOKSTATION_COTTAGE.NAME"
 msgid "<link=\"PERMITCOOKSTATIONCOTTAGE\">Backcountry Grill</link>"
-msgstr ""
+msgstr "<link=\"PERMITCOOKSTATIONCOTTAGE\">Gralha do Sertão</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_COOKSTATION_GOURMET_COTTAGE.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_COOKSTATION_GOURMET_COTTAGE.DESC"
 msgid "It makes quality meal recipes feel more...approachable."
 msgstr ""
+"Faz com que receitas de refeições de qualidade pareçam mais...acessíveis."
 
 #. STRINGS.BLUEPRINTS.PERMIT_COOKSTATION_GOURMET_COTTAGE.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_COOKSTATION_GOURMET_COTTAGE.NAME"
 msgid "<link=\"PERMITCOOKSTATIONGOURMETCOTTAGE\">Rustic Gas Range</link>"
-msgstr ""
+msgstr "<link=\"PERMITCOOKSTATIONGOURMETCOTTAGE\">Fogão a Gás Rústico</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_FLOORLAMP_COTTAGE.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_FLOORLAMP_COTTAGE.DESC"
 msgid "It makes Duplicants feel like they're about to be read a bedtime story."
 msgstr ""
+"Faz com que os Duplicantes sintam que estão prestes a ler uma história para "
+"dormir."
 
 #. STRINGS.BLUEPRINTS.PERMIT_FLOORLAMP_COTTAGE.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_FLOORLAMP_COTTAGE.NAME"
 msgid "<link=\"FLOORLAMP\">Storytime Lamp</link>"
-msgstr ""
+msgstr "<link=\"FLOORLAMP\">Lâmpada Contadora de Histórias</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_01.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_01.DESC"
 msgid "Slapshots are allowed, slapping is not."
-msgstr ""
+msgstr "Golpes são permitidos, tapas não."
 
 #. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_01.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_01.NAME"
 msgid "Slapshot Gloves"
-msgstr ""
+msgstr "Luvas de Tiro Instantâneo"
 
 #. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_02.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_02.DESC"
 msgid "Designed to cause disappointment for opponents."
-msgstr ""
+msgstr "Projetado para causar decepção aos oponentes."
 
 #. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_02.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_02.NAME"
 msgid "Blocker Gloves"
-msgstr ""
+msgstr "Luvas Bloqueadoras"
 
 #. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_03.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_03.DESC"
 msgid "Hold your head high, and your hockey stick higher."
-msgstr ""
+msgstr "Mantenha a cabeça erguida e o taco de hóquei mais alto."
 
 #. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_03.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_03.NAME"
 msgid "High-Stick Gloves"
-msgstr ""
+msgstr "Luvas de Alta Aderência"
 
 #. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_04.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_04.DESC"
 msgid "When two scientists disagree, there is only one solution."
-msgstr ""
+msgstr "Quando dois cientistas discordam, só existe uma solução."
 
 #. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_04.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_04.NAME"
 msgid "Faceoff Gloves"
-msgstr ""
+msgstr "Luvas de Confronto"
 
 #. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_05.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_05.DESC"
 msgid "Can only be worn by this season's Most Valuable Physicist."
-msgstr ""
+msgstr "Só pode ser usado pelo Físico Mais Valioso desta temporada."
 
 #. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_05.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_05.NAME"
 msgid "MVP Gloves"
-msgstr ""
+msgstr "Luvas MVP"
 
 #. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_07.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_07.DESC"
@@ -314,235 +325,249 @@ msgid ""
 "Marks the wearer as someone who once received three high-fives in a single "
 "day."
 msgstr ""
+"Marca o usuário como alguém que já recebeu três cumprimentos em um único dia."
 
 #. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_07.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_07.NAME"
 msgid "Hat-Trick Gloves"
-msgstr ""
+msgstr "Luvas Hat-Trick"
 
 #. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_08.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_08.DESC"
 msgid "Keeps your hands warm when things take longer than scheduled."
 msgstr ""
+"Mantém as mãos aquecidas quando as coisas demoram mais do que o programado."
 
 #. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_08.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_08.NAME"
 msgid "Overtime Gloves"
-msgstr ""
+msgstr "Luvas de Horas Extras"
 
 #. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_09.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_09.DESC"
 msgid "High contrast colors for effective gesturing through plexiglass."
-msgstr ""
+msgstr "Cores de alto contraste para gestos eficazes através de plexiglass."
 
 #. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_09.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_09.NAME"
 msgid "Penalty Box Gloves"
-msgstr ""
+msgstr "Luvas de Caixa de Penalidade"
 
 #. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_10.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_10.DESC"
 msgid "They're not afraid to get a little dirty."
-msgstr ""
+msgstr "Eles não têm medo de se sujar um pouco."
 
 #. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_10.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_10.NAME"
 msgid "Enforcer Gloves"
-msgstr ""
+msgstr "Luvas de Executor"
 
 #. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_11.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_11.DESC"
 msgid "Good game, bud."
-msgstr ""
+msgstr "Bom jogo, amigo."
 
 #. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_11.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_11.NAME"
 msgid "Hoser Gloves"
-msgstr ""
+msgstr "Luvas Hoser"
 
 #. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_12.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_12.DESC"
 msgid "They're a little green."
-msgstr ""
+msgstr "Elas são um pouco verdes."
 
 #. STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_12.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_GLOVES_HOCKEY_12.NAME"
 msgid "Rookie Gloves"
-msgstr ""
+msgstr "Luvas de Novato"
 
 #. STRINGS.BLUEPRINTS.PERMIT_HEADQUARTERS_CERES.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_HEADQUARTERS_CERES.DESC"
 msgid ""
 "A basic model designed with portability and sub-zero temperatures in mind."
 msgstr ""
+"Um modelo básico projetado tendo em mente a portabilidade e temperaturas "
+"abaixo de zero."
 
 #. STRINGS.BLUEPRINTS.PERMIT_HEADQUARTERS_CERES.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_HEADQUARTERS_CERES.NAME"
 msgid "<link=\"HEADQUARTERS\">Frosty Printing Pod</link>"
-msgstr ""
+msgstr "<link=\"HEADQUARTERS\">Pod de Impressão Glacial</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_BAMMOTH.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_BAMMOTH.DESC"
 msgid ""
 "It's not a real party until someone tries to feed the sculpture a Frost Bun."
 msgstr ""
+"Não é uma festa de verdade até que alguém tente alimentar a escultura com um "
+"pão gelado."
 
 #. STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_BAMMOTH.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_BAMMOTH.NAME"
 msgid "What A Hoot"
-msgstr ""
+msgstr "Que piada"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_SEAL.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_SEAL.DESC"
 msgid "Some things really <i>are</i> universal truths."
-msgstr ""
+msgstr "Algumas coisas realmente <i>são</i> verdades universais."
 
 #. STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_SEAL.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_SEAL.NAME"
 msgid "Sibling Dynamics"
-msgstr ""
+msgstr "Dinâmica entre Irmãos"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_WOOD_DEER.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_WOOD_DEER.DESC"
 msgid "Often showcased in pairs, with one on each side of the doorway."
-msgstr ""
+msgstr "Frequentemente exibidos em pares, com um de cada lado da porta."
 
 #. STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_WOOD_DEER.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_WOOD_DEER.NAME"
 msgid "Glam Guardian"
-msgstr ""
+msgstr "Guardião Glamouroso"
 
 #. STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_BLACK_SMOG.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_BLACK_SMOG.DESC"
 msgid "Keeps fingers snuggled up next to each other, as nature intended."
 msgstr ""
+"Mantém os dedos aconchegados um ao lado do outro, como a natureza pretendia."
 
 #. STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_BLACK_SMOG.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_BLACK_SMOG.NAME"
 msgid "Smog Mittens"
-msgstr ""
+msgstr "Luvas de Poluição"
 
 #. STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_BLUE_AZULENE.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_BLUE_AZULENE.DESC"
 msgid "Very useful for dusting off old reference books."
-msgstr ""
+msgstr "Muito útil para tirar o pó de livros de referência antigos."
 
 #. STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_BLUE_AZULENE.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_BLUE_AZULENE.NAME"
 msgid "Azulene Mittens"
-msgstr ""
+msgstr "Luvas Azuleno"
 
 #. STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_GREEN_ENZYME.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_GREEN_ENZYME.DESC"
 msgid "A bit fiddly for handling lab equipment."
-msgstr ""
+msgstr "Um pouco complicada para manusear equipamentos de laboratório."
 
 #. STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_GREEN_ENZYME.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_GREEN_ENZYME.NAME"
 msgid "Enzyme Mittens"
-msgstr ""
+msgstr "Luvas Enzimáticas"
 
 #. STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_ORANGE_TECTONIC.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_ORANGE_TECTONIC.DESC"
 msgid "If you rub them on your hair, you get a little zap."
-msgstr ""
+msgstr "Se você esfregá-los no cabelo, você fica um pouco atordoado."
 
 #. STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_ORANGE_TECTONIC.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_ORANGE_TECTONIC.NAME"
 msgid "Tectonic Mittens"
-msgstr ""
+msgstr "Luvas Tectônicas"
 
 #. STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_PINK_COSMIC.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_PINK_COSMIC.DESC"
 msgid "Easy to find in the snow."
-msgstr ""
+msgstr "Fáceis de encontrar na neve."
 
 #. STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_PINK_COSMIC.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_PINK_COSMIC.NAME"
 msgid "Cosmic Mittens"
-msgstr ""
+msgstr "Luvas Cósmicas"
 
 #. STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_PURPLE_ASTRAL.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_PURPLE_ASTRAL.DESC"
 msgid "They should really be attached to each other by a long string."
 msgstr ""
+"Elas realmente deveriam estar presas uma ao outra por um longo barbante."
 
 #. STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_PURPLE_ASTRAL.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_PURPLE_ASTRAL.NAME"
 msgid "Astral Mittens"
-msgstr ""
+msgstr "Luvas Astrais"
 
 #. STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_WHITE.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_WHITE.DESC"
 msgid "What they lack in dexterity, they also lack in stain-resistance."
 msgstr ""
+"O que lhes falta em destreza, também lhes falta em resistência a manchas."
 
 #. STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_WHITE.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_WHITE.NAME"
 msgid "White Mittens"
-msgstr ""
+msgstr "Luvas Brancas"
 
 #. STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_YELLOWCAKE.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_YELLOWCAKE.DESC"
 msgid "They're great for stroking one's own face."
-msgstr ""
+msgstr "Elas são ótimas para acariciar o próprio rosto."
 
 #. STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_YELLOWCAKE.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_MITTENS_KNIT_YELLOWCAKE.NAME"
 msgid "Yellowcake Mittens"
-msgstr ""
+msgstr "Luvas Yellowcake"
 
 #. STRINGS.BLUEPRINTS.PERMIT_PAINTING_ART_CERES_A.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_PAINTING_ART_CERES_A.DESC"
 msgid "You cannot choose your family, but you can choose your friends."
-msgstr ""
+msgstr "Você não pode escolher sua família, mas pode escolher seus amigos."
 
 #. STRINGS.BLUEPRINTS.PERMIT_PAINTING_ART_CERES_A.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_PAINTING_ART_CERES_A.NAME"
 msgid "Lady With a Bammini"
-msgstr ""
+msgstr "Senhora com um Bammini"
 
 #. STRINGS.BLUEPRINTS.PERMIT_PAINTING_TALL_ART_CERES_A.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_PAINTING_TALL_ART_CERES_A.DESC"
 msgid "The tale of this catch grows more unbelievable with each telling."
-msgstr ""
+msgstr "A história dessa captura fica mais inacreditável a cada narrativa."
 
 #. STRINGS.BLUEPRINTS.PERMIT_PAINTING_TALL_ART_CERES_A.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_PAINTING_TALL_ART_CERES_A.NAME"
 msgid "Catch of the Day"
-msgstr ""
+msgstr "Captura do Dia"
 
 #. STRINGS.BLUEPRINTS.PERMIT_PAINTING_WIDE_ART_CERES_A.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_PAINTING_WIDE_ART_CERES_A.DESC"
 msgid ""
 "The scale implies that this critter and its friend were larger than most."
 msgstr ""
+"A escala implica que esta criatura e seu amigo eram maiores que a maioria."
 
 #. STRINGS.BLUEPRINTS.PERMIT_PAINTING_WIDE_ART_CERES_A.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_PAINTING_WIDE_ART_CERES_A.NAME"
 msgid "Babe the Blue Flox"
-msgstr ""
+msgstr "Babe, o Flox Azul"
 
 #. STRINGS.BLUEPRINTS.PERMIT_RANCHERSTATION_COTTAGE.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_RANCHERSTATION_COTTAGE.DESC"
 msgid "Some ranchers believe that a woodsy aesthetic puts critters at ease."
 msgstr ""
+"Alguns fazendeiros acreditam que uma estética amadeirada deixa as criaturas "
+"à vontade."
 
 #. STRINGS.BLUEPRINTS.PERMIT_RANCHERSTATION_COTTAGE.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_RANCHERSTATION_COTTAGE.NAME"
 msgid "<link=\"RANCHSTATION\">Rustic Grooming Station</link>"
-msgstr ""
+msgstr "<link=\"RANCHSTATION\">Estação de Tratamento Rústica</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_ACTION_GULP.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_ACTION_GULP.DESC"
 msgid ""
 "The mighty Pacu refuses to explain its philosophy. It simply embodies it."
 msgstr ""
+"O poderoso Pacu se recusa a explicar a sua filosofia. Simplesmente incorpora "
+"isso."
 
 #. STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_ACTION_GULP.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_ACTION_GULP.NAME"
 msgid "Stoic Trophy"
-msgstr ""
+msgstr "Troféu Estóico"
 
 #. STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_ACTION_PACU.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_ACTION_PACU.DESC"
@@ -550,21 +575,23 @@ msgid ""
 "Duplicants like to prank their friends by sticking their hands inside and "
 "pretending the sculpture has come to life."
 msgstr ""
+"Os Duplicantes gostam de pregar peças nos amigos enfiando as mãos dentro e "
+"fingindo que a escultura ganhou vida."
 
 #. STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_ACTION_PACU.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_ACTION_PACU.NAME"
 msgid "Chompionship Trophy"
-msgstr ""
+msgstr "Troféu de Campeonato"
 
 #. STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_ACTION_PUFT.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_ACTION_PUFT.DESC"
 msgid "The face of truly blissful ignorance."
-msgstr ""
+msgstr "A face da ignorância verdadeiramente feliz."
 
 #. STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_ACTION_PUFT.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_ACTION_PUFT.NAME"
 msgid "Blank Slate"
-msgstr ""
+msgstr "Lousa em Branco"
 
 #. STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_ACTION_WOOD_DEER.DESC
 msgctxt ""
@@ -573,63 +600,68 @@ msgid ""
 "The sculptor used a tiny fleck of glass to mimic the mischievous glint of a "
 "Flox's eye."
 msgstr ""
+"O escultor usou um pequeno pedaço de vidro para imitar o brilho travesso dos "
+"olhos de um Flox."
 
 #. STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_ACTION_WOOD_DEER.NAME
 msgctxt ""
 "STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_ACTION_WOOD_DEER.NAME"
 msgid "Sly Stare"
-msgstr ""
+msgstr "Olhar Astuto"
 
 #. STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_REAR_CUDDLEPIP.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_REAR_CUDDLEPIP.DESC"
 msgid "Hindsight may be 20/20, but hind art is priceless."
-msgstr ""
+msgstr "A retrospectiva pode ser 10/10, mas a arte posterior não tem preço."
 
 #. STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_REAR_CUDDLEPIP.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_REAR_CUDDLEPIP.NAME"
 msgid "Pip Rump"
-msgstr ""
+msgstr "Pip Rump"
 
 #. STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_REAR_DRECKO.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_REAR_DRECKO.DESC"
 msgid "The post-shearing version was considered too risque."
-msgstr ""
+msgstr "A versão após o corte foi considerada muito ousada."
 
 #. STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_REAR_DRECKO.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_REAR_DRECKO.NAME"
 msgid "Drecko Rump"
-msgstr ""
+msgstr "Drecko Rump"
 
 #. STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_REAR_PUFT.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_REAR_PUFT.DESC"
 msgid "Occasionally emits a barely audible toot."
-msgstr ""
+msgstr "Ocasionalmente emite um som quase inaudível."
 
 #. STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_REAR_PUFT.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_REAR_PUFT.NAME"
 msgid "Puft Rump"
-msgstr ""
+msgstr "Puft Rump"
 
 #. STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_REAR_SHOVEVOLE.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_REAR_SHOVEVOLE.DESC"
 msgid "Behind every great critter, is that critter's great behind."
 msgstr ""
+"Atrás de cada grande criatura, está o grande traseiro daquela criatura."
 
 #. STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_REAR_SHOVEVOLE.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_AMAZING_REAR_SHOVEVOLE.NAME"
 msgid "Vole Rump"
-msgstr ""
+msgstr "Vole Rump"
 
 #. STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_CRAP_LOW_ONE.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_CRAP_LOW_ONE.DESC"
 msgid ""
 "Was this piece carved by an artist, or gnawed on by a critter? No one knows."
 msgstr ""
+"Esta peça foi esculpida por um artista ou roída por uma criatura? Ninguém "
+"sabe."
 
 #. STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_CRAP_LOW_ONE.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_CRAP_LOW_ONE.NAME"
 msgid "Chipped Trunk"
-msgstr ""
+msgstr "Tronco Lascado"
 
 #. STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_OKAY_MID_ONE.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_OKAY_MID_ONE.DESC"
@@ -637,111 +669,118 @@ msgid ""
 "A realistic rendition of Sleet Wheat, also known as \"a mouth full of "
 "splinters just waiting to happen.\""
 msgstr ""
+"Uma versão realista de Sleet Wheat, também conhecida como \"uma boca cheia "
+"de farpas esperando para acontecer\"."
 
 #. STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_OKAY_MID_ONE.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_SCULPTURE_WOOD_OKAY_MID_ONE.NAME"
 msgid "Wood Grain"
-msgstr ""
+msgstr "Grão de Madeira"
 
 #. STRINGS.BLUEPRINTS.PERMIT_SMARTSTORAGELOCKER_GRAVITAS.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_SMARTSTORAGELOCKER_GRAVITAS.DESC"
 msgid "Someone gave this smart storage bin a makeover."
-msgstr ""
+msgstr "Alguém reformulou esta caixa de armazenamento inteligente."
 
 #. STRINGS.BLUEPRINTS.PERMIT_SMARTSTORAGELOCKER_GRAVITAS.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_SMARTSTORAGELOCKER_GRAVITAS.NAME"
 msgid "<link=\"STORAGELOCKERSMART\">Smart-Looking Smart Storage</link>"
 msgstr ""
+"<link=\"STORAGELOCKERSMART\">Armazém Inteligente Que Parece Inteligente</"
+"link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_BLACK.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_BLACK.DESC"
 msgid "It's always hard to tell whether the buttons are lined up properly."
-msgstr ""
+msgstr "É sempre difícil saber se os botões estão alinhados corretamente."
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_BLACK.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_BLACK.NAME"
 msgid "Monochrome Flannel Shirt"
-msgstr ""
+msgstr "Camisa Monocromática de Flanela"
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_BLUE_MIDDLE.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_BLUE_MIDDLE.DESC"
 msgid "Durable but soft, for workers who need a little extra TLC."
 msgstr ""
+"Durável, mas macia, para trabalhadores que precisam de um cuidado extra."
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_BLUE_MIDDLE.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_BLUE_MIDDLE.NAME"
 msgid "Scrub Flannel Shirt"
-msgstr ""
+msgstr "Camisa de Flanela Esfregada"
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_GREEN.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_GREEN.DESC"
 msgid "Stays warm and soft, even when damp."
-msgstr ""
+msgstr "Permanece quente e macia, mesmo quando úmida."
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_GREEN.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_GREEN.NAME"
 msgid "Swampy Flannel Shirt"
-msgstr ""
+msgstr "Camisa de Flanela Pantanosa"
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_ORANGE.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_ORANGE.DESC"
 msgid "It's giving outdoorsy Rover vibes."
-msgstr ""
+msgstr "Está transmitindo vibrações de Rover ao ar livre."
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_ORANGE.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_ORANGE.NAME"
 msgid "Cadmium Flannel Shirt"
-msgstr ""
+msgstr "Camisa de Flanela de Cádmio"
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_PINK_ORCHID.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_PINK_ORCHID.DESC"
 msgid "Neither of these chest pockets are functional."
-msgstr ""
+msgstr "Nenhum desses bolsos no peito é funcional."
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_PINK_ORCHID.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_PINK_ORCHID.NAME"
 msgid "Flare Flannel Shirt"
-msgstr ""
+msgstr "Camisa de Flanela Flare"
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_PURPLE.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_PURPLE.DESC"
 msgid "Perfectly aligned alternating squares imply a certain work ethic."
 msgstr ""
+"Quadrados alternados perfeitamente alinhados implicam uma certa ética de "
+"trabalho."
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_PURPLE.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_PURPLE.NAME"
 msgid "Fusion Flannel Shirt"
-msgstr ""
+msgstr "Camisa de Flanela de Fusão"
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_RED.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_RED.DESC"
 msgid "Pretty iconic colors, eh?"
-msgstr ""
+msgstr "Cores bem icônicas, né?"
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_RED.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_RED.NAME"
 msgid "Classic Flannel Shirt"
-msgstr ""
+msgstr "Camisa Clássica de Flanela"
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_WHITE.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_WHITE.DESC"
 msgid "For Duplicants at the forefront of flannel formalwear."
-msgstr ""
+msgstr "Para Duplicantes na vanguarda do traje formal de flanela."
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_WHITE.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_WHITE.NAME"
 msgid "White Flannel Shirt"
-msgstr ""
+msgstr "Camisa de Flanela Branca"
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_YELLOW.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_YELLOW.DESC"
 msgid "Bright minds gravitate toward bright colors."
-msgstr ""
+msgstr "Mentes brilhantes giram em torno de cores brilhantes."
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_YELLOW.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_FLANNEL_YELLOW.NAME"
 msgid "Flax Flannel Shirt"
-msgstr ""
+msgstr "Camisa de Flanela de Linho"
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_01.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_01.DESC"
@@ -749,151 +788,155 @@ msgid ""
 "Not to be confused with a \"Snapshot\" jersey, which is made out of old "
 "photographs."
 msgstr ""
+"Não confundir com a camisa \"Snapshot\", feita a partir de fotos antigas."
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_01.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_01.NAME"
 msgid "Slapshot Jersey"
-msgstr ""
+msgstr "Camisa Slapshot"
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_02.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_02.DESC"
 msgid "Oh, was I in your way? Good."
-msgstr ""
+msgstr "Ah, eu estava no seu caminho? Bom."
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_02.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_02.NAME"
 msgid "Blocker Jersey"
-msgstr ""
+msgstr "Camisa Bloqueadora"
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_03.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_03.DESC"
 msgid "Subtle padding in the neck and chest protects from retaliation."
 msgstr ""
+"O acolchoamento sutil no pescoço e no peito protege contra retaliações."
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_03.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_03.NAME"
 msgid "High-Stick Jersey"
-msgstr ""
+msgstr "Camisa High-Stick"
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_04.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_04.DESC"
 msgid "It makes other colony members see red."
-msgstr ""
+msgstr "Isso faz com que outros membros da colônia fiquem vermelhos."
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_04.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_04.NAME"
 msgid "Faceoff Jersey"
-msgstr ""
+msgstr "Camisa de Confronto"
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_05.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_05.DESC"
 msgid "Often worn with the matching gloves to make sure <i>everyone</i> knows."
 msgstr ""
+"Geralmente usado com luvas combinando para garantir que <i>todos</i> saibam."
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_05.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_05.NAME"
 msgid "MVP Jersey"
-msgstr ""
+msgstr "Camisa MVP"
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_07.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_07.DESC"
 msgid "Three hypotheses in one paper? Wow!"
-msgstr ""
+msgstr "Três hipóteses em um artigo? Uau!"
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_07.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_07.NAME"
 msgid "Hat-Trick Jersey"
-msgstr ""
+msgstr "Camisa Hat-Trick"
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_08.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_08.DESC"
 msgid "It's comfy enough to sleep in."
-msgstr ""
+msgstr "É confortável o suficiente para dormir."
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_08.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_08.NAME"
 msgid "Overtime Jersey"
-msgstr ""
+msgstr "Camisa de Horas Extras"
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_09.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_09.DESC"
 msgid "There's a troublemaker on every research team."
-msgstr ""
+msgstr "Há um encrenqueiro em cada equipe de pesquisa."
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_09.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_09.NAME"
 msgid "Penalty Box Jersey"
-msgstr ""
+msgstr "Camisa da Caixa de Pênaltis"
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_10.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_10.DESC"
 msgid "It's time to lay down the law. Newton's Law."
-msgstr ""
+msgstr "É hora de estabelecer a lei. Lei de Newton."
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_10.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_10.NAME"
 msgid "Enforcer Jersey"
-msgstr ""
+msgstr "Camisa do Executor"
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_11.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_11.DESC"
 msgid "You win some, you learn some."
-msgstr ""
+msgstr "Você ganha alguns, você aprende alguns."
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_11.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_11.NAME"
 msgid "Hoser Jersey"
-msgstr ""
+msgstr "Camisa Hoser"
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_12.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_12.DESC"
 msgid "Grants the wearer enthusiasm and beginner's luck."
-msgstr ""
+msgstr "Concede entusiasmo ao usuário e sorte de iniciante."
 
 #. STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_12.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_TOP_JERSEY_12.NAME"
 msgid "Rookie Jersey"
-msgstr ""
+msgstr "Camisa de Novato"
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_FOREST.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_FOREST.DESC"
 msgid "Sustainable forest bathing."
-msgstr ""
+msgstr "Banhos florestais sustentáveis."
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_FOREST.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_FOREST.NAME"
 msgid "<link=\"EXTERIORWALL\">Forest</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Floresta</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_IGLOO.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_IGLOO.DESC"
 msgid "Snow tile style that won't melt!"
-msgstr ""
+msgstr "Estilo de telha de neve que não derrete!"
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_IGLOO.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_IGLOO.NAME"
 msgid "<link=\"EXTERIORWALL\">Ice Panel</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Painel de Gelo</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_SOUTHWEST.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_SOUTHWEST.DESC"
 msgid "Southwest of <i>what</i>, Duplicants aren't sure. But they like it."
 msgstr ""
+"A sudoeste <i>do quê</i>, os Duplicantes não têm certeza. Mas eles gostam."
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_SOUTHWEST.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_SOUTHWEST.NAME"
 msgid "<link=\"EXTERIORWALL\">Southwest</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Sudoeste</link>"
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_WOOD_PANEL.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_WOOD_PANEL.DESC"
 msgid "Even labs can be dressed up as log cabins!"
-msgstr ""
+msgstr "Até os laboratórios podem ser vestidos como cabanas de madeira!"
 
 #. STRINGS.BLUEPRINTS.PERMIT_WALLS_WOOD_PANEL.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_WALLS_WOOD_PANEL.NAME"
 msgid "<link=\"EXTERIORWALL\">Wood Panel</link>"
-msgstr ""
+msgstr "<link=\"EXTERIORWALL\">Painel de Madeira</link>"
 
 #. STRINGS.BUILDING.DETAILS.USE_COUNT
 msgctxt "STRINGS.BUILDING.DETAILS.USE_COUNT"
@@ -3170,6 +3213,10 @@ msgid ""
 "\n"
 "Current requirement: minimum {0} <link=\"WOODLOG\">Wood</link>"
 msgstr ""
+"<link=\"ICE\">Gelo</link> mais frio aumenta a quantidade de "
+"<link=\"WOODLOG\">Madeira</link> necessária para derreter\n"
+"\n"
+"Requisito atual: mínimo de {0} de <link=\"WOODLOG\">Madeira</link>"
 
 #. STRINGS.BUILDING.STATUSITEMS.KETTLEINSUFICIENTLIQUIDSPACE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.KETTLEINSUFICIENTLIQUIDSPACE.NAME"
@@ -3186,6 +3233,13 @@ msgid ""
 "\n"
 "Currently storing {0} of a maximum {1} <link=\"WATER\">Water</link>"
 msgstr ""
+"Este <link=\"ICEKETTLE\">Liquidificador de Gelo</link> precisa ser esvaziado "
+"de <link=\"WATER\">Água</link> para retomar a função\n"
+"\n"
+"Requer pelo menos {2} de espaço de armazenamento para funcionar "
+"corretamente\n"
+"\n"
+"Atualmente armazenando {0} no máximo de {1} de <link=\"WATER\">Água</link>"
 
 #. STRINGS.BUILDING.STATUSITEMS.KETTLEINSUFICIENTSOLIDS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.KETTLEINSUFICIENTSOLIDS.NAME"
@@ -3200,11 +3254,15 @@ msgid ""
 "\n"
 "Deliver more <link=\"ICE\">Ice</link> to operate this building"
 msgstr ""
+"Esta construção requer um mínimo de {0} de <link=\"ICE\">Gelo</link> para "
+"funcionar\n"
+"\n"
+"Entregue mais <link=\"ICE\">Gelo</link> para operar esta construção"
 
 #. STRINGS.BUILDING.STATUSITEMS.KETTLEMELTING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.KETTLEMELTING.NAME"
 msgid "Melting Ice"
-msgstr ""
+msgstr "Gelo Derretendo"
 
 #. STRINGS.BUILDING.STATUSITEMS.KETTLEMELTING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.KETTLEMELTING.TOOLTIP"
@@ -3214,6 +3272,10 @@ msgid ""
 "\n"
 "<link=\"WATER\">Water</link> output temperature: {0}"
 msgstr ""
+"Esta construção está atualmente derretendo <link=\"ICE\">Gelo</link> "
+"armazenado para produzir <link=\"WATER\">Água</link>\n"
+"\n"
+"Temperatura de saída da <link=\"WATER\">Água</link> em: {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.LANDEDROCKETLACKSPASSENGERMODULE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LANDEDROCKETLACKSPASSENGERMODULE.NAME"
@@ -3600,7 +3662,7 @@ msgstr "Desmoronando"
 #. STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.NOTIFICATION_NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.NOTIFICATION_NAME"
 msgid "Building breakdown"
-msgstr ""
+msgstr "Construção em Colapso"
 
 #. STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.NOTIFICATION_TOOLTIP"
@@ -3625,7 +3687,7 @@ msgstr "Esta construção está funcionando na capacidade máxima"
 #. STRINGS.BUILDING.STATUSITEMS.MERCURYLIGHT_CHARGING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MERCURYLIGHT_CHARGING.NAME"
 msgid "Powering Up: {0}"
-msgstr ""
+msgstr "Recarregando: {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.MERCURYLIGHT_CHARGING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MERCURYLIGHT_CHARGING.TOOLTIP"
@@ -3637,11 +3699,17 @@ msgid ""
 "style> requirements continue to be met, it will reach maximum brightness in "
 "{0}"
 msgstr ""
+"Os níveis de <style=\"KKeyword\">Luz</style> desta construção estão "
+"aumentando gradualmente\n"
+"\n"
+"Se os requisitos de <style=\"KKeyword\">Líquido</style> e "
+"<style=\"KKeyword\">Energia</style> continuarem a ser atendidos, ela "
+"atingirá o brilho máximo em {0}"
 
 #. STRINGS.BUILDING.STATUSITEMS.MERCURYLIGHT_DEPLEATED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MERCURYLIGHT_DEPLEATED.NAME"
 msgid "Powered Off"
-msgstr ""
+msgstr "Desligado(a)"
 
 #. STRINGS.BUILDING.STATUSITEMS.MERCURYLIGHT_DEPLEATED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MERCURYLIGHT_DEPLEATED.TOOLTIP"
@@ -3651,6 +3719,10 @@ msgid ""
 "It will begin to power up when its <style=\"KKeyword\">Liquid</style> and "
 "<style=\"KKeyword\">Power</style> are met"
 msgstr ""
+"Esta construção não está funcionando devido à falta de recursos\n"
+"\n"
+"Ela começará a ligar quando seu <style=\"KKeyword\">Líquido</style> e "
+"<style=\"KKeyword\">Energia</style> forem atingidos"
 
 #. STRINGS.BUILDING.STATUSITEMS.MERCURYLIGHT_DEPLEATING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MERCURYLIGHT_DEPLEATING.NAME"
@@ -3666,6 +3738,11 @@ msgid ""
 "\n"
 "It will power off once its stores are depleted"
 msgstr ""
+"A produção de <style=\"KKeyword\">Luz</style> desta construção está "
+"diminuindo porque seus requisitos de <style=\"KKeyword\">Líquido</style> e "
+"<style=\"KKeyword\">Energia</style> não estão sendo atendidos\n"
+"\n"
+"Ela será desligado quando seus estoques estiverem esgotados"
 
 #. STRINGS.BUILDING.STATUSITEMS.MILKSEPARATORNEEDSEMPTYING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MILKSEPARATORNEEDSEMPTYING.NAME"
@@ -3737,7 +3814,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.MISSINGGANTRY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MISSINGGANTRY.NAME"
 msgid "Missing Gantry"
-msgstr ""
+msgstr "Pórtico Ausente"
 
 #. STRINGS.BUILDING.STATUSITEMS.MISSINGGANTRY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MISSINGGANTRY.TOOLTIP"
@@ -3746,6 +3823,10 @@ msgid ""
 "<link=\"COMMANDMODULE\">Command Capsules</link> and "
 "<link=\"TOURISTMODULE\">Sight-Seeing Modules</link> for Duplicant access"
 msgstr ""
+"Um <link=\"GANTRY\">Pórtico</link> deve ser construído abaixo das "
+"<link=\"COMMANDMODULE\">Cápsulas de Comando</link> e dos "
+"<link=\"TOURISTMODULE\">Módulos de Passeios Turísticos</link> para acesso ao "
+"Duplicante"
 
 #. STRINGS.BUILDING.STATUSITEMS.MISSINGREQUIREMENTS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MISSINGREQUIREMENTS.NAME"
@@ -3804,6 +3885,10 @@ msgid ""
 "\n"
 "Right now, it's not doing much of anything"
 msgstr ""
+"O mecanismo gerará <style=\"produced\">{MaxWattage}</style> de "
+"<style=\"KKeyword\">Energia</style> ao viajar pelo espaço\n"
+"\n"
+"No momento, não está fazendo muita coisa"
 
 #. STRINGS.BUILDING.STATUSITEMS.MODULEGENERATORPOWERED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MODULEGENERATORPOWERED.NAME"
@@ -3818,6 +3903,10 @@ msgid ""
 "\n"
 "It will continue generating power as long as it travels through space"
 msgstr ""
+"O motor está extraindo <style=\"produced\">{MaxWattage}</style> de "
+"<style=\"KKeyword\">Energia</style> do propulsor\n"
+"\n"
+"Ele continuará gerando energia enquanto viajar pelo espaço"
 
 #. STRINGS.BUILDING.STATUSITEMS.MODULESOLARPANELWATTAGE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MODULESOLARPANELWATTAGE.NAME"
@@ -3830,11 +3919,13 @@ msgid ""
 "This panel is generating <style=\"produced\">{Wattage}</style> of "
 "<style=\"KKeyword\">Power</style>"
 msgstr ""
+"Este painel está gerando <style=\"produced\">{Wattage}</style> de "
+"<style=\"KKeyword\">Energia</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.MOPUNREACHABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MOPUNREACHABLE.NAME"
 msgid "Unreachable Mop"
-msgstr ""
+msgstr "Área de Limpeza Inacessível"
 
 #. STRINGS.BUILDING.STATUSITEMS.MOPUNREACHABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MOPUNREACHABLE.TOOLTIP"
@@ -4000,7 +4091,7 @@ msgstr "Arranque as plantas selvagens para obter sementes"
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDIN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDIN.NAME"
 msgid "No Conveyor Loader"
-msgstr ""
+msgstr "Sem Carregador de Transportador"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDIN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSOLIDIN.TOOLTIP"
@@ -4104,6 +4195,8 @@ msgid ""
 "Select an unknown destination from the <b>Starmap</b> {Hotkey/ManageStarmap} "
 "to begin analysis"
 msgstr ""
+"Selecione um destino desconhecido no <b>Mapa Estelar</b> {Hotkey/"
+"ManageStarmap} para iniciar a análise"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.NAME"
@@ -4262,6 +4355,8 @@ msgctxt ""
 "NOTIFICATION_NAME"
 msgid "No <link=\"TECH\">Research Focus</link> or Starmap destination selected"
 msgstr ""
+"Nenhum <link=\"TECH\">Foco de Pesquisa</link> ou destino no Mapa Estelar "
+"selecionado"
 
 #. STRINGS.BUILDING.STATUSITEMS.NORESEARCHORDESTINATIONSELECTED.NOTIFICATION_TOOLTIP
 msgctxt ""
@@ -4272,6 +4367,9 @@ msgid ""
 "<b><color=#F44A4A>[R]</b></color> or a Destination in the <b>Starmap</b> "
 "<b><color=#F44A4A>[Z]</b></color>"
 msgstr ""
+"Selecione um projeto de <link=\"TECH\">Pesquisa</link> na <b>Árvore de "
+"Pesquisa</b> <b><color=#F44A4A>[R]</b></color> ou um Destino no <b>Mapa "
+"Estelar</b> <b><color=#F44A4A>[Z]</b></color>"
 
 #. STRINGS.BUILDING.STATUSITEMS.NORESEARCHORDESTINATIONSELECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORESEARCHORDESTINATIONSELECTED.TOOLTIP"
@@ -4280,16 +4378,19 @@ msgid ""
 "{Hotkey/ManageResearch} or a Destination in the <b>Starmap</b> {Hotkey/"
 "ManageStarmap}"
 msgstr ""
+"Selecione um projeto de <link=\"TECH\">Pesquisa</link> na <b>Árvore de "
+"Pesquisa</b> {Hotkey/ManageResearch} ou um Destino no <b>Mapa Estelar</b> "
+"{Hotkey/ManageStarmap}"
 
 #. STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.NAME"
 msgid "No Research Focus Selected"
-msgstr ""
+msgstr "Nenhum Foco de Pesquisa Selecionado"
 
 #. STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.NOTIFICATION_NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.NOTIFICATION_NAME"
 msgid "No <link=\"TECH\">Research Focus</link> selected"
-msgstr ""
+msgstr "Nenhum <link=\"TECH\">Foco de Pesquisa</link> selecionado"
 
 #. STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.NOTIFICATION_TOOLTIP"
@@ -4297,6 +4398,8 @@ msgid ""
 "Open the <b>Research Tree</b> {Hotkey/ManageResearch} to select a new "
 "<link=\"TECH\">Research</link> project"
 msgstr ""
+"Abra a <b>Árvore de Pesquisa</b> {Hotkey/ManageResearch} para selecionar um "
+"novo projeto de <link=\"TECH\">Pesquisa</link>"
 
 #. STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.TOOLTIP"
@@ -4304,6 +4407,8 @@ msgid ""
 "Open the <b>Research Tree</b> {Hotkey/ManageResearch} to select a new "
 "<link=\"TECH\">Research</link> project"
 msgstr ""
+"Abra a <b>Árvore de Pesquisa</b> {Hotkey/ManageResearch} para selecionar um "
+"novo projeto de <link=\"TECH\">Pesquisa</link>"
 
 #. STRINGS.BUILDING.STATUSITEMS.NORMAL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORMAL.NAME"
@@ -4313,7 +4418,7 @@ msgstr "Normal"
 #. STRINGS.BUILDING.STATUSITEMS.NORMAL.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORMAL.TOOLTIP"
 msgid "Nothing out of the ordinary here"
-msgstr ""
+msgstr "Nada fora do comum aqui"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOROCKETRESTRICTION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOROCKETRESTRICTION.NAME"
@@ -4326,11 +4431,13 @@ msgid ""
 "This building is not controlled by a <link=\"ROCKETCONTROLSTATION\">Rocket "
 "Control Station</link>"
 msgstr ""
+"Esta construção não é controlada por uma "
+"<link=\"ROCKETCONTROLSTATION\">Estação de Controle de Foguetes</link>"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOROCKETSTOMISSIONCONTROLBOOST.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOROCKETSTOMISSIONCONTROLBOOST.NAME"
 msgid "No Eligible Rockets in Range"
-msgstr ""
+msgstr "Nenhum Foguete Elegível ao Alcance"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOROCKETSTOMISSIONCONTROLBOOST.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOROCKETSTOMISSIONCONTROLBOOST.TOOLTIP"
@@ -4338,12 +4445,14 @@ msgid ""
 "Rockets must be mid-flight and not targeted by another Mission Control "
 "Station, or already boosted"
 msgstr ""
+"Os foguetes devem estar em pleno voo e não podem ser alvo de outra Estação "
+"de Controle de Missão, ou já estar impulsionados"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOROCKETSTOMISSIONCONTROLCLUSTERBOOST.NAME
 msgctxt ""
 "STRINGS.BUILDING.STATUSITEMS.NOROCKETSTOMISSIONCONTROLCLUSTERBOOST.NAME"
 msgid "No Eligible Rockets in Range"
-msgstr ""
+msgstr "Nenhum Foguete Elegível ao Alcance"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOROCKETSTOMISSIONCONTROLCLUSTERBOOST.TOOLTIP
 msgctxt ""
@@ -4352,16 +4461,19 @@ msgid ""
 "Rockets must be mid-flight, within {0} tiles, and not targeted by another "
 "Mission Control Station or already boosted"
 msgstr ""
+"Os foguetes devem estar no meio do voo, dentro de {0} blocos, e não podem "
+"ser direcionados por outra Estação de Controle da Missão ou já impulsionados"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOSTORAGEFILTERSET.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOSTORAGEFILTERSET.NAME"
 msgid "Filters Not Designated"
-msgstr ""
+msgstr "Filtros não Designados"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOSTORAGEFILTERSET.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOSTORAGEFILTERSET.TOOLTIP"
 msgid "No resources types are marked for storage in this building"
 msgstr ""
+"Nenhum tipo de recurso está marcado para armazenamento nesta construção"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOSUITMARKER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOSUITMARKER.NAME"
@@ -4374,6 +4486,9 @@ msgid ""
 "Docks must be placed beside a <link=\"CHECKPOINT\">Duplicant Checkpoint</"
 "link>, opposite the side the checkpoint faces"
 msgstr ""
+"As docas devem ser colocadas ao lado de um <link=\"CHECKPOINT\">Ponto de "
+"Verificação de Duplicante</link>, oposto ao lado voltado para o ponto de "
+"verificação"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOSURFACESIGHT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOSURFACESIGHT.NAME"
@@ -4395,7 +4510,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.NOTENOUGHPOWER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOTENOUGHPOWER.NAME"
 msgid "Insufficient Power"
-msgstr ""
+msgstr "Energia Insuficiente"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOTENOUGHPOWER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOTENOUGHPOWER.TOOLTIP"
@@ -4403,6 +4518,8 @@ msgid ""
 "This building does not have enough stored <style=\"KKeyword\">Power</style> "
 "to run"
 msgstr ""
+"Esta construção não tem <style=\"KKeyword\">Energia</style> armazenada "
+"suficiente para funcionar"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOTINANYROOM.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOTINANYROOM.NAME"
@@ -4437,6 +4554,10 @@ msgid ""
 "Open the <b>Room Overlay</b> {Hotkey/Overlay11} to view full "
 "<style=\"KKeyword\">Room</style> status"
 msgstr ""
+"Recomenda-se construir esta construção dentro de um {0}\n"
+"\n"
+"Abra o <b>Panorama de Quartos</b> {Hotkey/Overlay11} para visualizar o "
+"status completo do <style=\"KKeyword\">Quarto</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOTINREQUIREDROOM.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOTINREQUIREDROOM.NAME"
@@ -4469,12 +4590,12 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.NOTSUBMERGED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOTSUBMERGED.NAME"
 msgid "Building Not Submerged"
-msgstr ""
+msgstr "Construção Não Submersa"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOTSUBMERGED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOTSUBMERGED.TOOLTIP"
 msgid "Building cannot function unless submerged in liquid"
-msgstr ""
+msgstr "A construção não pode funcionar a menos que esteja submersa em líquido"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOTUBECONNECTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOTUBECONNECTED.NAME"
@@ -4492,7 +4613,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.NOTUBEEXITS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOTUBEEXITS.NAME"
 msgid "No Landing Available"
-msgstr ""
+msgstr "Nenhum Pouso Disponível"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOTUBEEXITS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOTUBEEXITS.TOOLTIP"
@@ -4536,12 +4657,12 @@ msgstr "Aberto"
 #. STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.EXHAUSTING
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.EXHAUSTING"
 msgid "Excess produced"
-msgstr ""
+msgstr "Excesso produzido"
 
 #. STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.FOOD_TRANSFER
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.FOOD_TRANSFER"
 msgid "Internal Cooling"
-msgstr ""
+msgstr "Resfriamento Interno"
 
 #. STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.LINEITEM
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.LINEITEM"
@@ -4551,7 +4672,7 @@ msgstr "    • {0}: {1}\n"
 #. STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.NAME"
 msgid "Heat Production: {0}/s"
-msgstr ""
+msgstr "Produção de Calor: {0}/s"
 
 #. STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.OPERATING
 msgctxt "STRINGS.BUILDING.STATUSITEMS.OPERATINGENERGY.OPERATING"
@@ -4622,7 +4743,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.PASSENGERMODULEUNREACHABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PASSENGERMODULEUNREACHABLE.NAME"
 msgid "Unreachable Module"
-msgstr ""
+msgstr "Módulo Inalcançável"
 
 #. STRINGS.BUILDING.STATUSITEMS.PASSENGERMODULEUNREACHABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PASSENGERMODULEUNREACHABLE.TOOLTIP"
@@ -4782,7 +4903,7 @@ msgstr "Vazio"
 #. STRINGS.BUILDING.STATUSITEMS.PIPEMAYMELT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PIPEMAYMELT.NAME"
 msgid "High Melt Risk"
-msgstr ""
+msgstr "Alto Risco de Derretimento"
 
 #. STRINGS.BUILDING.STATUSITEMS.PIPEMAYMELT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PIPEMAYMELT.TOOLTIP"
@@ -4881,7 +5002,7 @@ msgstr "Emitindo Atualmente: {ENERGY_RATE}"
 #. STRINGS.BUILDING.STATUSITEMS.RAILGUN_NO_DESTINATION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RAILGUN_NO_DESTINATION.NAME"
 msgid "No Delivery Destination"
-msgstr ""
+msgstr "Sem Destino de Entrega"
 
 #. STRINGS.BUILDING.STATUSITEMS.RAILGUN_NO_DESTINATION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RAILGUN_NO_DESTINATION.TOOLTIP"
@@ -4916,7 +5037,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.RAILGUNPAYLOADNEEDSEMPTYING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RAILGUNPAYLOADNEEDSEMPTYING.NAME"
 msgid "Ready To Unpack"
-msgstr ""
+msgstr "Pronto para Desempacotar"
 
 #. STRINGS.BUILDING.STATUSITEMS.RAILGUNPAYLOADNEEDSEMPTYING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RAILGUNPAYLOADNEEDSEMPTYING.TOOLTIP"
@@ -5019,7 +5140,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_LOADING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_LOADING.NAME"
 msgid "Loading Rocket"
-msgstr ""
+msgstr "Carregando Foguete"
 
 #. STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_LOADING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ROCKET_PORT_LOADING.TOOLTIP"
@@ -5169,6 +5290,8 @@ msgid ""
 "This panel is generating <style=\"produced\">{Wattage}</style> of "
 "<style=\"KKeyword\">Power</style>"
 msgstr ""
+"Este painel está gerando <style=\"produced\">{Wattage}</style> de "
+"<style=\"KKeyword\">Energia</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.SOLIDCONDUITBLOCKEDMULTIPLES.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.SOLIDCONDUITBLOCKEDMULTIPLES.NAME"
@@ -5674,7 +5797,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.TOP_PRIORITY_CHORE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOP_PRIORITY_CHORE.NAME"
 msgid "Top Priority"
-msgstr ""
+msgstr "Prioridade Máxima"
 
 #. STRINGS.BUILDING.STATUSITEMS.TOP_PRIORITY_CHORE.NOTIFICATION_NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOP_PRIORITY_CHORE.NOTIFICATION_NAME"
@@ -5840,12 +5963,12 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTION.NAME"
 msgid "Under Construction"
-msgstr ""
+msgstr "Em construção"
 
 #. STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTION.TOOLTIP"
 msgid "This building is currently being built"
-msgstr "Esta construção está sendo construída atualmente"
+msgstr "Esta construção está sendo construída"
 
 #. STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTIONNOWORKER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTIONNOWORKER.NAME"
@@ -8947,7 +9070,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.DEVRADIATIONGENERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.DEVRADIATIONGENERATOR.DESC"
 msgid "That's some <i>strong</i> coffee."
-msgstr ""
+msgstr "Isso é um café <i>forte</i>."
 
 #. STRINGS.BUILDINGS.PREFABS.DEVRADIATIONGENERATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DEVRADIATIONGENERATOR.EFFECT"
@@ -9080,7 +9203,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.DLC2POITECHUNLOCKS.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DLC2POITECHUNLOCKS.NAME"
 msgid "Research Portal"
-msgstr ""
+msgstr "Portal de Pesquisa"
 
 #. STRINGS.BUILDINGS.PREFABS.DOCTORSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOCTORSTATION.DESC"
@@ -48707,7 +48830,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.MODIFIERS.FUSSY.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FUSSY.NAME"
 msgid "Fussy"
-msgstr ""
+msgstr "Temperamental"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.FUSSY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FUSSY.TOOLTIP"
@@ -50038,7 +50161,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.MODIFIERS.STARRYEYED.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STARRYEYED.NAME"
 msgid "Starry Eyed"
-msgstr ""
+msgstr "Olhos Estrelados"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STARRYEYED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STARRYEYED.TOOLTIP"
@@ -51330,7 +51453,7 @@ msgstr "<link=\"BUILDING2\">Construção Aprimorada II</link>"
 #. STRINGS.DUPLICANTS.ROLES.COOK.DESCRIPTION
 msgctxt "STRINGS.DUPLICANTS.ROLES.COOK.DESCRIPTION"
 msgid "Improves a Duplicant's cooking speed"
-msgstr ""
+msgstr "Melhora a velocidade de cozimento de um Duplicante"
 
 #. STRINGS.DUPLICANTS.ROLES.COOK.NAME
 msgctxt "STRINGS.DUPLICANTS.ROLES.COOK.NAME"
@@ -53179,7 +53302,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.METEORPHILE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.METEORPHILE.NAME"
 msgid "Rock Fan"
-msgstr ""
+msgstr "Fã de Rochas"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.METEORPHILE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.METEORPHILE.TOOLTIP"
@@ -53191,22 +53314,23 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.MINGLING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MINGLING.NAME"
 msgid "Mingling"
-msgstr ""
+msgstr "Se enturmando"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MINGLING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MINGLING.TOOLTIP"
 msgid "This Duplicant is using their break to chat with friends"
 msgstr ""
+"Este Duplicante está aproveitando o intervalo para conversar com amigos"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MISSIONCONTROLLING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MISSIONCONTROLLING.NAME"
 msgid "Mission Controlling"
-msgstr ""
+msgstr "Controlando Missão"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MISSIONCONTROLLING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MISSIONCONTROLLING.TOOLTIP"
 msgid "This Duplicant is guiding a <style=\"KKeyword\">Rocket</style>"
-msgstr ""
+msgstr "Este Duplicante está guiando um <style=\"KKeyword\">Foguete</style>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOPDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOPDELIVERSTATUS.NAME"
@@ -53226,12 +53350,12 @@ msgstr "Esfregando"
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOPPING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOPPING.TOOLTIP"
 msgid "This Duplicant is cleaning up a nasty spill"
-msgstr ""
+msgstr "Este Duplicante está limpando um derramamento desagradável"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOVETOSUITNOTREQUIRED.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOVETOSUITNOTREQUIRED.NAME"
 msgid "Exiting Exosuit area"
-msgstr ""
+msgstr "Saindo da área do Exosuit"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOVETOSUITNOTREQUIRED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOVETOSUITNOTREQUIRED.TOOLTIP"
@@ -53239,16 +53363,18 @@ msgid ""
 "This Duplicant is leaving an area where a <style=\"KKeyword\">Suit</style> "
 "was required"
 msgstr ""
+"Este Duplicante está saindo de uma área onde um <style=\"KKeyword\">Traje</"
+"style> era necessário"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOVINGTOSAFEAREA.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOVINGTOSAFEAREA.NAME"
 msgid "Moving to safe area"
-msgstr ""
+msgstr "Movendo-se para uma área segura"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MOVINGTOSAFEAREA.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MOVINGTOSAFEAREA.TOOLTIP"
 msgid "This Duplicant is finding a less dangerous place"
-msgstr ""
+msgstr "Este Duplicante está encontrando um lugar menos perigoso"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MUSHDELIVERSTATUS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MUSHDELIVERSTATUS.NAME"
@@ -53263,22 +53389,22 @@ msgstr "Este Duplicante está transportando materiais para <b>{Target}</b>"
 #. STRINGS.DUPLICANTS.STATUSITEMS.MUSHING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MUSHING.NAME"
 msgid "Mushing {Item}"
-msgstr ""
+msgstr "Empurrando {Item}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.MUSHING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.MUSHING.TOOLTIP"
 msgid "This Duplicant is cooking a <b>{Item}</b>"
-msgstr ""
+msgstr "Este Duplicante está cozinhando um <b>{Item}</b>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NERVOUSBREAKDOWN.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NERVOUSBREAKDOWN.NAME"
 msgid "Nervous breakdown"
-msgstr ""
+msgstr "Colapso Nervoso"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NERVOUSBREAKDOWN.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NERVOUSBREAKDOWN.NOTIFICATION_NAME"
 msgid "Nervous breakdown"
-msgstr ""
+msgstr "Colapso nervoso"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NERVOUSBREAKDOWN.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NERVOUSBREAKDOWN.NOTIFICATION_TOOLTIP"
@@ -53286,6 +53412,8 @@ msgid ""
 "These Duplicants have cracked under the <style=\"KKeyword\">Stress</style> "
 "and need assistance:"
 msgstr ""
+"Esses Duplicantes quebraram sob o <style=\"KKeyword\">Estresse</style> e "
+"precisam de ajuda:"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NERVOUSBREAKDOWN.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NERVOUSBREAKDOWN.TOOLTIP"
@@ -53293,11 +53421,13 @@ msgid ""
 "<style=\"KKeyword\">Stress</style> has completely eroded this Duplicant's "
 "ability to function"
 msgstr ""
+"<style=\"KKeyword\">O estresse</style> corroeu completamente a capacidade de "
+"funcionamento deste Duplicante"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NIGHTTIME.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NIGHTTIME.NAME"
 msgid "Night Owl"
-msgstr ""
+msgstr "Coruja Noturna"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NIGHTTIME.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NIGHTTIME.TOOLTIP"
@@ -53306,6 +53436,9 @@ msgid ""
 "<style=\"KKeyword\">Schedule</style>\n"
 "• All <style=\"KKeyword\">Attributes</style> <b>+3</b> at night"
 msgstr ""
+"Este Duplicante é mais eficiente em uma <style=\"KKeyword\">Programação</"
+"style> noturna\n"
+"• Todos os <style=\"KKeyword\">Atributos</style> <b>+3</b> à noite"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOISEMAJOR.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOISEMAJOR.NAME"
@@ -53380,7 +53513,7 @@ msgstr "Sem Latrinas"
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.NOTIFICATION_NAME"
 msgid "No Outhouses built"
-msgstr ""
+msgstr "Nenhuma latrina construída"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.NOTIFICATION_TOOLTIP"
@@ -53404,12 +53537,12 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.NAME"
 msgid "Toilet out of order"
-msgstr ""
+msgstr "Banheiro fora de serviço"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.NOTIFICATION_NAME"
 msgid "Toilet out of order"
-msgstr ""
+msgstr "Banheiro fora de serviço"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.NOTIFICATION_TOOLTIP"
@@ -53417,6 +53550,8 @@ msgid ""
 "These Duplicants want to use an <link=\"OUTHOUSE\">Outhouse</link> or "
 "<link=\"FLUSHTOILET\">Lavatory</link> that is out of order:"
 msgstr ""
+"Esses Duplicantes querem usar um <link=\"OUTHOUSE\">Banheiro</link> ou "
+"<link=\"FLUSHTOILET\">Lavatório</link> que está com defeito:"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOUSABLETOILETS.TOOLTIP"
@@ -53439,7 +53574,7 @@ msgstr "Este Duplicante está transportando materiais para <b>{Target}</b>"
 #. STRINGS.DUPLICANTS.STATUSITEMS.PICKINGUP.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.PICKINGUP.NAME"
 msgid "Picking up {Target}"
-msgstr ""
+msgstr "Pegando {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.PICKINGUP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.PICKINGUP.TOOLTIP"
@@ -53500,7 +53635,7 @@ msgstr "Refinando {Item}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.PROCESSING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.PROCESSING.TOOLTIP"
 msgid "This Duplicant is refining <b>{Item}</b>"
-msgstr ""
+msgstr "Este Duplicante está refinando <b>{Item}</b>"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNREACHABLE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNREACHABLE.NAME"
@@ -53577,7 +53712,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.RATIONSNOTPERMITTED.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RATIONSNOTPERMITTED.NAME"
 msgid "Food Type Not Permitted"
-msgstr ""
+msgstr "Tipo de Alimento Não Permitido"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.RATIONSNOTPERMITTED.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RATIONSNOTPERMITTED.NOTIFICATION_NAME"
@@ -54242,10 +54377,9 @@ msgid "This Duplicant cannot breathe!"
 msgstr "Este Duplicante não consegue respirar!"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.TINKERING.NAME
-#, fuzzy
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.TINKERING.NAME"
 msgid "Tinkering"
-msgstr "Melhorando"
+msgstr "Ajustando"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.TINKERING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.TINKERING.TOOLTIP"
@@ -54697,7 +54831,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.TRAITS.CANNOT_DO_TASK
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANNOT_DO_TASK"
 msgid "Cannot do <b>{0} Errands</b>"
-msgstr ""
+msgstr "Não pode fazer <b>{0} tarefas</b>"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANNOT_DO_TASK_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANNOT_DO_TASK_TOOLTIP"
@@ -54935,22 +55069,22 @@ msgstr ""
 #. STRINGS.DUPLICANTS.TRAITS.FROSTPROOF.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.FROSTPROOF.NAME"
 msgid "Frost Proof"
-msgstr ""
+msgstr "À Prova de Gelo"
 
 #. STRINGS.DUPLICANTS.TRAITS.FUSSY.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.FUSSY.DESC"
 msgid "Nothing's ever quite good enough for this Duplicant"
-msgstr ""
+msgstr "Nada é bom o suficiente para este Duplicante"
 
 #. STRINGS.DUPLICANTS.TRAITS.FUSSY.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.FUSSY.NAME"
 msgid "Fussy"
-msgstr ""
+msgstr "Temperamental"
 
 #. STRINGS.DUPLICANTS.TRAITS.GLOWSTICK.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GLOWSTICK.DESC"
 msgid "This Duplicant is positively glowing"
-msgstr ""
+msgstr "Este Duplicante está brilhando positivamente"
 
 #. STRINGS.DUPLICANTS.TRAITS.GLOWSTICK.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GLOWSTICK.NAME"
@@ -54960,12 +55094,12 @@ msgstr ""
 #. STRINGS.DUPLICANTS.TRAITS.GLOWSTICK.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GLOWSTICK.SHORT_DESC"
 msgid "Emits low amounts of rads and light"
-msgstr ""
+msgstr "Emite baixas quantidades de radiação e luz"
 
 #. STRINGS.DUPLICANTS.TRAITS.GLOWSTICK.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GLOWSTICK.SHORT_DESC_TOOLTIP"
 msgid "Emits low amounts of rads and light"
-msgstr ""
+msgstr "Emite baixas quantidades de radiação e luz"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTED_SKILL_SHARED_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTED_SKILL_SHARED_DESC"
@@ -54981,7 +55115,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.TRAITS.GRANTED_SKILL_SHARED_NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTED_SKILL_SHARED_NAME"
 msgid "Skilled: "
-msgstr ""
+msgstr "Especializado:"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTED_SKILL_SHARED_SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTED_SKILL_SHARED_SHORT_DESC_TOOLTIP"
@@ -55243,7 +55377,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_COOKING2.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_COOKING2.DESC"
 msgid "Improves a Duplicant's cooking speed"
-msgstr ""
+msgstr "Melhora a velocidade de cozimento de um Duplicante"
 
 #. STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_COOKING2.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.GRANTSKILL_COOKING2.NAME"
@@ -55890,7 +56024,7 @@ msgstr "{0}: {1}"
 #. STRINGS.DUPLICANTS.TRAITS.INTERIORDECORATOR.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.INTERIORDECORATOR.DESC"
 msgid "\"Move it a little to the left...\""
-msgstr ""
+msgstr "\"Mova um pouco para a esquerda...\""
 
 #. STRINGS.DUPLICANTS.TRAITS.INTERIORDECORATOR.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.INTERIORDECORATOR.NAME"
@@ -55901,16 +56035,17 @@ msgstr "Decorador de Interiores"
 msgctxt "STRINGS.DUPLICANTS.TRAITS.IRONGUT.DESC"
 msgid "This Duplicant can eat just about anything without getting sick"
 msgstr ""
+"Este Duplicante pode comer praticamente qualquer coisa sem ficar doente"
 
 #. STRINGS.DUPLICANTS.TRAITS.IRONGUT.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.IRONGUT.NAME"
 msgid "Iron Gut"
-msgstr ""
+msgstr "Estômago de Aço"
 
 #. STRINGS.DUPLICANTS.TRAITS.IRONGUT.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.IRONGUT.SHORT_DESC"
 msgid "Immune to <b><link=\"FOODSICKNESS\">Food Poisoning</link></b>"
-msgstr ""
+msgstr "Imune a <b><link=\"FOODSICKNESS\">Intoxicação Alimentar</link></b>"
 
 #. STRINGS.DUPLICANTS.TRAITS.IRONGUT.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.IRONGUT.SHORT_DESC_TOOLTIP"
@@ -55918,31 +56053,35 @@ msgid ""
 "Eating food contaminated with <link=\"FOODSICKNESS\">Food Poisoning</link> "
 "Germs will not affect this Duplicant"
 msgstr ""
+"Comer alimentos contaminados com germes de "
+"<link=\"FOODSICKNESS\">Intoxicação Alimentar</link> não afetará este "
+"Duplicante"
 
 #. STRINGS.DUPLICANTS.TRAITS.IRRITABLEBOWEL.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.IRRITABLEBOWEL.DESC"
 msgid "This Duplicant needs a little extra time to \"do their business\""
 msgstr ""
+"Este Duplicante precisa de um pouco mais de tempo para “fazer seus negócios”"
 
 #. STRINGS.DUPLICANTS.TRAITS.IRRITABLEBOWEL.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.IRRITABLEBOWEL.NAME"
 msgid "Irritable Bowel"
-msgstr ""
+msgstr "Intestino Irritável"
 
 #. STRINGS.DUPLICANTS.TRAITS.LONER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.LONER.DESC"
 msgid "This Duplicant prefers solitary pursuits"
-msgstr ""
+msgstr "Este Duplicante prefere atividades solitárias"
 
 #. STRINGS.DUPLICANTS.TRAITS.LONER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.LONER.NAME"
 msgid "Loner"
-msgstr ""
+msgstr "Solitário(a)"
 
 #. STRINGS.DUPLICANTS.TRAITS.LONER.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.LONER.SHORT_DESC"
 msgid "Attribute bonuses while alone"
-msgstr ""
+msgstr "Bônus atribuído enquanto estiver sozinho"
 
 #. STRINGS.DUPLICANTS.TRAITS.LONER.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.LONER.SHORT_DESC_TOOLTIP"
@@ -55950,6 +56089,8 @@ msgid ""
 "Only Duplicant on a world: <b>+4</b> bonus to all "
 "<style=\"KKeyword\">Attributes</style>"
 msgstr ""
+"Único Duplicante em um mundo: <b>+4</b> bônus para todos os "
+"<style=\"KKeyword\">Atributos</style>"
 
 #. STRINGS.DUPLICANTS.TRAITS.MACHINERYDOWN.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.MACHINERYDOWN.DESC"
@@ -55957,16 +56098,18 @@ msgid ""
 "This Duplicant always invites friends over just to make them hook up their "
 "electronics"
 msgstr ""
+"Este Duplicante sempre convida amigos apenas para fazê-los conectar seus "
+"aparelhos eletrônicos"
 
 #. STRINGS.DUPLICANTS.TRAITS.MACHINERYDOWN.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.MACHINERYDOWN.NAME"
 msgid "Luddite"
-msgstr ""
+msgstr "Ludita"
 
 #. STRINGS.DUPLICANTS.TRAITS.METEORPHILE.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.METEORPHILE.DESC"
 msgid "Meteor showers get this Duplicant really, really hyped"
-msgstr ""
+msgstr "Chuvas de meteoros deixam este Duplicante muito, muito entusiasmado"
 
 #. STRINGS.DUPLICANTS.TRAITS.METEORPHILE.EXTENDED_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.METEORPHILE.EXTENDED_DESC"
@@ -55974,16 +56117,18 @@ msgid ""
 "• During meteor showers: <b>{0}</b> bonus to all "
 "<style=\"KKeyword\">Attributes</style>"
 msgstr ""
+"• Durante chuvas de meteoros: <b>{0}</b> bônus para todos os "
+"<style=\"KKeyword\">Atributos</style>"
 
 #. STRINGS.DUPLICANTS.TRAITS.METEORPHILE.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.METEORPHILE.NAME"
 msgid "Rock Fan"
-msgstr ""
+msgstr "Fã de Rochas"
 
 #. STRINGS.DUPLICANTS.TRAITS.METEORPHILE.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.METEORPHILE.SHORT_DESC"
 msgid "Gains Attribute bonuses during meteor showers."
-msgstr ""
+msgstr "Ganha bônus de atributos durante chuvas de meteoros."
 
 #. STRINGS.DUPLICANTS.TRAITS.METEORPHILE.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.METEORPHILE.SHORT_DESC_TOOLTIP"
@@ -55991,16 +56136,19 @@ msgid ""
 "During meteor showers: <b>+3</b> bonus to all "
 "<style=\"KKeyword\">Attributes</style>"
 msgstr ""
+"Durante chuvas de meteoros: bônus de <b>+3</b> para todos os "
+"<style=\"KKeyword\">Atributos</style>"
 
 #. STRINGS.DUPLICANTS.TRAITS.MOLEHANDS.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.MOLEHANDS.DESC"
 msgid "They're great for tunneling, but finding good gloves is a nightmare"
 msgstr ""
+"Elas são ótimas para escavar túneis, mas encontrar boas luvas é um pesadelo"
 
 #. STRINGS.DUPLICANTS.TRAITS.MOLEHANDS.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.MOLEHANDS.NAME"
 msgid "Mole Hands"
-msgstr ""
+msgstr "Mãos de Toupeira"
 
 #. STRINGS.DUPLICANTS.TRAITS.MOUTHBREATHER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.MOUTHBREATHER.DESC"
@@ -56008,31 +56156,35 @@ msgid ""
 "This Duplicant sucks up way more than their fair share of "
 "<link=\"OXYGEN\">Oxygen</link>"
 msgstr ""
+"Este Duplicante suga muito mais do que seu quinhão de "
+"<link=\"OXYGEN\">Oxigênio</link>"
 
 #. STRINGS.DUPLICANTS.TRAITS.MOUTHBREATHER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.MOUTHBREATHER.NAME"
 msgid "Mouth Breather"
-msgstr ""
+msgstr "Respira pela Boca"
 
 #. STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.DESC"
 msgid "This Duplicant can and will fall asleep anytime, anyplace"
 msgstr ""
+"Este Duplicante pode e irá adormecer a qualquer hora, em qualquer lugar"
 
 #. STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.NAME"
 msgid "Narcoleptic"
-msgstr ""
+msgstr "Narcoléptico(a)"
 
 #. STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.SHORT_DESC"
 msgid "Falls asleep periodically"
-msgstr ""
+msgstr "Adormece periodicamente"
 
 #. STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NARCOLEPSY.SHORT_DESC_TOOLTIP"
 msgid "This Duplicant's work will be periodically interrupted by naps"
 msgstr ""
+"O trabalho deste Duplicante será periodicamente interrompido por cochilos"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.CLAUSTROPHOBIC.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.CLAUSTROPHOBIC.DESC"
@@ -56040,6 +56192,8 @@ msgid ""
 "This Duplicant feels suffocated in spaces fewer than four tiles high or "
 "three tiles wide"
 msgstr ""
+"Este Duplicante se sente sufocado em espaços com menos de quatro peças de "
+"altura ou três peças de largura"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.CLAUSTROPHOBIC.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.CLAUSTROPHOBIC.NAME"
@@ -56052,21 +56206,25 @@ msgid ""
 "Climbing ladders more than four tiles tall makes this Duplicant's stomach do "
 "flips"
 msgstr ""
+"Subir escadas com mais de quatro ladrilhos de altura faz o estômago deste "
+"Duplicante revirar"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.CLIMACOPHOBIC.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.CLIMACOPHOBIC.NAME"
 msgid "Vertigo Prone"
-msgstr ""
+msgstr "Propenso a Vertigens"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.FASHIONABLE.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.FASHIONABLE.DESC"
 msgid "This Duplicant dies a bit inside when forced to wear unstylish clothing"
 msgstr ""
+"Este Duplicante morre um pouco por dentro quando é forçado a usar roupas "
+"pouco elegantes"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.FASHIONABLE.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.FASHIONABLE.NAME"
 msgid "Fashionista"
-msgstr ""
+msgstr "Fashionista"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.PREFERSCOOLER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.PREFERSCOOLER.DESC"
@@ -56074,11 +56232,14 @@ msgid ""
 "This Duplicant has some extra <style=\"KKeyword\">Insulation</style>, so the "
 "room <style=\"KKeyword\">Temperature</style> affects them a little less"
 msgstr ""
+"Este Duplicante tem algum <style=\"KKeyword\">Isolamento</style> extra, "
+"então a <style=\"KKeyword\">Temperatura</style> do ambiente o afeta um pouco "
+"menos"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.PREFERSCOOLER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.PREFERSCOOLER.NAME"
 msgid "Pudgy"
-msgstr ""
+msgstr "Rechonchudo(a)"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.PREFERSWARMER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.PREFERSWARMER.DESC"
@@ -56086,11 +56247,13 @@ msgid ""
 "This Duplicant doesn't have much <style=\"KKeyword\">Insulation</style>, so "
 "they are more <style=\"KKeyword\">Temperature</style> sensitive than others"
 msgstr ""
+"Este Duplicante não tem muito <style=\"KKeyword\">Isolamento</style>, então "
+"ele é mais sensível à <style=\"KKeyword\">Temperatura</style> do que outros"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.PREFERSWARMER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.PREFERSWARMER.NAME"
 msgid "Skinny"
-msgstr ""
+msgstr "Magrelo(a)"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.SENSITIVEFEET.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.SENSITIVEFEET.DESC"
@@ -56098,31 +56261,33 @@ msgid ""
 "This Duplicant is a sensitive sole and would rather walk on tile than raw "
 "bedrock"
 msgstr ""
+"Este Duplicante tem uma sola sensível e prefere andar em ladrilhos do que em "
+"rocha crua"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.SENSITIVEFEET.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.SENSITIVEFEET.NAME"
 msgid "Delicate Feetsies"
-msgstr ""
+msgstr "Pés Delicados"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.SOLITARYSLEEPER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.SOLITARYSLEEPER.DESC"
 msgid "This Duplicant prefers to sleep alone"
-msgstr ""
+msgstr "Este Duplicante prefere dormir sozinho"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.SOLITARYSLEEPER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.SOLITARYSLEEPER.NAME"
 msgid "Solitary Sleeper"
-msgstr ""
+msgstr "Dorminhoco(a) Solitário(a)"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.WORKAHOLIC.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.WORKAHOLIC.DESC"
 msgid "This Duplicant gets antsy when left idle"
-msgstr ""
+msgstr "Este Duplicante fica impaciente quando fica ocioso"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.WORKAHOLIC.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.WORKAHOLIC.NAME"
 msgid "Workaholic"
-msgstr ""
+msgstr "Viciado(a) em Trabalho"
 
 #. STRINGS.DUPLICANTS.TRAITS.NIGHTLIGHT.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NIGHTLIGHT.DESC"
@@ -56130,26 +56295,28 @@ msgid ""
 "This Duplicant will imagine scary shapes in the dark all night if no one "
 "leaves a light on"
 msgstr ""
+"Este Duplicante imaginará formas assustadoras no escuro a noite toda se "
+"ninguém deixar uma luz acesa"
 
 #. STRINGS.DUPLICANTS.TRAITS.NIGHTLIGHT.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NIGHTLIGHT.NAME"
 msgid "Nyctophobic"
-msgstr ""
+msgstr "Nictofóbico(a)"
 
 #. STRINGS.DUPLICANTS.TRAITS.NIGHTLIGHT.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NIGHTLIGHT.SHORT_DESC"
 msgid "Requires light to sleep"
-msgstr ""
+msgstr "Precisa de luz para dormir"
 
 #. STRINGS.DUPLICANTS.TRAITS.NIGHTLIGHT.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NIGHTLIGHT.SHORT_DESC_TOOLTIP"
 msgid "This Duplicant can't sleep in complete darkness"
-msgstr ""
+msgstr "Este Duplicante não consegue dormir na escuridão total"
 
 #. STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.DESC"
 msgid "This Duplicant does their best work when they'd ought to be sleeping"
-msgstr ""
+msgstr "Este Duplicante faz seu melhor trabalho quando deveria estar dormindo"
 
 #. STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.EXTENDED_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.EXTENDED_DESC"
@@ -56157,16 +56324,19 @@ msgid ""
 "• Nighttime: <b>{0}</b> bonus to all <style=\"KKeyword\">Attributes</style>\n"
 "• Duration: All Night"
 msgstr ""
+"• Noturno: <b>{0}</b> bônus para todos os <style=\"KKeyword\">Atributos</"
+"style>\n"
+"• Duração: a noite toda"
 
 #. STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.NAME"
 msgid "Night Owl"
-msgstr ""
+msgstr "Coruja Noturna"
 
 #. STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.SHORT_DESC"
 msgid "Gains nighttime Attribute bonuses"
-msgstr ""
+msgstr "Ganha bônus de atributos noturnos"
 
 #. STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.SHORT_DESC_TOOLTIP"
@@ -56174,47 +56344,52 @@ msgid ""
 "Nighttime: <b>+3</b> bonus to all <style=\"KKeyword\">Attributes</style>\n"
 "• Duration: All Night"
 msgstr ""
+"Noturno: bônus de <b>+3</b> para todos os <style=\"KKeyword\">Atributos</"
+"style>\n"
+"• Duração: a noite toda"
 
 #. STRINGS.DUPLICANTS.TRAITS.NOODLEARMS.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NOODLEARMS.DESC"
 msgid ""
 "This Duplicant's arms have all the tensile strength of overcooked linguine"
 msgstr ""
+"Os braços deste Duplicante têm toda a resistência à tração de um linguine "
+"cozido demais"
 
 #. STRINGS.DUPLICANTS.TRAITS.NOODLEARMS.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NOODLEARMS.NAME"
 msgid "Noodle Arms"
-msgstr ""
+msgstr "Braços de Macarrão"
 
 #. STRINGS.DUPLICANTS.TRAITS.RADIATIONEATER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.RADIATIONEATER.DESC"
 msgid "This Duplicant eats radiation for breakfast (and dinner)"
-msgstr ""
+msgstr "Este Duplicante come radiação no café da manhã (e no jantar)"
 
 #. STRINGS.DUPLICANTS.TRAITS.RADIATIONEATER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.RADIATIONEATER.NAME"
 msgid "Radiation Eater"
-msgstr ""
+msgstr "Comedor de Radiação"
 
 #. STRINGS.DUPLICANTS.TRAITS.RADIATIONEATER.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.RADIATIONEATER.SHORT_DESC"
 msgid "Converts radiation exposure into calories"
-msgstr ""
+msgstr "Converte a exposição à radiação em calorias"
 
 #. STRINGS.DUPLICANTS.TRAITS.RADIATIONEATER.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.RADIATIONEATER.SHORT_DESC_TOOLTIP"
 msgid "Converts radiation exposure into calories"
-msgstr ""
+msgstr "Converte a exposição à radiação em calorias"
 
 #. STRINGS.DUPLICANTS.TRAITS.RANCHINGDOWN.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.RANCHINGDOWN.DESC"
 msgid "This Duplicant just doesn't trust those beady little eyes"
-msgstr ""
+msgstr "Este Duplicante simplesmente não confia naqueles olhinhos redondos"
 
 #. STRINGS.DUPLICANTS.TRAITS.RANCHINGDOWN.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.RANCHINGDOWN.NAME"
 msgid "Critter Aversion"
-msgstr ""
+msgstr "Aversão à Criaturas"
 
 #. STRINGS.DUPLICANTS.TRAITS.RANCHINGUP.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.RANCHINGUP.DESC"
@@ -56222,66 +56397,71 @@ msgid ""
 "The fuzzy snoots! The little claws! The chitinous exoskeletons! This "
 "Duplicant's never met a critter they didn't like"
 msgstr ""
+"Os bisbilhoteiros confusos! As pequenas garras! Os exoesqueletos quitinosos! "
+"Este Duplicante nunca conheceu uma criatura de quem não gostasse"
 
 #. STRINGS.DUPLICANTS.TRAITS.RANCHINGUP.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.RANCHINGUP.NAME"
 msgid "Animal Lover"
-msgstr ""
+msgstr "Amante dos Animais"
 
 #. STRINGS.DUPLICANTS.TRAITS.REFUSES_TO_DO_TASK
 msgctxt "STRINGS.DUPLICANTS.TRAITS.REFUSES_TO_DO_TASK"
 msgid "Cannot do <b>{0} Errands</b>"
-msgstr ""
+msgstr "Não pode fazer <b>{0} tarefas</b>"
 
 #. STRINGS.DUPLICANTS.TRAITS.REGENERATION.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.REGENERATION.DESC"
 msgid "This robust Duplicant is constantly regenerating health"
-msgstr ""
+msgstr "Este robusto Duplicante está constantemente regenerando a saúde"
 
 #. STRINGS.DUPLICANTS.TRAITS.REGENERATION.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.REGENERATION.NAME"
 msgid "Regenerative"
-msgstr ""
+msgstr "Regenerativo(a)"
 
 #. STRINGS.DUPLICANTS.TRAITS.ROCKCRUSHER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.ROCKCRUSHER.DESC"
 msgid "This Duplicant's got muscles on their muscles!"
-msgstr ""
+msgstr "Este Duplicante tem músculos nos músculos!"
 
 #. STRINGS.DUPLICANTS.TRAITS.ROCKCRUSHER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.ROCKCRUSHER.NAME"
 msgid "Beefsteak"
-msgstr ""
+msgstr "Bife"
 
 #. STRINGS.DUPLICANTS.TRAITS.SCAREDYCAT.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SCAREDYCAT.DESC"
 msgid "This Duplicant abhors violence"
-msgstr ""
+msgstr "Este Duplicante abomina a violência"
 
 #. STRINGS.DUPLICANTS.TRAITS.SCAREDYCAT.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SCAREDYCAT.NAME"
 msgid "Pacifist"
-msgstr ""
+msgstr "Pacifista"
 
 #. STRINGS.DUPLICANTS.TRAITS.SIMPLETASTES.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SIMPLETASTES.DESC"
 msgid "This Duplicant could lick a Puft's backside and taste nothing"
 msgstr ""
+"Este Duplicante poderia lamber o traseiro de um Puft e não sentir o gosto de "
+"nada"
 
 #. STRINGS.DUPLICANTS.TRAITS.SIMPLETASTES.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SIMPLETASTES.NAME"
 msgid "Shrivelled Tastebuds"
-msgstr ""
+msgstr "Paladar Enrugado"
 
 #. STRINGS.DUPLICANTS.TRAITS.SLOWLEARNER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SLOWLEARNER.DESC"
 msgid "This Duplicant's a little slow on the uptake, but gosh do they try"
 msgstr ""
+"Este Duplicante é um pouco lento na compreensão, mas, meu Deus, ele tentam"
 
 #. STRINGS.DUPLICANTS.TRAITS.SLOWLEARNER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SLOWLEARNER.NAME"
 msgid "Slow Learner"
-msgstr ""
+msgstr "Aprendiz Lento"
 
 #. STRINGS.DUPLICANTS.TRAITS.SMALLBLADDER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SMALLBLADDER.DESC"
@@ -56289,31 +56469,33 @@ msgid ""
 "This Duplicant has a tiny, pea-sized <style=\"KKeyword\">Bladder</style>. "
 "Adorable!"
 msgstr ""
+"Este Duplicante tem uma pequena <style=\"KKeyword\">Bexiga</style> do "
+"tamanho de uma ervilha. Adorável!"
 
 #. STRINGS.DUPLICANTS.TRAITS.SMALLBLADDER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SMALLBLADDER.NAME"
 msgid "Small Bladder"
-msgstr ""
+msgstr "Bexiga Pequena"
 
 #. STRINGS.DUPLICANTS.TRAITS.SNORER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SNORER.DESC"
 msgid "In space, everyone can hear you snore"
-msgstr ""
+msgstr "No espaço, todos podem ouvir você roncar"
 
 #. STRINGS.DUPLICANTS.TRAITS.SNORER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SNORER.NAME"
 msgid "Loud Sleeper"
-msgstr ""
+msgstr "Dorminhoco Barulhento"
 
 #. STRINGS.DUPLICANTS.TRAITS.SNORER.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SNORER.SHORT_DESC"
 msgid "Snores loudly"
-msgstr ""
+msgstr "Ronca alto"
 
 #. STRINGS.DUPLICANTS.TRAITS.SNORER.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SNORER.SHORT_DESC_TOOLTIP"
 msgid "This Duplicant's snoring will rudely awake nearby friends"
-msgstr ""
+msgstr "O ronco deste Duplicante acordará rudemente amigos próximos"
 
 #. STRINGS.DUPLICANTS.TRAITS.SPARKLESTREAKER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SPARKLESTREAKER.DESC"
@@ -56321,31 +56503,33 @@ msgid ""
 "This Duplicant leaves a trail of happy sparkles when they are "
 "<style=\"KKeyword\">Overjoyed</style>"
 msgstr ""
+"Este Duplicante deixa um rastro de brilho felizes quando ele está "
+"<style=\"KKeyword\">Muito Feliz</style>"
 
 #. STRINGS.DUPLICANTS.TRAITS.SPARKLESTREAKER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SPARKLESTREAKER.NAME"
 msgid "Sparkle Streaker"
-msgstr ""
+msgstr "Rastro de Brilho"
 
 #. STRINGS.DUPLICANTS.TRAITS.STARRYEYED.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STARRYEYED.DESC"
 msgid "This Duplicant loves being in space"
-msgstr ""
+msgstr "Este Duplicante adora estar no espaço"
 
 #. STRINGS.DUPLICANTS.TRAITS.STARRYEYED.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STARRYEYED.NAME"
 msgid "Starry Eyed"
-msgstr ""
+msgstr "Olhos Estrelados"
 
 #. STRINGS.DUPLICANTS.TRAITS.STARRYEYED.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STARRYEYED.SHORT_DESC"
 msgid "Morale bonus while in space"
-msgstr ""
+msgstr "Bônus moral enquanto estiver no espaço"
 
 #. STRINGS.DUPLICANTS.TRAITS.STARRYEYED.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STARRYEYED.SHORT_DESC_TOOLTIP"
 msgid "In outer space: <b>+10</b> <style=\"KKeyword\">Morale</style>"
-msgstr ""
+msgstr "No espaço sideral: <b>+10</b> de <style=\"KKeyword\">Moral</style>"
 
 #. STRINGS.DUPLICANTS.TRAITS.STICKERBOMBER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STICKERBOMBER.DESC"
@@ -56353,11 +56537,13 @@ msgid ""
 "This Duplicant will spontaneously redecorate a room when they are "
 "<style=\"KKeyword\">Overjoyed</style>"
 msgstr ""
+"Este Duplicante redecorará espontaneamente uma sala quando estiver "
+"<style=\"KKeyword\">Muito Feliz</style>"
 
 #. STRINGS.DUPLICANTS.TRAITS.STICKERBOMBER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STICKERBOMBER.NAME"
 msgid "Sticker Bomber"
-msgstr ""
+msgstr "Adesivo Bombardeiro"
 
 #. STRINGS.DUPLICANTS.TRAITS.STRESSVOMITER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRESSVOMITER.DESC"
@@ -56365,26 +56551,30 @@ msgid ""
 "This Duplicant is liable to puke everywhere when "
 "<style=\"KKeyword\">Stressed</style>"
 msgstr ""
+"Este Duplicante pode vomitar em todos os lugares quando "
+"<style=\"KKeyword\">Estressado</style>"
 
 #. STRINGS.DUPLICANTS.TRAITS.STRESSVOMITER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRESSVOMITER.NAME"
 msgid "Vomiter"
-msgstr ""
+msgstr "Vomitador"
 
 #. STRINGS.DUPLICANTS.TRAITS.STRONGARM.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRONGARM.DESC"
 msgid "This Duplicant has muscles on their muscles"
-msgstr ""
+msgstr "Este Duplicante tem músculos em seus músculos"
 
 #. STRINGS.DUPLICANTS.TRAITS.STRONGARM.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRONGARM.NAME"
 msgid "Buff"
-msgstr ""
+msgstr "Buff"
 
 #. STRINGS.DUPLICANTS.TRAITS.STRONGIMMUNESYSTEM.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRONGIMMUNESYSTEM.DESC"
 msgid "This Duplicant's immune system bounces back faster than most"
 msgstr ""
+"O sistema imunológico deste Duplicante se recupera mais rápido do que a "
+"maioria"
 
 #. STRINGS.DUPLICANTS.TRAITS.STRONGIMMUNESYSTEM.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRONGIMMUNESYSTEM.NAME"
@@ -56394,12 +56584,12 @@ msgstr "Resistente a Germes"
 #. STRINGS.DUPLICANTS.TRAITS.SUNNYDISPOSITION.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SUNNYDISPOSITION.DESC"
 msgid "This Duplicant has an unwaveringly positive outlook on life"
-msgstr ""
+msgstr "Este Duplicante tem uma visão inabalavelmente positiva da vida"
 
 #. STRINGS.DUPLICANTS.TRAITS.SUNNYDISPOSITION.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SUNNYDISPOSITION.NAME"
 msgid "Sunny Disposition"
-msgstr ""
+msgstr "Disposição Ensolarada"
 
 #. STRINGS.DUPLICANTS.TRAITS.SUPERPRODUCTIVE.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SUPERPRODUCTIVE.DESC"
@@ -56407,26 +56597,28 @@ msgid ""
 "This Duplicant is super productive when they are "
 "<style=\"KKeyword\">Overjoyed</style>"
 msgstr ""
+"Este Duplicante é superprodutivo quando está <style=\"KKeyword\">Muito "
+"Feliz</style>v"
 
 #. STRINGS.DUPLICANTS.TRAITS.SUPERPRODUCTIVE.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.SUPERPRODUCTIVE.NAME"
 msgid "Super Productive"
-msgstr ""
+msgstr "Superprodutivo(a)"
 
 #. STRINGS.DUPLICANTS.TRAITS.THRIVER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.THRIVER.DESC"
 msgid "This Duplicant kicks into hyperdrive when the stress is on"
-msgstr ""
+msgstr "Este Duplicante fica a mil por hora quando o estresse aumenta"
 
 #. STRINGS.DUPLICANTS.TRAITS.THRIVER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.THRIVER.NAME"
 msgid "Duress to Impress"
-msgstr ""
+msgstr "Coação para Impressionar"
 
 #. STRINGS.DUPLICANTS.TRAITS.THRIVER.SHORT_DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.THRIVER.SHORT_DESC"
 msgid "Attribute bonuses while stressed"
-msgstr ""
+msgstr "Atribuir bônus enquanto estiver estressado"
 
 #. STRINGS.DUPLICANTS.TRAITS.THRIVER.SHORT_DESC_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.TRAITS.THRIVER.SHORT_DESC_TOOLTIP"
@@ -56434,6 +56626,8 @@ msgid ""
 "More than 60% Stress: <b>+7</b> bonus to all <style=\"KKeyword\">Attributes</"
 "style>"
 msgstr ""
+"Mais de 60% de estresse: <b>+7</b> bônus para todos os "
+"<style=\"KKeyword\">Atributos</style>"
 
 #. STRINGS.DUPLICANTS.TRAITS.TRAIT_DESCRIPTION_LIST_ENTRY
 msgctxt "STRINGS.DUPLICANTS.TRAITS.TRAIT_DESCRIPTION_LIST_ENTRY"
@@ -56447,12 +56641,12 @@ msgstr ""
 #. STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.DESC"
 msgid "This Duplicant is light as a feather on their feet"
-msgstr ""
+msgstr "Este Duplicante é leve como uma pena nos pés"
 
 #. STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.NAME"
 msgid "Twinkletoes"
-msgstr ""
+msgstr "Pés brilhantes"
 
 #. STRINGS.DUPLICANTS.TRAITS.UGLYCRIER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.UGLYCRIER.DESC"
@@ -56460,32 +56654,36 @@ msgid ""
 "If this Duplicant gets too <style=\"KKeyword\">Stressed</style> it won't be "
 "pretty"
 msgstr ""
+"Se este Duplicante ficar muito <style=\"KKeyword\">Estressado</style> não "
+"será bonito"
 
 #. STRINGS.DUPLICANTS.TRAITS.UGLYCRIER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.UGLYCRIER.NAME"
 msgid "Ugly Crier"
-msgstr ""
+msgstr "Chorão Feio(a)"
 
 #. STRINGS.DUPLICANTS.TRAITS.UNCULTURED.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.UNCULTURED.DESC"
 msgid "This Duplicant has simply no appreciation for the arts"
-msgstr ""
+msgstr "Este Duplicante simplesmente não aprecia as artes"
 
 #. STRINGS.DUPLICANTS.TRAITS.UNCULTURED.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.UNCULTURED.NAME"
 msgid "Uncultured"
-msgstr "Inculto"
+msgstr "Inculto(a)"
 
 #. STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.DESC"
 msgid ""
 "All the vitamin C in space couldn't stop this Duplicant from getting sick"
 msgstr ""
+"Toda a vitamina C do espaço não conseguiu impedir que este Duplicante "
+"ficasse doente"
 
 #. STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.WEAKIMMUNESYSTEM.NAME"
 msgid "Biohazardous"
-msgstr ""
+msgstr "Biologicamente Frágil"
 
 #. STRINGS.ELEMENTS.AEROGEL.DESC
 msgctxt "STRINGS.ELEMENTS.AEROGEL.DESC"
@@ -56495,7 +56693,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.AEROGEL.NAME
 msgctxt "STRINGS.ELEMENTS.AEROGEL.NAME"
 msgid "<link=\"AEROGEL\">Aerogel</link>"
-msgstr ""
+msgstr "<link=\"AEROGEL\">Aerogel</link>"
 
 #. STRINGS.ELEMENTS.ALGAE.DESC
 msgctxt "STRINGS.ELEMENTS.ALGAE.DESC"
@@ -56509,7 +56707,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.ALGAE.NAME
 msgctxt "STRINGS.ELEMENTS.ALGAE.NAME"
 msgid "<link=\"ALGAE\">Algae</link>"
-msgstr ""
+msgstr "<link=\"ALGAE\">Alga</link>"
 
 #. STRINGS.ELEMENTS.ALUMINUM.DESC
 msgctxt "STRINGS.ELEMENTS.ALUMINUM.DESC"
@@ -56523,7 +56721,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.ALUMINUM.NAME
 msgctxt "STRINGS.ELEMENTS.ALUMINUM.NAME"
 msgid "<link=\"ALUMINUM\">Aluminum</link>"
-msgstr ""
+msgstr "<link=\"ALUMINUM\">Alumínio</link>"
 
 #. STRINGS.ELEMENTS.ALUMINUMGAS.DESC
 msgctxt "STRINGS.ELEMENTS.ALUMINUMGAS.DESC"
@@ -56535,7 +56733,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.ALUMINUMGAS.NAME
 msgctxt "STRINGS.ELEMENTS.ALUMINUMGAS.NAME"
 msgid "<link=\"ALUMINUMGAS\">Aluminum Gas</link>"
-msgstr ""
+msgstr "<link=\"ALUMINIUMGAS\">Gás alumínio</link>"
 
 #. STRINGS.ELEMENTS.ALUMINUMORE.DESC
 msgctxt "STRINGS.ELEMENTS.ALUMINUMORE.DESC"
@@ -56647,7 +56845,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.CARBON.NAME
 msgctxt "STRINGS.ELEMENTS.CARBON.NAME"
 msgid "<link=\"CARBON\">Coal</link>"
-msgstr ""
+msgstr "<link=\"CARBON\">Carvão</link>"
 
 #. STRINGS.ELEMENTS.CARBONDIOXIDE.DESC
 msgctxt "STRINGS.ELEMENTS.CARBONDIOXIDE.DESC"
@@ -56685,7 +56883,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.CARBONGAS.NAME
 msgctxt "STRINGS.ELEMENTS.CARBONGAS.NAME"
 msgid "<link=\"CARBONGAS\">Carbon Gas</link>"
-msgstr ""
+msgstr "<link=\"CARBONGAS\">Gás Carbono</link>"
 
 #. STRINGS.ELEMENTS.CEMENT.DESC
 msgctxt "STRINGS.ELEMENTS.CEMENT.DESC"
@@ -56722,7 +56920,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.CERAMIC.NAME
 msgctxt "STRINGS.ELEMENTS.CERAMIC.NAME"
 msgid "<link=\"CERAMIC\">Ceramic</link>"
-msgstr ""
+msgstr "<link=\"CERAMIC\">Cerâmica</link>"
 
 #. STRINGS.ELEMENTS.CHLORINE.DESC
 msgctxt "STRINGS.ELEMENTS.CHLORINE.DESC"
@@ -56775,7 +56973,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.CLAY.NAME
 msgctxt "STRINGS.ELEMENTS.CLAY.NAME"
 msgid "<link=\"CLAY\">Clay</link>"
-msgstr ""
+msgstr "<link=\"CLAY\">Argila</link>"
 
 #. STRINGS.ELEMENTS.COBALT.DESC
 msgctxt "STRINGS.ELEMENTS.COBALT.DESC"
@@ -56823,7 +57021,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.COMPOSITION.NAME
 msgctxt "STRINGS.ELEMENTS.COMPOSITION.NAME"
 msgid "<link=\"COMPOSITION\">Composition</link>"
-msgstr ""
+msgstr "<link=\"COMPOSITION\"\">Composição</link>"
 
 #. STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.DESC
 msgctxt "STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.DESC"
@@ -56836,7 +57034,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.NAME
 msgctxt "STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.NAME"
 msgid "<link=\"CONTAMINATEDOXYGEN\">Polluted Oxygen</link>"
-msgstr ""
+msgstr "<link=\"CONTAMINATEDOXYGEN\">Oxigênio Poluído</link>"
 
 #. STRINGS.ELEMENTS.COPPER.DESC
 msgctxt "STRINGS.ELEMENTS.COPPER.DESC"
@@ -56964,7 +57162,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.DIAMOND.NAME
 msgctxt "STRINGS.ELEMENTS.DIAMOND.NAME"
 msgid "<link=\"DIAMOND\">Diamond</link>"
-msgstr ""
+msgstr "<link=\"DIAMOND\">Diamante</link>"
 
 #. STRINGS.ELEMENTS.DIRT.DESC
 msgctxt "STRINGS.ELEMENTS.DIRT.DESC"
@@ -57116,7 +57314,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.FERTILIZER.NAME
 msgctxt "STRINGS.ELEMENTS.FERTILIZER.NAME"
 msgid "<link=\"FERTILIZER\">Fertilizer</link>"
-msgstr ""
+msgstr "<link=\"FERTILIZER\">Fertilizante</link>"
 
 #. STRINGS.ELEMENTS.FOOLSGOLD.DESC
 msgctxt "STRINGS.ELEMENTS.FOOLSGOLD.DESC"
@@ -57144,7 +57342,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.FOSSIL.NAME
 msgctxt "STRINGS.ELEMENTS.FOSSIL.NAME"
 msgid "<link=\"FOSSIL\">Fossil</link>"
-msgstr ""
+msgstr "<link=\"FOSSIL\">Fóssil</link>"
 
 #. STRINGS.ELEMENTS.FULLERENE.DESC
 msgctxt "STRINGS.ELEMENTS.FULLERENE.DESC"
@@ -57168,7 +57366,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.GLASS.NAME
 msgctxt "STRINGS.ELEMENTS.GLASS.NAME"
 msgid "<link=\"GLASS\">Glass</link>"
-msgstr ""
+msgstr "<link=\"GLASS\">Vidro</link>"
 
 #. STRINGS.ELEMENTS.GOLD.DESC
 msgctxt "STRINGS.ELEMENTS.GOLD.DESC"
@@ -57181,7 +57379,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.GOLD.NAME
 msgctxt "STRINGS.ELEMENTS.GOLD.NAME"
 msgid "<link=\"GOLD\">Gold</link>"
-msgstr ""
+msgstr "<link=\"GOLD\">Ouro</link>"
 
 #. STRINGS.ELEMENTS.GOLDAMALGAM.DESC
 msgctxt "STRINGS.ELEMENTS.GOLDAMALGAM.DESC"
@@ -58196,7 +58394,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.POLYPROPYLENE.NAME
 msgctxt "STRINGS.ELEMENTS.POLYPROPYLENE.NAME"
 msgid "<link=\"POLYPROPYLENE\">Plastic</link>"
-msgstr ""
+msgstr "<link=\"POLYPROPYLENE\">Plástico</link>"
 
 #. STRINGS.ELEMENTS.PONDSCUM.DESC
 msgctxt "STRINGS.ELEMENTS.PONDSCUM.DESC"
@@ -82335,7 +82533,7 @@ msgstr ""
 #. STRINGS.UI.DEVELOPMENTBUILDS.TESTING_WATERMARK
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.TESTING_WATERMARK"
 msgid "TESTING BUILD: {0}"
-msgstr "(v0.0.15-alpha) TESTANDO VERSÃO: {0}"
+msgstr "(v0.0.16-alpha) TESTANDO VERSÃO: {0}"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.UPDATES.BIGGER_TIMES
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.UPDATES.BIGGER_TIMES"
@@ -82365,7 +82563,7 @@ msgstr "PRÓXIMO UPGRADE EM"
 #. STRINGS.UI.DEVELOPMENTBUILDS.WATERMARK
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.WATERMARK"
 msgid "BUILD: {0}"
-msgstr "(v0.0.15-alpha) VERSÃO: {0}"
+msgstr "(v0.0.16-alpha) VERSÃO: {0}"
 
 #. STRINGS.UI.DIAGNOSTICS_SCREEN.CLICK_TOGGLE_MESSAGE.ALERT_ONLY
 msgctxt "STRINGS.UI.DIAGNOSTICS_SCREEN.CLICK_TOGGLE_MESSAGE.ALERT_ONLY"
@@ -92010,49 +92208,56 @@ msgid "Downtime Outfit"
 msgstr "Traje de Descanso"
 
 #. STRINGS.UI.OUTFITS.FLANNEL_BLACK.NAME
+#, fuzzy
 msgctxt "STRINGS.UI.OUTFITS.FLANNEL_BLACK.NAME"
 msgid "Monochrome Flannel Outfit"
-msgstr ""
+msgstr "Traje de Flanela Monocromática"
 
 #. STRINGS.UI.OUTFITS.FLANNEL_BLUE_MIDDLE.NAME
+#, fuzzy
 msgctxt "STRINGS.UI.OUTFITS.FLANNEL_BLUE_MIDDLE.NAME"
 msgid "Scrub Flannel Outfit"
-msgstr ""
+msgstr "Traje de Flanela Esfregado"
 
 #. STRINGS.UI.OUTFITS.FLANNEL_GREEN.NAME
+#, fuzzy
 msgctxt "STRINGS.UI.OUTFITS.FLANNEL_GREEN.NAME"
 msgid "Swampy Flannel Outfit"
-msgstr ""
+msgstr "Traje de Flanela Pantanoso"
 
 #. STRINGS.UI.OUTFITS.FLANNEL_ORANGE.NAME
+#, fuzzy
 msgctxt "STRINGS.UI.OUTFITS.FLANNEL_ORANGE.NAME"
 msgid "Cadmium Flannel Outfit"
-msgstr ""
+msgstr "Traje de Flanela de Cádmio"
 
 #. STRINGS.UI.OUTFITS.FLANNEL_PINK_ORCHID.NAME
+#, fuzzy
 msgctxt "STRINGS.UI.OUTFITS.FLANNEL_PINK_ORCHID.NAME"
 msgid "Flare Flannel Outfit"
-msgstr ""
+msgstr "Traje de Flanela Flare"
 
 #. STRINGS.UI.OUTFITS.FLANNEL_PURPLE.NAME
+#, fuzzy
 msgctxt "STRINGS.UI.OUTFITS.FLANNEL_PURPLE.NAME"
 msgid "Fusion Flannel Outfit"
-msgstr ""
+msgstr "Traje de Flanela de Fusão"
 
 #. STRINGS.UI.OUTFITS.FLANNEL_RED.NAME
+#, fuzzy
 msgctxt "STRINGS.UI.OUTFITS.FLANNEL_RED.NAME"
 msgid "Classic Flannel Outfit"
-msgstr ""
+msgstr "Traje Clássico de Flanela"
 
 #. STRINGS.UI.OUTFITS.FLANNEL_WHITE.NAME
 msgctxt "STRINGS.UI.OUTFITS.FLANNEL_WHITE.NAME"
 msgid "White Flannel Outfit"
-msgstr ""
+msgstr "Traje de Flanela Branco"
 
 #. STRINGS.UI.OUTFITS.FLANNEL_YELLOW.NAME
 msgctxt "STRINGS.UI.OUTFITS.FLANNEL_YELLOW.NAME"
 msgid "Flax Flannel Outfit"
-msgstr ""
+msgstr "Traje de Flanela de Linho"
 
 #. STRINGS.UI.OUTFITS.GINCH_BILE.NAME
 msgctxt "STRINGS.UI.OUTFITS.GINCH_BILE.NAME"
