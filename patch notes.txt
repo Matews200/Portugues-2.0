@@ -1,5 +1,10 @@
+v0.0.17-alpha | 27.07.24
+— 60% do jogo traduzido.
+— Melhorias na tradução.
+
 v0.0.16-alpha | 22.07.24
-— 57% do jogo traduzido, novo banner e cover.
+— 57% do jogo traduzido
+— Novo banner e cover.
 
 v0.0.15-alpha | 19.07.24
 — 55% do jogo traduzido, com The Frosty Planet DLC.
