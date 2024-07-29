@@ -11474,7 +11474,7 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.GANTRY.DESC"
 msgid "A gantry can be built over rocket pieces where ladders and tile cannot."
 msgstr ""
 "Um pórtico pode ser construído sobre peças de foguete, onde escadas e "
-"ladrilhos não podem."
+"blocos não podem."
 
 #. STRINGS.BUILDINGS.PREFABS.GANTRY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GANTRY.EFFECT"
@@ -18069,7 +18069,7 @@ msgid ""
 "Plastic tile is mildly antiseptic and can help limit the spread of germs in "
 "a colony."
 msgstr ""
-"O ladrilho plástico é levemente antisséptico e pode ajudar a limitar a "
+"O bloco plástico é levemente antisséptico e pode ajudar a limitar a "
 "propagação de germes em uma colônia."
 
 #. STRINGS.BUILDINGS.PREFABS.PLASTICTILE.EFFECT
@@ -35872,7 +35872,7 @@ msgid ""
 "Planter Boxes, Farm Tiles, or Hydroponic Farms."
 msgstr ""
 "Faça com que os Duplicantes consumam 400.000 kcal de alimentos sem plantar "
-"sementes em caixas de plantio, ladrilhos de fazenda ou fazendas hidropônicas."
+"sementes em caixas de plantio, bloco de Agrícola ou bloco hidropônica."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.PLUMBED_WASHROOMS
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.PLUMBED_WASHROOMS"
@@ -44814,7 +44814,7 @@ msgstr "Indo escavar"
 #. STRINGS.DUPLICANTS.CHORES.DIG.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.DIG.TOOLTIP"
 msgid "This Duplicant is digging out a tile"
-msgstr "Este Duplicante está desenterrando um ladrilho"
+msgstr "Este Duplicante está desenterrando um bloco"
 
 #. STRINGS.DUPLICANTS.CHORES.DISINFECT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DISINFECT.NAME"
@@ -56370,7 +56370,7 @@ msgid ""
 "Climbing ladders more than four tiles tall makes this Duplicant's stomach do "
 "flips"
 msgstr ""
-"Subir escadas com mais de quatro ladrilhos de altura faz o estômago deste "
+"Subir escadas com mais de quatro blocos de altura faz o estômago deste "
 "Duplicante revirar"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.CLIMACOPHOBIC.NAME
@@ -56425,7 +56425,7 @@ msgid ""
 "This Duplicant is a sensitive sole and would rather walk on tile than raw "
 "bedrock"
 msgstr ""
-"Este Duplicante tem uma sola sensível e prefere andar em ladrilhos do que em "
+"Este Duplicante tem uma sola sensível e prefere andar em blocos do que em "
 "rocha crua"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.SENSITIVEFEET.NAME
@@ -69468,7 +69468,7 @@ msgstr "Bloqueado"
 #. STRINGS.MISC.STATUSITEMS.REGIONISBLOCKED.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONISBLOCKED.TOOLTIP"
 msgid "Undug material is blocking off an essential tile"
-msgstr "O material não escavado está bloqueando um ladrilho essencial"
+msgstr "O material não escavado está bloqueando um bloco essencial"
 
 #. STRINGS.MISC.STATUSITEMS.REHYDRATEDFOOD.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.REHYDRATEDFOOD.NAME"
@@ -69698,7 +69698,7 @@ msgstr "Tarefa de Escavação"
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.TOOLTIP"
 msgid "Tile will be dug out once a Duplicant is available"
 msgstr ""
-"O ladrilho será desenterrado assim que um duplicante estiver disponível"
+"O bloco será desenterrado assim que um duplicante estiver disponível"
 
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.NAME"
