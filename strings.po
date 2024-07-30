@@ -7982,8 +7982,8 @@ msgid ""
 msgstr ""
 "Usado para construir paredes e pisos de quartos.\n"
 "\n"
-"Aumenta a <link=\"DECOR\">Decoração</link>,contribuindo para a "
-"<link=\"MORALE\">Moral</link>.\n"
+"Aumenta a <link=\"DECOR\">Decoração</link>, contribuindo para a "
+"<link=\"MORALE\">Moral</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.CARPETTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CARPETTILE.NAME"
@@ -12398,7 +12398,7 @@ msgid ""
 msgstr ""
 "Usado para construir paredes e pisos de quartos.\n"
 "\n"
-"Permite a passagem de <link=\"LIGHT\">Luz</link> e <link=\"DECOR\">decoração</link> "
+"Permite a passagem de <link=\"LIGHT\">Luz</link> e <link=\"DECOR\">Decoração</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.GLASSTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSTILE.NAME"
@@ -57989,7 +57989,7 @@ msgstr "<b>Efeitos do Material:</b>"
 #. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.EXCELLENT_RADIATION_SHIELD
 msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.EXCELLENT_RADIATION_SHIELD"
 msgid "<link=\"RADIATION\">Excellent Radiation Shield</link>"
-msgstr "<link=\"RADIATION\">Excelente escudo de radiação</link>"
+msgstr "<link=\"RADIATION\">Excelente Escudo de Radiação</link>"
 
 #. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.HIGH_SPECIFIC_HEAT_CAPACITY
 msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.HIGH_SPECIFIC_HEAT_CAPACITY"
@@ -57999,7 +57999,7 @@ msgstr "<link=\"HEAT\">Aquecimento Lento</link>"
 #. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.HIGH_THERMAL_CONDUCTIVITY
 msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.HIGH_THERMAL_CONDUCTIVITY"
 msgid "<link=\"HEAT\">High Thermal Conductivity</link>"
-msgstr "<link=\"HEAT\">Alta condutividade térmica</link>"
+msgstr "<link=\"HEAT\">Alta Condutividade Térmica</link>"
 
 #. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.LOW_SPECIFIC_HEAT_CAPACITY
 msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.LOW_SPECIFIC_HEAT_CAPACITY"
@@ -58544,8 +58544,8 @@ msgctxt "STRINGS.ELEMENTS.POLYPROPYLENE.BUILD_DESC"
 msgid ""
 "Buildings made of this <link=\"POLYPROPYLENE\">Plastic</link> have "
 "antiseptic properties"
-msgstr "Edifícios feitos deste <link=\"POLYPROPYLENE\">Plástico</link> possuem propriedades "
-"anti-sépticas"
+msgstr "Construções feitas deste <link=\"POLYPROPYLENE\">Plástico</link> possuem propriedades "
+"anti-germes"
 
 #. STRINGS.ELEMENTS.POLYPROPYLENE.DESC
 msgctxt "STRINGS.ELEMENTS.POLYPROPYLENE.DESC"
