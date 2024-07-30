@@ -7980,11 +7980,15 @@ msgid ""
 "Increases <link=\"DECOR\">Decor</link>, contributing to "
 "<link=\"MORALE\">Morale</link>."
 msgstr ""
+"Usado para construir paredes e pisos de quartos.\n"
+"\n"
+"Aumenta a <link=\"DECOR\">Decoração</link>,contribuindo para a "
+"<link=\"MORALE\">Moral</link>.\n"
 
 #. STRINGS.BUILDINGS.PREFABS.CARPETTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CARPETTILE.NAME"
 msgid "<link=\"CARPETTILE\">Carpeted Tile</link>"
-msgstr ""
+msgstr "<link=\"CARPETTILE\">Bloco de Carpete</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.DESC"
@@ -9337,7 +9341,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.DOOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.NAME"
 msgid "<link=\"DOOR\">Pneumatic Door</link>"
-msgstr ""
+msgstr "<link=\"DOOR\">Porta Pneumática</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.PRESSURE_SUIT_NOT_REQUIRED
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.PRESSURE_SUIT_NOT_REQUIRED"
@@ -11470,7 +11474,7 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.GANTRY.DESC"
 msgid "A gantry can be built over rocket pieces where ladders and tile cannot."
 msgstr ""
 "Um pórtico pode ser construído sobre peças de foguete, onde escadas e "
-"ladrilhos não podem."
+"blocos não podem."
 
 #. STRINGS.BUILDINGS.PREFABS.GANTRY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GANTRY.EFFECT"
@@ -11943,7 +11947,7 @@ msgstr ""
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.DESC"
 msgid ""
 "Building with airflow tile promotes better gas circulation within a colony."
-msgstr ""
+msgstr "Construir com bloco de fluxo de ar promove melhor circulação de gases dentro da colônia."
 
 #. STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.EFFECT"
@@ -11953,11 +11957,15 @@ msgid ""
 "Blocks <link=\"ELEMENTSLIQUID\">Liquid</link> flow without obstructing "
 "<link=\"ELEMENTSGAS\">Gas</link>."
 msgstr ""
+"Usado para construir paredes e pisos de quartos.\n"
+"\n"
+"Bloqueia o fluxo de <link=\"ELEMENTSLIQUID\">líquidos</link> sem obstruir o "
+"<link=\"ELEMENTSGAS\">Gás</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.NAME"
 msgid "<link=\"GASPERMEABLEMEMBRANE\">Airflow Tile</link>"
-msgstr ""
+msgstr "<link=\"GASPERMEABLEMEMBRANE\">Bloco de fluxo de ar</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GASPUMP.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASPUMP.DESC"
@@ -12388,6 +12396,9 @@ msgid ""
 "Allows <link=\"LIGHT\">Light</link> and <link=\"DECOR\">Decor</link> to pass "
 "through."
 msgstr ""
+"Usado para construir paredes e pisos de quartos.\n"
+"\n"
+"Permite a passagem de <link=\"LIGHT\">Luz</link> e <link=\"DECOR\">decoração</link> "
 
 #. STRINGS.BUILDINGS.PREFABS.GLASSTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSTILE.NAME"
@@ -13207,7 +13218,8 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.DESC"
 msgid ""
 "The low thermal conductivity of insulated tiles slows any heat passing "
 "through them."
-msgstr ""
+msgstr "A baixa condutividade térmica dos blocos isolados retarda a passagem "
+" de calor através deles."
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.EFFECT"
@@ -13217,11 +13229,15 @@ msgid ""
 "Reduces <link=\"HEAT\">Heat</link> transfer between walls, retaining ambient "
 "heat in an area."
 msgstr ""
+"Usado para construir paredes e pisos de quartos.\n"
+"\n"
+"Reduz a transferência de <link=\"HEAT\">Calor</link> entre paredes, "
+"retendo o calor de um ambiente."
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.NAME"
 msgid "<link=\"INSULATIONTILE\">Insulated Tile</link>"
-msgstr "<link=\"INSULATIONTILE\">Azulejo Isolado</link>"
+msgstr "<link=\"INSULATIONTILE\">Bloco Isolado</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.ITEMPEDESTAL.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ITEMPEDESTAL.DESC"
@@ -16485,6 +16501,7 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.MESHTILE.DESC"
 msgid ""
 "Mesh tile can be used to make Duplicant pathways in areas where liquid flows."
 msgstr ""
+"Bloco pode ser usada para criar caminhos para Duplicantes em áreas com fluxo de líquido."
 
 #. STRINGS.BUILDINGS.PREFABS.MESHTILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MESHTILE.EFFECT"
@@ -16494,11 +16511,15 @@ msgid ""
 "Does not obstruct <link=\"ELEMENTSLIQUID\">Liquid</link> or "
 "<link=\"ELEMENTSGAS\">Gas</link> flow."
 msgstr ""
+"Usado para construir paredes e pisos de quartos.\n"
+"\n"
+"Não obstrui o fluxo de <link=\"ELEMENTSLIQUID\">Líquidos</link> ou "
+"<link=\"ELEMENTSGAS\">Gás</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.MESHTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MESHTILE.NAME"
 msgid "<link=\"MESHTILE\">Mesh Tile</link>"
-msgstr ""
+msgstr "<link=\"MESHTILE\">Bloco Permeável</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.METALREFINERY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.METALREFINERY.DESC"
@@ -16680,7 +16701,7 @@ msgid ""
 msgstr ""
 "Usado para construir paredes e pisos de quartos.\n"
 "\n"
-"Aumenta significativamente a velocidade de execução do Duplicante."
+"Aumenta significativamente a velocidade dos Duplicantes."
 
 #. STRINGS.BUILDINGS.PREFABS.METALTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.METALTILE.NAME"
@@ -17318,6 +17339,10 @@ msgid ""
 "Increases <link=\"DECOR\">Decor</link>, contributing to "
 "<link=\"MORALE\">Morale</link>."
 msgstr ""
+"Usado para construir paredes e pisos de quartos.\n"
+"\n"
+"Aumenta a <link=\"DECOR\">Decoração</link>, contribuindo para a "
+"<link=\"MORALE\">Moral</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.MOULDINGTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MOULDINGTILE.NAME"
@@ -18044,7 +18069,7 @@ msgid ""
 "Plastic tile is mildly antiseptic and can help limit the spread of germs in "
 "a colony."
 msgstr ""
-"O ladrilho plástico é levemente antisséptico e pode ajudar a limitar a "
+"O bloco plástico é levemente antisséptico e pode ajudar a limitar a "
 "propagação de germes em uma colônia."
 
 #. STRINGS.BUILDINGS.PREFABS.PLASTICTILE.EFFECT
@@ -18056,7 +18081,7 @@ msgid ""
 msgstr ""
 "Usado para construir paredes e pisos de quartos.\n"
 "\n"
-"Aumenta significativamente a velocidade de execução do Duplicante."
+"Aumenta significativamente a velocidade dos Duplicantes."
 
 #. STRINGS.BUILDINGS.PREFABS.PLASTICTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PLASTICTILE.NAME"
@@ -20557,6 +20582,10 @@ msgid ""
 "\n"
 "Insulates rooms to reduce <link=\"HEAT\">Heat</link> loss in cold climates."
 msgstr ""
+"Usado para construir paredes e pisos de quartos.\n"
+"\n"
+"Isola o ambientes para reduzir a perda de <link=\"HEAT\">Calor</link> "
+"em ambientes frios."
 
 #. STRINGS.BUILDINGS.PREFABS.SNOWTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SNOWTILE.NAME"
@@ -21448,11 +21477,14 @@ msgid ""
 "\n"
 "Provides built-in storage for small spaces."
 msgstr ""
+"Usado para construir paredes e pisos de quartos.\n"
+"\n"
+"Fornece armazenamento embutido para pequenos espaços."
 
 #. STRINGS.BUILDINGS.PREFABS.STORAGETILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGETILE.NAME"
 msgid "<link=\"STORAGETILE\">Storage Tile</link>"
-msgstr ""
+msgstr "<link=\"STORAGETILE\">Bloco de Armazenamento</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SUBLIMATIONSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUBLIMATIONSTATION.DESC"
@@ -21925,7 +21957,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.TILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILE.DESC"
 msgid "Tile can be used to bridge gaps and get to unreachable areas."
-msgstr ""
+msgstr "O bloco pode ser usado para preencher lacunas e chegar a áreas inacessíveis."
 
 #. STRINGS.BUILDINGS.PREFABS.TILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILE.EFFECT"
@@ -21934,6 +21966,9 @@ msgid ""
 "\n"
 "Increases Duplicant runspeed."
 msgstr ""
+"Usado para construir paredes e pisos de quartos.\n"
+"\n"
+"Aumenta a velocidade dos Duplicantes."
 
 #. STRINGS.BUILDINGS.PREFABS.TILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILE.NAME"
@@ -35837,7 +35872,7 @@ msgid ""
 "Planter Boxes, Farm Tiles, or Hydroponic Farms."
 msgstr ""
 "Faça com que os Duplicantes consumam 400.000 kcal de alimentos sem plantar "
-"sementes em caixas de plantio, ladrilhos de fazenda ou fazendas hidropônicas."
+"sementes em caixas de plantio, bloco de Agrícola ou bloco hidropônica."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.PLUMBED_WASHROOMS
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.PLUMBED_WASHROOMS"
@@ -44779,7 +44814,7 @@ msgstr "Indo escavar"
 #. STRINGS.DUPLICANTS.CHORES.DIG.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.CHORES.DIG.TOOLTIP"
 msgid "This Duplicant is digging out a tile"
-msgstr "Este Duplicante está desenterrando um ladrilho"
+msgstr "Este Duplicante está desenterrando um bloco"
 
 #. STRINGS.DUPLICANTS.CHORES.DISINFECT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.DISINFECT.NAME"
@@ -56335,7 +56370,7 @@ msgid ""
 "Climbing ladders more than four tiles tall makes this Duplicant's stomach do "
 "flips"
 msgstr ""
-"Subir escadas com mais de quatro ladrilhos de altura faz o estômago deste "
+"Subir escadas com mais de quatro blocos de altura faz o estômago deste "
 "Duplicante revirar"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.CLIMACOPHOBIC.NAME
@@ -56390,7 +56425,7 @@ msgid ""
 "This Duplicant is a sensitive sole and would rather walk on tile than raw "
 "bedrock"
 msgstr ""
-"Este Duplicante tem uma sola sensível e prefere andar em ladrilhos do que em "
+"Este Duplicante tem uma sola sensível e prefere andar em blocos do que em "
 "rocha crua"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.SENSITIVEFEET.NAME
@@ -57176,7 +57211,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.COPPER.NAME
 msgctxt "STRINGS.ELEMENTS.COPPER.NAME"
 msgid "<link=\"COPPER\">Copper</link>"
-msgstr ""
+msgstr "<link=\"COPPER\">Cobre</link>"
 
 #. STRINGS.ELEMENTS.COPPERGAS.DESC
 msgctxt "STRINGS.ELEMENTS.COPPERGAS.DESC"
@@ -57939,12 +57974,12 @@ msgstr ""
 #. STRINGS.ELEMENTS.MAGMA.NAME
 msgctxt "STRINGS.ELEMENTS.MAGMA.NAME"
 msgid "<link=\"MAGMA\">Magma</link>"
-msgstr ""
+msgstr "<link=\"MAGMA\">Magma</link>"
 
 #. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.DECOR
 msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.DECOR"
 msgid "<link=\"DECOR\">Decor</link>: {0}"
-msgstr "Decoração"
+msgstr "<link=\"DECOR\">Decoração</link>: {0}"
 
 #. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.EFFECTS_HEADER
 msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.EFFECTS_HEADER"
@@ -57954,32 +57989,32 @@ msgstr "<b>Efeitos do Material:</b>"
 #. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.EXCELLENT_RADIATION_SHIELD
 msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.EXCELLENT_RADIATION_SHIELD"
 msgid "<link=\"RADIATION\">Excellent Radiation Shield</link>"
-msgstr ""
+msgstr "<link=\"RADIATION\">Excelente escudo de radiação</link>"
 
 #. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.HIGH_SPECIFIC_HEAT_CAPACITY
 msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.HIGH_SPECIFIC_HEAT_CAPACITY"
 msgid "<link=\"HEAT\">Slow Heating</link>"
-msgstr ""
+msgstr "<link=\"HEAT\">Aquecimento Lento</link>"
 
 #. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.HIGH_THERMAL_CONDUCTIVITY
 msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.HIGH_THERMAL_CONDUCTIVITY"
 msgid "<link=\"HEAT\">High Thermal Conductivity</link>"
-msgstr ""
+msgstr "<link=\"HEAT\">Alta condutividade térmica</link>"
 
 #. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.LOW_SPECIFIC_HEAT_CAPACITY
 msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.LOW_SPECIFIC_HEAT_CAPACITY"
 msgid "<link=\"HEAT\">Thermally Reactive</link>"
-msgstr ""
+msgstr "<link=\"HEAT\">Termicamente reativo</link>"
 
 #. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.LOW_THERMAL_CONDUCTIVITY
 msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.LOW_THERMAL_CONDUCTIVITY"
 msgid "<link=\"HEAT\">Insulator</link>"
-msgstr ""
+msgstr "<link=\"HEAT\">Isolador</link>"
 
 #. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.OVERHEATTEMPERATURE
 msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.OVERHEATTEMPERATURE"
 msgid "<link=\"HEAT\">Overheat Temperature</link>: {0}"
-msgstr ""
+msgstr "<link=\"HEAT\">Temperatura de Superaquecimento</link>: {0}"
 
 #. STRINGS.ELEMENTS.MATERIAL_MODIFIERS.TOOLTIP.DECOR
 msgctxt "STRINGS.ELEMENTS.MATERIAL_MODIFIERS.TOOLTIP.DECOR"
@@ -58509,7 +58544,8 @@ msgctxt "STRINGS.ELEMENTS.POLYPROPYLENE.BUILD_DESC"
 msgid ""
 "Buildings made of this <link=\"POLYPROPYLENE\">Plastic</link> have "
 "antiseptic properties"
-msgstr ""
+msgstr "Edifícios feitos deste <link=\"POLYPROPYLENE\">Plástico</link> possuem propriedades "
+"anti-sépticas"
 
 #. STRINGS.ELEMENTS.POLYPROPYLENE.DESC
 msgctxt "STRINGS.ELEMENTS.POLYPROPYLENE.DESC"
@@ -58754,7 +58790,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.SLIMEMOLD.NAME
 msgctxt "STRINGS.ELEMENTS.SLIMEMOLD.NAME"
 msgid "<link=\"SLIMEMOLD\">Slime</link>"
-msgstr ""
+msgstr "<link=\"SLIMEMOLD\">Limo</link>"
 
 #. STRINGS.ELEMENTS.SNOW.DESC
 msgctxt "STRINGS.ELEMENTS.SNOW.DESC"
@@ -69432,7 +69468,7 @@ msgstr "Bloqueado"
 #. STRINGS.MISC.STATUSITEMS.REGIONISBLOCKED.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONISBLOCKED.TOOLTIP"
 msgid "Undug material is blocking off an essential tile"
-msgstr "O material não escavado está bloqueando um ladrilho essencial"
+msgstr "O material não escavado está bloqueando um bloco essencial"
 
 #. STRINGS.MISC.STATUSITEMS.REHYDRATEDFOOD.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.REHYDRATEDFOOD.NAME"
@@ -69662,7 +69698,7 @@ msgstr "Tarefa de Escavação"
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.TOOLTIP"
 msgid "Tile will be dug out once a Duplicant is available"
 msgstr ""
-"O ladrilho será desenterrado assim que um duplicante estiver disponível"
+"O bloco será desenterrado assim que um duplicante estiver disponível"
 
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.NAME"
@@ -70388,7 +70424,7 @@ msgstr "Especial"
 #. STRINGS.MISC.TAGS.STEEL
 msgctxt "STRINGS.MISC.TAGS.STEEL"
 msgid "Steel"
-msgstr ""
+msgstr "Aço"
 
 #. STRINGS.MISC.TAGS.STORYTRAITRESOURCE
 msgctxt "STRINGS.MISC.TAGS.STORYTRAITRESOURCE"
@@ -77447,12 +77483,12 @@ msgstr ""
 #. STRINGS.UI.BUILDCATEGORIES.UTILITIES.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.UTILITIES.NAME"
 msgid "<link=\"BUILDCATEGORYUTILITIES\">Utilities</link>"
-msgstr "<link=\"BUILDCATEGORYUTILITIES\">Recursos</link>"
+msgstr "<link=\"BUILDCATEGORYUTILITIES\">Térmico</link>"
 
 #. STRINGS.UI.BUILDCATEGORIES.UTILITIES.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.UTILITIES.TOOLTIP"
 msgid "Heat up and cool down. {Hotkey}"
-msgstr ""
+msgstr "Aquecer e esfriar. {Hotkey}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ACCESS_CONTROL
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ACCESS_CONTROL"
@@ -77521,8 +77557,8 @@ msgstr ""
 
 #. STRINGS.UI.BUILDINGEFFECTS.DECORPROVIDED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.DECORPROVIDED"
-msgid "<link=\"DECOR\">Decor</link>: {1} (Radius: {2} tiles)"
-msgstr ""
+msgid "<link=\"DECOR\">Decoração</link>: {1} (Radius: {2} tiles)"
+msgstr "<link=\"DECOR\">Decoração</link>: {1} (Tamanho: {2} Blocos)"
 
 #. STRINGS.UI.BUILDINGEFFECTS.DIET_CONSUMED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.DIET_CONSUMED"
@@ -77577,7 +77613,7 @@ msgstr "Medicina"
 #. STRINGS.UI.BUILDINGEFFECTS.DUPLICANTMOVEMENTBOOST
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.DUPLICANTMOVEMENTBOOST"
 msgid "Runspeed: {0}"
-msgstr ""
+msgstr "Velocidade: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ELEMENTCONSUMED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ELEMENTCONSUMED"
@@ -77802,7 +77838,7 @@ msgstr ""
 #. STRINGS.UI.BUILDINGEFFECTS.NOISE_CREATED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.NOISE_CREATED"
 msgid "<link=\"SOUND\">Noise</link>: {0} dB (Radius: {1} tiles)"
-msgstr ""
+msgstr "<link=\"SOUND\">Ruído</link>: {0} dB (Alcance: {1} Bloco)"
 
 #. STRINGS.UI.BUILDINGEFFECTS.OPERATIONEFFECTS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.OPERATIONEFFECTS"
