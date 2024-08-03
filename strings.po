@@ -7970,7 +7970,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.CARPETTILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CARPETTILE.DESC"
 msgid "Soft on little Duplicant toesies."
-msgstr ""
+msgstr "Suave aos dedos dos pés do Duplicante."
 
 #. STRINGS.BUILDINGS.PREFABS.CARPETTILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CARPETTILE.EFFECT"
@@ -9316,6 +9316,10 @@ msgid ""
 "\n"
 "Wild <link=\"CREATURES\">Critters</link> cannot pass through doors."
 msgstr ""
+"Fecha áreas sem bloquear o <link=\"ELEMENTSLIQUID\">Líquido</link> ou "
+"<link=\"ELEMENTSGAS\">Gás</link>.\n"
+"\n"
+"<link=\"CREATURES\">Criaturas</link> selvagens não podem passar pelas portas."
 
 #. STRINGS.BUILDINGS.PREFABS.DOOR.LEFT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.LEFT"
@@ -9540,7 +9544,8 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.DESC"
 msgid ""
 "Drywall can be used in conjunction with tiles to build airtight rooms on the "
 "surface."
-msgstr ""
+msgstr " A placa de Gesso pode ser usado em conjunto com blocos para construir salas " 
+"herméticas na superfície."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.EFFECT"
@@ -9550,6 +9555,10 @@ msgid ""
 "\n"
 "Builds an insulating backwall behind buildings."
 msgstr ""
+"Evita a perda de <link=\"ELEMENTSGAS\">Gás</link> e "
+"<link=\"ELEMENTSLIQUID\">Líquido</link> no espaço.\n"
+"\n"
+"Constrói uma parede atrás dos edifícios para isolar."
 
 #. STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.AQUATICMOSAIC.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.EXTERIORWALL.FACADES.AQUATICMOSAIC.DESC"
@@ -12386,7 +12395,8 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSTILE.DESC"
 msgid ""
 "Window tiles provide a barrier against liquid and gas and are completely "
 "transparent."
-msgstr ""
+msgstr "Os blocos das vidro fornecem uma barreira contra líquidos e gases e são completamente "
+"transparentes."
 
 #. STRINGS.BUILDINGS.PREFABS.GLASSTILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSTILE.EFFECT"
@@ -12403,7 +12413,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.GLASSTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSTILE.NAME"
 msgid "<link=\"GLASSTILE\">Window Tile</link>"
-msgstr "<link=\"GLASSTILE\">Bloco de Janela</link>"
+msgstr "<link=\"GLASSTILE\">Bloco de Vidro</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.GOURMETCOOKINGSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GOURMETCOOKINGSTATION.DESC"
@@ -16153,11 +16163,15 @@ msgid ""
 "\n"
 "Wild <link=\"CREATURES\">Critters</link> cannot pass through doors."
 msgstr ""
+"Bloqueia o fluxo <link=\"ELEMENTSLIQUID\">Líquidos</link> e <link=\"ELEMENTSGAS\">Gás</link> "
+"mantendo a pressão entre as áreas.\n"
+"\n"
+"<link=\"CREATURES\">Criaturas</link> selvagens não pode passar pelas portas."
 
 #. STRINGS.BUILDINGS.PREFABS.MANUALPRESSUREDOOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALPRESSUREDOOR.NAME"
 msgid "<link=\"MANUALPRESSUREDOOR\">Manual Airlock</link>"
-msgstr "<link=\"MANUALPRESSUREDOOR\">Eclusa de Ar Manual</link>"
+msgstr "<link=\"MANUALPRESSUREDOOR\">Porta Hermética Manual</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.AVERAGEQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MARBLESCULPTURE.AVERAGEQUALITYNAME"
@@ -16690,7 +16704,8 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.METALTILE.DESC"
 msgid ""
 "Heat travels much more quickly through metal tile than other types of "
 "flooring."
-msgstr ""
+msgstr "O calor transmite muito mais rapidamente através da bloco metálica "
+" do que outros tipos de blocos."
 
 #. STRINGS.BUILDINGS.PREFABS.METALTILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.METALTILE.EFFECT"
@@ -18069,7 +18084,7 @@ msgid ""
 "Plastic tile is mildly antiseptic and can help limit the spread of germs in "
 "a colony."
 msgstr ""
-"O bloco plástico é levemente antisséptico e pode ajudar a limitar a "
+"O bloco plástico é levemente anti-germe e pode ajudar a limitar a "
 "propagação de germes em uma colônia."
 
 #. STRINGS.BUILDINGS.PREFABS.PLASTICTILE.EFFECT
@@ -18243,6 +18258,7 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.DESC"
 msgid ""
 "Mechanized airlocks open and close more quickly than other types of door."
 msgstr ""
+"As portas herméticas automatizada abrem e fecham mais rapidamente do que outros tipos de portas."
 
 #. STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.EFFECT"
@@ -18255,11 +18271,18 @@ msgid ""
 "\n"
 "Wild <link=\"CREATURES\">Critters</link> cannot pass through doors."
 msgstr ""
+"Bloqueia o fluxo de <link=\"ELEMENTS LIQUID\">Líquido</link> e "
+"<link=\"ELEMENTS GAS\">Gás</link>, mantendo a pressão entre as áreas.\n"
+"\n"
+"Funciona como uma <link=\"MANUALPRESSUREDOOR\">Porta Hermética Manual</link> quando não "
+" há <link=\"POWER\">Energia</link> energia disponível.\n"
+"\n"
+"<link=\"CREATURES\">Criaturas</link> selvagens não pode passar pelas portas."
 
 #. STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSUREDOOR.NAME"
 msgid "<link=\"PRESSUREDOOR\">Mechanized Airlock</link>"
-msgstr "<link=\"PRESSUREDOOR\">Câmara de Ar Mecanizada</link>"
+msgstr "<link=\"PRESSUREDOOR\">Porta Hermética auto</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.PRESSURESWITCHGAS.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSURESWITCHGAS.DESC"
@@ -21484,7 +21507,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.STORAGETILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGETILE.NAME"
 msgid "<link=\"STORAGETILE\">Storage Tile</link>"
-msgstr "<link=\"STORAGETILE\">Bloco de Armazenamento</link>"
+msgstr "<link=\"STORAGETILE\">Bloco de Armazenagem</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.SUBLIMATIONSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SUBLIMATIONSTATION.DESC"
@@ -46676,8 +46699,8 @@ msgid ""
 "Vomiting produces <link=\"DIRTYWATER\">Polluted Water</link> and can spread "
 "<style=\"KKeyword\">Disease</style>"
 msgstr ""
-"O vômito produz <link=\"ÁGUA SUJA\">Água Poluída</link> e pode espalhar "
-"<style=\"Palavra-chave\">Doenças</style>"
+"O vômito produz <link=\"DIRTYWATER\">Água Poluída</link> e pode espalhar "
+"<style=\"KKeyword\">Doenças</style>"
 
 #. STRINGS.DUPLICANTS.CHORES.WARMUP.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.WARMUP.NAME"
@@ -58545,7 +58568,7 @@ msgid ""
 "Buildings made of this <link=\"POLYPROPYLENE\">Plastic</link> have "
 "antiseptic properties"
 msgstr "Edifícios feitos deste <link=\"POLYPROPYLENE\">Plástico</link> possuem propriedades "
-"anti-sépticas"
+"anti-germe"
 
 #. STRINGS.ELEMENTS.POLYPROPYLENE.DESC
 msgctxt "STRINGS.ELEMENTS.POLYPROPYLENE.DESC"
@@ -59399,7 +59422,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.WATER.NAME
 msgctxt "STRINGS.ELEMENTS.WATER.NAME"
 msgid "<link=\"WATER\">Water</link>"
-msgstr ""
+msgstr "<link=\"WATER\">Água</link>"
 
 #. STRINGS.ELEMENTS.WOLFRAMITE.DESC
 msgctxt "STRINGS.ELEMENTS.WOLFRAMITE.DESC"
@@ -69728,7 +69751,7 @@ msgstr "<link=\"ALLOY\">Liga</link>"
 #. STRINGS.MISC.TAGS.ANTISEPTIC
 msgctxt "STRINGS.MISC.TAGS.ANTISEPTIC"
 msgid "Antiseptic"
-msgstr "Antisséptico"
+msgstr "Anti-germes"
 
 #. STRINGS.MISC.TAGS.ANY
 msgctxt "STRINGS.MISC.TAGS.ANY"
@@ -77558,7 +77581,7 @@ msgstr ""
 #. STRINGS.UI.BUILDINGEFFECTS.DECORPROVIDED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.DECORPROVIDED"
 msgid "<link=\"DECOR\">Decoração</link>: {1} (Radius: {2} tiles)"
-msgstr "<link=\"DECOR\">Decoração</link>: {1} (Tamanho: {2} Blocos)"
+msgstr "<link=\"DECOR\">Decoração</link>: {1} (Alcance: {2} Blocos)"
 
 #. STRINGS.UI.BUILDINGEFFECTS.DIET_CONSUMED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.DIET_CONSUMED"
@@ -77858,7 +77881,7 @@ msgstr ""
 #. STRINGS.UI.BUILDINGEFFECTS.OVERHEAT_TEMP
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.OVERHEAT_TEMP"
 msgid "Overheat <link=\"HEAT\">Temperature</link>: {0}"
-msgstr ""
+msgstr "<link=\"HEAT\">Temperatura</link> de superaquecimento: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.PARTICLE_PORT_INPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.PARTICLE_PORT_INPUT"
@@ -77973,7 +77996,7 @@ msgstr ""
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESPOWER
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESPOWER"
 msgid "<link=\"POWER\">Power</link>: {0}"
-msgstr ""
+msgstr "<link=\"POWER\">Potência</link>: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESPOWERGENERATOR
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESPOWERGENERATOR"
@@ -78742,6 +78765,8 @@ msgid ""
 "Must be connected to a power grid with at least <style=\"consumed\">{0}</"
 "style> of available <style=\"KKeyword\">Power</style>"
 msgstr ""
+"Deve estar conectado a uma rede elétrica com pelo menos <style=\"consumed\">{0}</style>"
+" de <style=\"KKeyword\">Potência</style> disponível"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESPOWERGENERATOR
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESPOWERGENERATOR"
@@ -110384,7 +110409,7 @@ msgstr "Asteroide de Água"
 #~ "\n"
 #~ "<i>Spaced Out!</i></style> DLC Achievement"
 #~ msgstr ""
-#~ "<style=\"Palavra-chave\">\n"
+#~ "<style=\"KKeyword\">\n"
 #~ "Conquista da DLC<i>Spaced Out!</istyle>"
 
 #~ msgctxt "STRINGS.CREATURES.STATUSITEMS.HYPERTHERMIA.NAME"
