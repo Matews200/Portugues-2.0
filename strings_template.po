@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PT-BR2\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Matews200\n"
-"Language-Team: Matews200\n"
+"Last-Translator: umdalek\n"
+"Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -383,7 +383,7 @@ msgstr "Não é uma festa de verdade até que alguém tente alimentar a escultur
 #. STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_BAMMOTH.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_BAMMOTH.NAME"
 msgid "What A Hoot"
-msgstr "Que piada"
+msgstr "Que graça"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_SEAL.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_SEAL.DESC"
@@ -493,7 +493,7 @@ msgstr "Você não pode escolher sua família, mas pode escolher seus amigos."
 #. STRINGS.BLUEPRINTS.PERMIT_PAINTING_ART_CERES_A.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_PAINTING_ART_CERES_A.NAME"
 msgid "Lady With a Bammini"
-msgstr "Senhora com um Bammini"
+msgstr "Dama com um Bamutinho"
 
 #. STRINGS.BLUEPRINTS.PERMIT_PAINTING_TALL_ART_CERES_A.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_PAINTING_TALL_ART_CERES_A.DESC"
@@ -26688,16 +26688,19 @@ msgstr "Hidrocacto"
 #. STRINGS.CODEX.ICEBELLY.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.ICEBELLY.BODY.CONTAINER1"
 msgid ""
-"The Bammoth is one of the oldest species on record, with ancient skeletal remains dating back "
-"approximately 10,000 years.\n"
+"The Bammoth is one of the oldest species on record, with ancient skeletal remains dating back approximately 10,000 years.\n"
 "\n"
 "This placid herbivore is known for its unique body language: an angry young Bammoth expresses "
-"displeasure by flopping down dramatically in front of its opponent, while older creatures with "
-"limited mobility will sit facing away from the source of their annoyance.\n"
+"displeasure by flopping down dramatically in front of its opponent, while older creatures with limited mobility will sit facing away from the source of their annoyance.\n"
 "\n"
-"Licking the ground in front of a caregiver can be a sign of either deep affection or mineral "
-"deficiency."
+"Licking the ground in front of a caregiver can be a sign of either deep affection or mineral deficiency."
 msgstr ""
+"O Bamute é uma das espécies mais antigas registradas, com restos esqueléticos antigos datando de aproximadamente 10.000 anos.\n"
+"\n"
+"Este pacífico herbívoro é conhecido por sua linguagem corporal única: um Bamute jovem e irritado expressa desaprovação se jogando dramaticamente na frente de seu oponente,"
+" enquanto criaturas mais velhas com mobilidade limitada se sentarão de costas para a fonte de seu incômodo.\n"
+"\n"
+"Lamber o chão na frente de um cuidador pode ser um sinal de profundo afeto ou deficiência mineral."
 
 #. STRINGS.CODEX.ICEBELLY.SPECIES_SUBTITLE
 msgctxt "STRINGS.CODEX.ICEBELLY.SPECIES_SUBTITLE"
@@ -26707,7 +26710,7 @@ msgstr "Espécies de Criaturas"
 #. STRINGS.CODEX.ICEBELLY.SPECIES_TITLE
 msgctxt "STRINGS.CODEX.ICEBELLY.SPECIES_TITLE"
 msgid "Bammoths"
-msgstr ""
+msgstr "Bamutes"
 
 #. STRINGS.CODEX.ICEBELLY.SUBTITLE
 msgctxt "STRINGS.CODEX.ICEBELLY.SUBTITLE"
@@ -26717,7 +26720,7 @@ msgstr "Criatura Domesticável"
 #. STRINGS.CODEX.ICEBELLY.TITLE
 msgctxt "STRINGS.CODEX.ICEBELLY.TITLE"
 msgid "Bammoth"
-msgstr ""
+msgstr "Bamute"
 
 #. STRINGS.CODEX.ICEFLOWER.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.ICEFLOWER.BODY.CONTAINER1"
@@ -34400,7 +34403,7 @@ msgstr ""
 #. STRINGS.CREATURES.FAMILY.ICEBELLY
 msgctxt "STRINGS.CREATURES.FAMILY.ICEBELLY"
 msgid "<link=\"BELLYSPECIES\">Bammoth</link>"
-msgstr ""
+msgstr "<link=\"BELLYSPECIES\">Bamute</link>"
 
 #. STRINGS.CREATURES.FAMILY.LIGHTBUG
 msgctxt "STRINGS.CREATURES.FAMILY.LIGHTBUG"
@@ -34470,7 +34473,7 @@ msgstr ""
 #. STRINGS.CREATURES.FAMILY_PLURAL.BELLYSPECIES
 msgctxt "STRINGS.CREATURES.FAMILY_PLURAL.BELLYSPECIES"
 msgid "<link=\"BELLYSPECIES\">Bammoths</link>"
-msgstr ""
+msgstr "<link=\"BELLYSPECIES\">Bamutes</link>"
 
 #. STRINGS.CREATURES.FAMILY_PLURAL.CRABSPECIES
 msgctxt "STRINGS.CREATURES.FAMILY_PLURAL.CRABSPECIES"
@@ -36238,11 +36241,14 @@ msgid ""
 "\n"
 "In time it will mature into a fully grown <link=\"ICEBELLY\">Bammoth</link>."
 msgstr ""
+"Um Bamutinho pequeno e peludinho.\n"
+"\n"
+"Com o tempo, ele vai virar um <link=\"ICEBELLY\">Bamute</link> totalmente crescido."
 
 #. STRINGS.CREATURES.SPECIES.ICEBELLY.BABY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.ICEBELLY.BABY.NAME"
 msgid "<link=\"ICEBELLY\">Bammini</link>"
-msgstr ""
+msgstr "<link=\"ICEBELLY\">Bamutinho</link>"
 
 #. STRINGS.CREATURES.SPECIES.ICEBELLY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.ICEBELLY.DESC"
@@ -36252,16 +36258,19 @@ msgid ""
 "\n"
 "Their thick overcoats can be shorn for <link=\"BASICFABRIC\">Reed Fiber</link>."
 msgstr ""
+"Bamutes são criaturas pesadas e não hostis que subsistem de <link=\"CARROT\">Abóbora Plumosa</link>.\n"
+"\n"
+"Sua pelagem espessa podem ser tosquiadas para obter <link=\"BASICFABRIC\">Fibra de Junco</link>."
 
 #. STRINGS.CREATURES.SPECIES.ICEBELLY.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.ICEBELLY.EGG_NAME"
 msgid "<link=\"ICEBELLY\">Bammini Egg</link>"
-msgstr ""
+msgstr "<link=\"ICEBELLY\">Ovo de Bamutinho</link>"
 
 #. STRINGS.CREATURES.SPECIES.ICEBELLY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.ICEBELLY.NAME"
 msgid "<link=\"ICEBELLY\">Bammoth</link>"
-msgstr ""
+msgstr "<link=\"ICEBELLY\">Bamute</link>"
 
 #. STRINGS.CREATURES.SPECIES.ICECAVESFORAGEPLANTPLANTED.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.ICECAVESFORAGEPLANTPLANTED.DESC"
@@ -62800,7 +62809,7 @@ msgstr ""
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ICE_BELLY_POOP.NAME
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ICE_BELLY_POOP.NAME"
 msgid "<link=\"ICEBELLYPOOP\">Bammoth Patty</link>"
-msgstr ""
+msgstr "<link=\"ICEBELLYPOOP\">Bifeca de Bamute</link>"
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.MACHINE_PARTS.DESC
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.MACHINE_PARTS.DESC"
@@ -72336,21 +72345,27 @@ msgstr ""
 #. STRINGS.SUBWORLDS.CARROTQUARRY.UTILITY
 msgctxt "STRINGS.SUBWORLDS.CARROTQUARRY.UTILITY"
 msgid ""
-"<link=\"CARROTPLANT\">Plume Squash</link> is a calorie-dense crop that thrives in "
-"<link=\"OXYGEN\">Oxygen</link>, <link=\"CONTAMINATEDOXYGEN\">Polluted Oxygen</link> and "
-"<link=\"CARBONDIOXIDE\">Carbon Dioxide</link> environments.\n"
+"<link=\"CARROTPLANT\">Plume Squash</link> is a calorie-dense crop that thrives in <link=\"OXYGEN\">Oxygen</link>, <link=\"CONTAMINATEDOXYGEN\">Polluted Oxygen</link> "
+"and <link=\"CARBONDIOXIDE\">Carbon Dioxide</link> environments.\n"
 "\n"
-"They make up the <link=\"BELLYSPECIES\">Bammoths'</link> entire diet. These gentle giants are "
-"a joy to ranch, <link=\"MEAT\">Meat</link>, <link=\"PHOSPHORITE\">Phosphorite</link>, "
-"<link=\"CINNABARORE\">Cinnabar Ore</link> and <link=\"BASICFABRIC\">Reed Fiber</link>.\n"
+"They make up the <link=\"BELLYSPECIES\">Bammoths'</link> entire diet. These gentle giants are a joy to ranch, "
+"<link=\"MEAT\">Meat</link>, <link=\"PHOSPHORITE\">Phosphorite</link>, <link=\"CINNABAR\">Cinnabar Ore</link> and <link=\"BASICFABRIC\">Reed Fiber</link>.\n"
 "\n"
-"The latter is of particular importance, as my Duplicants will need to wear warmly insulated "
-"clothing if they are to survive these low temperatures.\n"
+"The latter is of particular importance, as my Duplicants will need to wear warmly insulated clothing if they are to survive these low temperatures.\n"
 "\n"
-"Initial investigations also reveal an abundance of <link=\"IRONORE\">Iron Ore</link> and "
-"<link=\"IGNEOUSROCK\">Igneous Rock</link> in this <link=\"OXYGEN\">Oxygen</link>-rich "
-"environment, ideal for industrial projects."
+"Initial investigations also reveal an abundance of <link=\"IRONORE\">Iron Ore</link> and <link=\"IGNEOUSROCK\">Igneous Rock</link> "
+"in this <link=\"OXYGEN\">Oxygen</link>-rich environment, ideal for industrial projects."
 msgstr ""
+"<link=\"CARROTPLANT\">Abóbora Plumosa</link> é uma cultura altamente calórica que prospera em ambientes com <link=\"OXYGEN\">Oxigênio</link>, <link=\"CONTAMINATEDOXYGEN\">Oxigênio Poluído</link> "
+"e <link=\"CARBONDIOXIDE\">Dióxido de Carbono</link>.\n"
+"\n"
+"Elas constituem toda a dieta dos <link=\"BELLYSPECIES\">Bamutes</link>. Esses gentis gigantes são uma alegria para criar, "
+"fornecendo <link=\"MEAT\">Carne</link>, <link=\"PHOSPHORITE\">Fosforito</link>, <link=\"CINNABAR\">Minério de Mercúrio</link> e <link=\"BASICFABRIC\">Fibra de Junco</link>.\n"
+"\n"
+"Esta última é de particular importância, pois meus Duplicantes precisarão usar roupas bem isoladas para sobreviver a essas baixas temperaturas.\n"
+"\n"
+"Investigações iniciais também revelam uma abundância de <link=\"IRONORE\">Minério de Ferro</link> e <link=\"IGNEOUSROCK\">Rocha Ígnea</link> "
+"neste ambiente rico em <link=\"OXYGEN\">Oxigênio</link>, ideal para projetos industriais."
 
 #. STRINGS.SUBWORLDS.FOREST.DESC
 msgctxt "STRINGS.SUBWORLDS.FOREST.DESC"
