@@ -35315,20 +35315,18 @@ msgstr "Penalidade Wilt"
 
 #. STRINGS.CREATURES.SPECIES.CARROTPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.CARROTPLANT.DESC"
-msgid ""
-"Plume Squashes are sweet, nutrient-rich tubers that can be harvested for <link=\"FOOD\">Food</"
-"link>."
-msgstr ""
+msgid "Plume Squashes are sweet, nutrient-rich tubers that can be harvested for <link=\"FOOD\">Food</link>."
+msgstr "Abóboras Plumosas são tubérculos doces e ricos em nutrientes, que podem ser colhidos como <link=\"FOOD\">Alimento</link>."
 
 #. STRINGS.CREATURES.SPECIES.CARROTPLANT.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.CARROTPLANT.DOMESTICATEDDESC"
 msgid "This plant produces edible <link=\"CARROT\">Plume Squash</link>."
-msgstr ""
+msgstr "Essa planta produz <link="CARROT">Abóbora Plumosa</link> comestível."
 
 #. STRINGS.CREATURES.SPECIES.CARROTPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.CARROTPLANT.NAME"
 msgid "<link=\"CARROTPLANT\">Plume Squash Plant</link>"
-msgstr ""
+msgstr "<link=\"CARROTPLANT\">Abóbora Plumosa</link>"
 
 #. STRINGS.CREATURES.SPECIES.CHLORINEGEYSER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.CHLORINEGEYSER.DESC"
@@ -37339,11 +37337,15 @@ msgid ""
 "\n"
 "Digging up Buried Objects may uncover a Plume Squash Seed."
 msgstr ""
+"A <link=\"PLANTS\">Semente</link> de <link=\"CARROTPLANT\">Abóbora Plumosa</link>.\n"
+"\n"
+"Escavar Obejtos enterrados pode revelar uma Semente de Abóbora Plumosa.\n"
+"\n"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.CARROTPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.CARROTPLANT.NAME"
 msgid "<link=\"CARROTPLANT\">Plume Squash Seed</link>"
-msgstr ""
+msgstr "<link=\"CARROTPLANT\">Semente de Abóbora Plumosa</link>"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.COLDBREATHER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.COLDBREATHER.DESC"
@@ -61621,7 +61623,7 @@ msgstr ""
 #. STRINGS.ITEMS.FOOD.CARROT.NAME
 msgctxt "STRINGS.ITEMS.FOOD.CARROT.NAME"
 msgid "<link=\"CARROT\">Plume Squash</link>"
-msgstr ""
+msgstr "<link=\"CARROT\">Abóbora Plumosa</link>"
 
 #. STRINGS.ITEMS.FOOD.COLDWHEATBREAD.DESC
 msgctxt "STRINGS.ITEMS.FOOD.COLDWHEATBREAD.DESC"
@@ -61948,9 +61950,7 @@ msgstr ""
 
 #. STRINGS.ITEMS.FOOD.FRIESCARROT.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.FRIESCARROT.RECIPEDESC"
-msgid ""
-"Crunchy sticks of <link=\"CARROT\">Plume Squash</link> deep-fried in <link=\"TALLOW\">Tallow</"
-"link>."
+msgid "Crunchy sticks of <link=\"CARROT\">Plume Squash</link> deep-fried in <link=\"TALLOW\">Tallow</link>."
 msgstr ""
 
 #. STRINGS.ITEMS.FOOD.FRUITCAKE.DESC
