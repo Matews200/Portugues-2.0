@@ -89772,12 +89772,12 @@ msgstr "Missões de Foguetes em Andamento"
 #. STRINGS.UI.RETIRED_COLONY_INFO_SCREEN.STATS.TRAVEL_TIME
 msgctxt "STRINGS.UI.RETIRED_COLONY_INFO_SCREEN.STATS.TRAVEL_TIME"
 msgid "Total Travel Time"
-msgstr "Média de Tempo de Viagem"
+msgstr "Tempo Total de Viagem"
 
 #. STRINGS.UI.RETIRED_COLONY_INFO_SCREEN.STATS.WORK_TIME
 msgctxt "STRINGS.UI.RETIRED_COLONY_INFO_SCREEN.STATS.WORK_TIME"
 msgid "Total Work Time"
-msgstr "Média de Tempo Trabalhado"
+msgstr "Tempo Total de Trabalho"
 
 #. STRINGS.UI.RETIRED_COLONY_INFO_SCREEN.TIMELAPSE_UNAVAILABLE
 msgctxt "STRINGS.UI.RETIRED_COLONY_INFO_SCREEN.TIMELAPSE_UNAVAILABLE"
