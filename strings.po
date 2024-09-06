@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PT-BR2\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Matews200\n"
-"Language-Team: Matews200\n"
+"Last-Translator: umdalek\n"
+"Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -383,7 +383,7 @@ msgstr "Não é uma festa de verdade até que alguém tente alimentar a escultur
 #. STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_BAMMOTH.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_BAMMOTH.NAME"
 msgid "What A Hoot"
-msgstr "Que piada"
+msgstr "Que graça"
 
 #. STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_SEAL.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_ICESCULPTURE_AMAZING_IDLE_SEAL.DESC"
@@ -493,7 +493,7 @@ msgstr "Você não pode escolher sua família, mas pode escolher seus amigos."
 #. STRINGS.BLUEPRINTS.PERMIT_PAINTING_ART_CERES_A.NAME
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_PAINTING_ART_CERES_A.NAME"
 msgid "Lady With a Bammini"
-msgstr "Senhora com um Bammini"
+msgstr "Dama com um Bamutinho"
 
 #. STRINGS.BLUEPRINTS.PERMIT_PAINTING_TALL_ART_CERES_A.DESC
 msgctxt "STRINGS.BLUEPRINTS.PERMIT_PAINTING_TALL_ART_CERES_A.DESC"
@@ -8317,6 +8317,9 @@ msgid ""
 "\n"
 "Duplicants will not fabricate items unless recipes are queued."
 msgstr ""
+"Usa <link=\"TALLOW\">Banha</link> para cozinhar uma ampla variedade de <link=\"FOOD\">Alimentos</link> melhorados."\n"
+"\n"
+"Duplicantes não fabricarão itens a menos que as receitas estejam na fila."
 
 #. STRINGS.BUILDINGS.PREFABS.DEEPFRYER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DEEPFRYER.NAME"
@@ -16863,10 +16866,8 @@ msgstr "O plástico pode ser usado para criar construções e bens exclusivos."
 
 #. STRINGS.BUILDINGS.PREFABS.POLYMERIZER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.POLYMERIZER.EFFECT"
-msgid ""
-"Converts <link=\"PETROLEUM\">Petroleum</link> or <link=\"SUGARWATER\">Nectar</link> into raw "
-"<link=\"POLYPROPYLENE\">Plastic</link>."
-msgstr ""
+msgid "Converts <link=\"PETROLEUM\">Petroleum</link> or <link=\"SUGARWATER\">Nectar</link> into raw <link=\"POLYPROPYLENE\">Plastic</link>."
+msgstr "Converte <link=\"PETROLEUM\">Petróleo</link> ou <link=\"SUGARWATER\">Néctar</link> em <link=\"POLYPROPYLENE\">Plástico</link>."
 
 #. STRINGS.BUILDINGS.PREFABS.POLYMERIZER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.POLYMERIZER.NAME"
@@ -26688,16 +26689,19 @@ msgstr "Hidrocacto"
 #. STRINGS.CODEX.ICEBELLY.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.ICEBELLY.BODY.CONTAINER1"
 msgid ""
-"The Bammoth is one of the oldest species on record, with ancient skeletal remains dating back "
-"approximately 10,000 years.\n"
+"The Bammoth is one of the oldest species on record, with ancient skeletal remains dating back approximately 10,000 years.\n"
 "\n"
 "This placid herbivore is known for its unique body language: an angry young Bammoth expresses "
-"displeasure by flopping down dramatically in front of its opponent, while older creatures with "
-"limited mobility will sit facing away from the source of their annoyance.\n"
+"displeasure by flopping down dramatically in front of its opponent, while older creatures with limited mobility will sit facing away from the source of their annoyance.\n"
 "\n"
-"Licking the ground in front of a caregiver can be a sign of either deep affection or mineral "
-"deficiency."
+"Licking the ground in front of a caregiver can be a sign of either deep affection or mineral deficiency."
 msgstr ""
+"O Bamute é uma das espécies mais antigas registradas, com restos esqueléticos antigos datando de aproximadamente 10.000 anos.\n"
+"\n"
+"Este pacífico herbívoro é conhecido por sua linguagem corporal única: um Bamute jovem e irritado expressa desaprovação se jogando dramaticamente na frente de seu oponente,"
+" enquanto criaturas mais velhas com mobilidade limitada se sentarão de costas para a fonte de seu incômodo.\n"
+"\n"
+"Lamber o chão na frente de um cuidador pode ser um sinal de profundo afeto ou deficiência mineral."
 
 #. STRINGS.CODEX.ICEBELLY.SPECIES_SUBTITLE
 msgctxt "STRINGS.CODEX.ICEBELLY.SPECIES_SUBTITLE"
@@ -26707,7 +26711,7 @@ msgstr "Espécies de Criaturas"
 #. STRINGS.CODEX.ICEBELLY.SPECIES_TITLE
 msgctxt "STRINGS.CODEX.ICEBELLY.SPECIES_TITLE"
 msgid "Bammoths"
-msgstr ""
+msgstr "Bamutes"
 
 #. STRINGS.CODEX.ICEBELLY.SUBTITLE
 msgctxt "STRINGS.CODEX.ICEBELLY.SUBTITLE"
@@ -26717,7 +26721,7 @@ msgstr "Criatura Domesticável"
 #. STRINGS.CODEX.ICEBELLY.TITLE
 msgctxt "STRINGS.CODEX.ICEBELLY.TITLE"
 msgid "Bammoth"
-msgstr ""
+msgstr "Bamute"
 
 #. STRINGS.CODEX.ICEFLOWER.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.ICEFLOWER.BODY.CONTAINER1"
@@ -30058,6 +30062,16 @@ msgid ""
 "Many handlers enjoy teaching this critter to clap its flippers, only to discover that there is "
 "no reliable method of limiting how often or how loudly the behavior is repeated."
 msgstr ""
+"Focas-Sifão são nomeados em homenagem à protrusão glabellar oca em forma de cone que lhes permite sugar nutrientes "
+"diretamente das plantas para o saco digestivo localizado na base do cone.\n"
+"\n"
+"Para puxar fluidos nutritivos através desse \"canudo,\" a Foca-Sifão comprime sua cavidade nasal "
+"e bombeia sua língua para cima em seu palato mole repetidamente, criando um vácuo.\n"
+"\n"
+"As refeições são concluídas lambendo o ar para reabrir as vias aéreas e prevenir asfixia acidental.\n"
+"\n"
+"Muitos tratadores gostam de ensinar essa criatura a bater palmas com suas nadadeiras, "
+"só para descobrir que não há um método confiável para limitar a frequência ou o volume com que o comportamento é repetido."
 
 #. STRINGS.CODEX.SEAL.SPECIES_SUBTITLE
 msgctxt "STRINGS.CODEX.SEAL.SPECIES_SUBTITLE"
@@ -30067,7 +30081,7 @@ msgstr "Criaturas Domesticáveis"
 #. STRINGS.CODEX.SEAL.SPECIES_TITLE
 msgctxt "STRINGS.CODEX.SEAL.SPECIES_TITLE"
 msgid "Spigot Seals"
-msgstr ""
+msgstr "Focas-Sifão"
 
 #. STRINGS.CODEX.SEAL.SUBTITLE
 msgctxt "STRINGS.CODEX.SEAL.SUBTITLE"
@@ -30077,7 +30091,7 @@ msgstr "Criatura Domesticável"
 #. STRINGS.CODEX.SEAL.TITLE
 msgctxt "STRINGS.CODEX.SEAL.TITLE"
 msgid "Spigot Seal"
-msgstr ""
+msgstr "Foca-Sifão"
 
 #. STRINGS.CODEX.SHERBERRY.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.SHERBERRY.BODY.CONTAINER1"
@@ -30234,6 +30248,14 @@ msgid ""
 "Bonbon Trees are generally considered an eyesore, and would likely be eradicated if not for "
 "their delicious output."
 msgstr ""
+"A Árvore Docinha é uma planta imponente desenvolvida para prosperar em temperaturas abaixo de zero. "
+"Ela apresenta múltiplos galhos que funcionam independentemente, sintetizando luz para canalizar nutrientes para um núcleo central oco.\\n"
+"\n"
+"Uma vez que a árvore está totalmente crescida, o núcleo secreta enzimas digestivas que decompõem nutrientes "
+"excedentes e os armazenam como um líquido espesso e doce. Isso pode ser refinado em <link=\"SUCROSE\">Sacarose</link> "
+"para a produção de alimentos de nível superior ou usado \'in natura'\ para alimentar criações de Focas-Sifão.\n"
+"\n"
+"As Árvores Docinhas são geralmente consideradas uma monstruosidade e provavelmente seriam erradicadas se não fosse por sua deliciosa produção."
 
 #. STRINGS.CODEX.SPACETREE.SUBTITLE
 msgctxt "STRINGS.CODEX.SPACETREE.SUBTITLE"
@@ -30243,7 +30265,7 @@ msgstr "Planta Comestível"
 #. STRINGS.CODEX.SPACETREE.TITLE
 msgctxt "STRINGS.CODEX.SPACETREE.TITLE"
 msgid "Bonbon Tree"
-msgstr ""
+msgstr "Árvore Docinha"
 
 #. STRINGS.CODEX.SPINDLYGRUBFRUITPLANT.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.SPINDLYGRUBFRUITPLANT.BODY.CONTAINER1"
@@ -33298,9 +33320,7 @@ msgstr "Pagar as Contas"
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.COMPLETED_SKILL_BRANCH_DESCRIPTION
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.COMPLETED_SKILL_BRANCH_DESCRIPTION"
 msgid "Use a Duplicant's Skill Points to buy out an entire branch of the Skill Tree."
-msgstr ""
-"Use os Pontos de Habilidade de um Duplicante para comprar um ramo inteiro da Árvore de "
-"Habilidades."
+msgstr "Use os Pontos de Habilidade de um Duplicante para comprar um ramo inteiro da Árvore de Habilidades."
 
 #. STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.COOKED_FOOD
 msgctxt "STRINGS.COLONY_ACHIEVEMENTS.MISC_REQUIREMENTS.COOKED_FOOD"
@@ -34400,7 +34420,7 @@ msgstr ""
 #. STRINGS.CREATURES.FAMILY.ICEBELLY
 msgctxt "STRINGS.CREATURES.FAMILY.ICEBELLY"
 msgid "<link=\"BELLYSPECIES\">Bammoth</link>"
-msgstr ""
+msgstr "<link=\"BELLYSPECIES\">Bamute</link>"
 
 #. STRINGS.CREATURES.FAMILY.LIGHTBUG
 msgctxt "STRINGS.CREATURES.FAMILY.LIGHTBUG"
@@ -34440,7 +34460,7 @@ msgstr ""
 #. STRINGS.CREATURES.FAMILY.SEAL
 msgctxt "STRINGS.CREATURES.FAMILY.SEAL"
 msgid "<link=\"SEALSPECIES\">Spigot Seal</link>"
-msgstr ""
+msgstr "<link=\"SEALSPECIES\">Foca-Sifão</link>"
 
 #. STRINGS.CREATURES.FAMILY.SQUIRREL
 msgctxt "STRINGS.CREATURES.FAMILY.SQUIRREL"
@@ -34470,7 +34490,7 @@ msgstr ""
 #. STRINGS.CREATURES.FAMILY_PLURAL.BELLYSPECIES
 msgctxt "STRINGS.CREATURES.FAMILY_PLURAL.BELLYSPECIES"
 msgid "<link=\"BELLYSPECIES\">Bammoths</link>"
-msgstr ""
+msgstr "<link=\"BELLYSPECIES\">Bamutes</link>"
 
 #. STRINGS.CREATURES.FAMILY_PLURAL.CRABSPECIES
 msgctxt "STRINGS.CREATURES.FAMILY_PLURAL.CRABSPECIES"
@@ -34540,7 +34560,7 @@ msgstr ""
 #. STRINGS.CREATURES.FAMILY_PLURAL.SEALSPECIES
 msgctxt "STRINGS.CREATURES.FAMILY_PLURAL.SEALSPECIES"
 msgid "<link=\"SEALSPECIES\">Spigot Seals</link>"
-msgstr ""
+msgstr "<link=\"SEALSPECIES\">Focas-Sifão</link>"
 
 #. STRINGS.CREATURES.FAMILY_PLURAL.SQUIRRELSPECIES
 msgctxt "STRINGS.CREATURES.FAMILY_PLURAL.SQUIRRELSPECIES"
@@ -35312,20 +35332,18 @@ msgstr "Penalidade Wilt"
 
 #. STRINGS.CREATURES.SPECIES.CARROTPLANT.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.CARROTPLANT.DESC"
-msgid ""
-"Plume Squashes are sweet, nutrient-rich tubers that can be harvested for <link=\"FOOD\">Food</"
-"link>."
-msgstr ""
+msgid "Plume Squashes are sweet, nutrient-rich tubers that can be harvested for <link=\"FOOD\">Food</link>."
+msgstr "Abóboras Plumosas são tubérculos doces e ricos em nutrientes, que podem ser colhidos como <link=\"FOOD\">Alimento</link>."
 
 #. STRINGS.CREATURES.SPECIES.CARROTPLANT.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.CARROTPLANT.DOMESTICATEDDESC"
 msgid "This plant produces edible <link=\"CARROT\">Plume Squash</link>."
-msgstr ""
+msgstr "Essa planta produz <link="CARROT">Abóbora Plumosa</link> comestível."
 
 #. STRINGS.CREATURES.SPECIES.CARROTPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.CARROTPLANT.NAME"
 msgid "<link=\"CARROTPLANT\">Plume Squash Plant</link>"
-msgstr ""
+msgstr "<link=\"CARROTPLANT\">Abóbora Plumosa</link>"
 
 #. STRINGS.CREATURES.SPECIES.CHLORINEGEYSER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.CHLORINEGEYSER.DESC"
@@ -36238,11 +36256,14 @@ msgid ""
 "\n"
 "In time it will mature into a fully grown <link=\"ICEBELLY\">Bammoth</link>."
 msgstr ""
+"Um Bamutinho pequeno e peludinho.\n"
+"\n"
+"Com o tempo, ele vai virar um <link=\"ICEBELLY\">Bamute</link> totalmente crescido."
 
 #. STRINGS.CREATURES.SPECIES.ICEBELLY.BABY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.ICEBELLY.BABY.NAME"
 msgid "<link=\"ICEBELLY\">Bammini</link>"
-msgstr ""
+msgstr "<link=\"ICEBELLY\">Bamutinho</link>"
 
 #. STRINGS.CREATURES.SPECIES.ICEBELLY.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.ICEBELLY.DESC"
@@ -36252,16 +36273,19 @@ msgid ""
 "\n"
 "Their thick overcoats can be shorn for <link=\"BASICFABRIC\">Reed Fiber</link>."
 msgstr ""
+"Bamutes são criaturas pesadas e não hostis que subsistem de <link=\"CARROT\">Abóbora Plumosa</link>.\n"
+"\n"
+"Sua pelagem espessa podem ser tosquiadas para obter <link=\"BASICFABRIC\">Fibra de Junco</link>."
 
 #. STRINGS.CREATURES.SPECIES.ICEBELLY.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.ICEBELLY.EGG_NAME"
 msgid "<link=\"ICEBELLY\">Bammini Egg</link>"
-msgstr ""
+msgstr "<link=\"ICEBELLY\">Ovo de Bamutinho</link>"
 
 #. STRINGS.CREATURES.SPECIES.ICEBELLY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.ICEBELLY.NAME"
 msgid "<link=\"ICEBELLY\">Bammoth</link>"
-msgstr ""
+msgstr "<link=\"ICEBELLY\">Bamute</link>"
 
 #. STRINGS.CREATURES.SPECIES.ICECAVESFORAGEPLANTPLANTED.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.ICECAVESFORAGEPLANTPLANTED.DESC"
@@ -37203,30 +37227,35 @@ msgid ""
 "\n"
 "In time, it will mature into an adult <link=\"SEAL\">Spigot Seal</link>."
 msgstr ""
+"Uma minúscula Foquinha-Sifão, bambante e adorável\n"
+"\n"
+"Com o tempo, vai crescer e virar uma <link=\"SEAL\">Foca-Sifão</link> adulta."
 
 #. STRINGS.CREATURES.SPECIES.SEAL.BABY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEAL.BABY.NAME"
 msgid "<link=\"SEAL\">Spigot Pup</link>"
-msgstr ""
+msgstr "<link=\"SEAL\">Foquinha-Sifão</link>"
 
 #. STRINGS.CREATURES.SPECIES.SEAL.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEAL.DESC"
 msgid ""
 "Spigot Seals are charismatic creatures who produce <link=\"ETHANOL\">Ethanol</link>.\n"
 "\n"
-"They enjoy sipping <link=\"SUGARWATER\">Nectar</link> straight from the "
-"<link=\"SPACETREE\">Bonbon Tree</link>."
+"They enjoy sipping <link=\"SUGARWATER\">Nectar</link> straight from the <link=\"SPACETREE\">Bonbon Tree</link>."
 msgstr ""
+"Focas-Sifão são criaturas carismáticas que produzem <link=\"ETHANOL\">Etanol</link>.\n"
+"\n"
+"Eles gostam de saborear <link=\"SUGARWATER\">Néctar</link> diretamente da <link=\"SPACETREE\">Árvore Docinha</link>."
 
 #. STRINGS.CREATURES.SPECIES.SEAL.EGG_NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEAL.EGG_NAME"
 msgid "<link=\"SEAL\">Spigot Pup Egg</link>"
-msgstr ""
+msgstr "<link=\"SEAL\">Ovo de Foquinha-Sifão</link>"
 
 #. STRINGS.CREATURES.SPECIES.SEAL.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEAL.NAME"
 msgid "<link=\"SEAL\">Spigot Seal</link>"
-msgstr ""
+msgstr "<link=\"SEAL\">Foca-Sifão</link>"
 
 #. STRINGS.CREATURES.SPECIES.SEALETTUCE.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEALETTUCE.DESC"
@@ -37330,11 +37359,15 @@ msgid ""
 "\n"
 "Digging up Buried Objects may uncover a Plume Squash Seed."
 msgstr ""
+"A <link=\"PLANTS\">Semente</link> de <link=\"CARROTPLANT\">Abóbora Plumosa</link>.\n"
+"\n"
+"Escavar Obejtos enterrados pode revelar uma Semente de Abóbora Plumosa.\n"
+"\n"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.CARROTPLANT.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.CARROTPLANT.NAME"
 msgid "<link=\"CARROTPLANT\">Plume Squash Seed</link>"
-msgstr ""
+msgstr "<link=\"CARROTPLANT\">Semente de Abóbora Plumosa</link>"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.COLDBREATHER.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.COLDBREATHER.DESC"
@@ -37558,11 +37591,14 @@ msgid ""
 "\n"
 "Digging up Buried Objects may uncover a Bonbon Tree Seed."
 msgstr ""
+"A <link=\"PLANTS\">Semente</link> de <link=\"SPACETREE\">Árvore Docinha</link>.\n"
+"\n"
+"Escavar obejtos enterrados pode revelar uma Semente de Árvore Docinha."
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.SPACETREE.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.SPACETREE.NAME"
 msgid "<link=\"SPACETREE\">Bonbon Tree Seed</link>"
-msgstr ""
+msgstr "<link=\"SPACETREE\">Semente de Árvore Docinha</link>"
 
 #. STRINGS.CREATURES.SPECIES.SEEDS.SPICE_VINE.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.SPICE_VINE.DESC"
@@ -37671,23 +37707,27 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.SPACETREE.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SPACETREE.DESC"
 msgid ""
-"Bonbon Tree branches synthesize <link=\"LIGHT\">Light</link> to produce "
-"<link=\"SUGARWATER\">Nectar</link>.\n"
+"Bonbon Tree branches synthesize <link=\"LIGHT\">Light</link> to produce <link=\"SUGARWATER\">Nectar</link>.\n"
 "\n"
 "Branches can be harvested for <link=\"WOOD\">Wood</link>.\n"
 "\n"
 "Bonbon Trees can shed most environmental debris, and rarely become entombed."
 msgstr ""
+"Árvores Docinhas sintetizam <link=\"LIGHT\">Luz</link> para produzir <link=\"SUGARWATER\">Néctar</link>.\n"
+"\n"
+"Seus galhos podem ser colhidos para obter <link=\"WOOD\">Madeira</link>.\n"
+"\n"
+"Árvores Docinhas podem eliminar a maioria dos detritos ambientais e raramente ficam soterradas."
 
 #. STRINGS.CREATURES.SPECIES.SPACETREE.DOMESTICATEDDESC
 msgctxt "STRINGS.CREATURES.SPECIES.SPACETREE.DOMESTICATEDDESC"
 msgid "This plant produces <link=\"SUGARWATER\">Nectar</link> and <link=\"WOOD\">Wood</link>."
-msgstr ""
+msgstr "Essa planta produz <link=\"SUGARWATER\">Néctar</link> e <link=\"WOOD\">Madeira</link>."
 
 #. STRINGS.CREATURES.SPECIES.SPACETREE.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SPACETREE.NAME"
 msgid "<link=\"SPACETREE\">Bonbon Tree</link>"
-msgstr ""
+msgstr "<link=\"SPACETREE\">Árvore Docinha</link>"
 
 #. STRINGS.CREATURES.SPECIES.SPICE_VINE.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SPICE_VINE.DESC"
@@ -39602,17 +39642,17 @@ msgstr ""
 #. STRINGS.CREATURES.STATUSITEMS.PRODUCINGSUGARWATER.BRANCH_LINE
 msgctxt "STRINGS.CREATURES.STATUSITEMS.PRODUCINGSUGARWATER.BRANCH_LINE"
 msgid "{0} Branch productivity: {1}"
-msgstr ""
+msgstr "{0} Produtividade do Galho: {1}"
 
 #. STRINGS.CREATURES.STATUSITEMS.PRODUCINGSUGARWATER.BRANCH_LINE_GROWING
 msgctxt "STRINGS.CREATURES.STATUSITEMS.PRODUCINGSUGARWATER.BRANCH_LINE_GROWING"
-msgid "{0} Branch growth : {1}"
-msgstr ""
+msgid "{0} Branch growth: {1}"
+msgstr "{0} Crescimento do Galho: {1}"
 
 #. STRINGS.CREATURES.STATUSITEMS.PRODUCINGSUGARWATER.BRANCH_LINE_MISSING
 msgctxt "STRINGS.CREATURES.STATUSITEMS.PRODUCINGSUGARWATER.BRANCH_LINE_MISSING"
 msgid "{0} Branch not found"
-msgstr ""
+msgstr "{0} Galho não encontrado"
 
 #. STRINGS.CREATURES.STATUSITEMS.PRODUCINGSUGARWATER.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.PRODUCINGSUGARWATER.NAME"
@@ -39637,6 +39677,19 @@ msgid ""
 "\n"
 "Optimal productivity: {1} branches at {2} each"
 msgstr ""
+"Taxa de produção de <style=\"KKeyword\">Néctar</style> atual: {0}\n"
+"\n"
+"A taxa de produção de <style=\"KKeyword\">Néctar</style> depende da produtividade total do galho\n"
+"\n"
+"Galhos devem estar completamente crescidos e expostos à <style=\"KKeyword\">Luz</style> para serem produtivos\n"
+"\n"
+"{BRANCH_0}\n"
+"{BRANCH_1}\n"
+"{BRANCH_2}\n"
+"{BRANCH_3}\n"
+"{BRANCH_4}\n"
+"\n"
+"Produtividade Otimizada: {1} galhos com {2} cada"
 
 #. STRINGS.CREATURES.STATUSITEMS.PROTECTINGENTITY.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.PROTECTINGENTITY.NAME"
@@ -39666,7 +39719,7 @@ msgstr "Colheita Pronta"
 #. STRINGS.CREATURES.STATUSITEMS.READYFORHARVEST_BRANCH.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.READYFORHARVEST_BRANCH.TOOLTIP"
 msgid "This branch can be harvested for materials"
-msgstr ""
+msgstr "Este galho pode ser colhido para obter materiais"
 
 #. STRINGS.CREATURES.STATUSITEMS.RECEPTACLEINOPERATIONAL.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.RECEPTACLEINOPERATIONAL.NAME"
@@ -39796,7 +39849,7 @@ msgstr ""
 #. STRINGS.CREATURES.STATUSITEMS.SPACETREEBRANCHLIGHTSTATUS.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SPACETREEBRANCHLIGHTSTATUS.NAME"
 msgid "Branch Productivity: {0}"
-msgstr ""
+msgstr "Produtividade do Galho: {0}"
 
 #. STRINGS.CREATURES.STATUSITEMS.SPACETREEBRANCHLIGHTSTATUS.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SPACETREEBRANCHLIGHTSTATUS.TOOLTIP"
@@ -39808,6 +39861,11 @@ msgid ""
 "\n"
 "Current lux: {1}"
 msgstr ""
+"A exposição à <style=\"KKeyword\">Luz</style> do alho selecionado contribui para a produção total de <style=\"KKeyword\">Néctar</style>\n"
+"\n"
+"Iluminação ideal: {0}\n"
+"\n"
+"Iluminação atual: {1}"
 
 #. STRINGS.CREATURES.STATUSITEMS.SPECIFICPLANTMUTATION.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SPECIFICPLANTMUTATION.NAME"
@@ -39911,22 +39969,22 @@ msgstr "Esta criatura não consegue respirar"
 #. STRINGS.CREATURES.STATUSITEMS.SUGARWATERPRODUCTIONPAUSED.BRANCH_LINE
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SUGARWATERPRODUCTIONPAUSED.BRANCH_LINE"
 msgid "{0} Branch productivity: {1}"
-msgstr ""
+msgstr "{0} Produtividade do Galho: {1}"
 
 #. STRINGS.CREATURES.STATUSITEMS.SUGARWATERPRODUCTIONPAUSED.BRANCH_LINE_GROWING
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SUGARWATERPRODUCTIONPAUSED.BRANCH_LINE_GROWING"
-msgid "{0} Branch growth : {1}"
-msgstr ""
+msgid "{0} Branch growth: {1}"
+msgstr "{0} Crescimento do Galho: {1}"
 
 #. STRINGS.CREATURES.STATUSITEMS.SUGARWATERPRODUCTIONPAUSED.BRANCH_LINE_MISSING
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SUGARWATERPRODUCTIONPAUSED.BRANCH_LINE_MISSING"
 msgid "{0} Branch not found"
-msgstr ""
+msgstr "{0} Galho não encontrado"
 
 #. STRINGS.CREATURES.STATUSITEMS.SUGARWATERPRODUCTIONPAUSED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SUGARWATERPRODUCTIONPAUSED.NAME"
 msgid "Nectar Production Halted: {0}"
-msgstr ""
+msgstr "Produção de Néctar interrompida: {0}"
 
 #. STRINGS.CREATURES.STATUSITEMS.SUGARWATERPRODUCTIONPAUSED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SUGARWATERPRODUCTIONPAUSED.TOOLTIP"
@@ -39946,11 +40004,24 @@ msgid ""
 "\n"
 "<style=\"KKeyword\">Nectar</style> production will resume when conditions improve"
 msgstr ""
+"Os galhos dessa planta não estão produzindo <style=\"KKeyword\">Néctar</style> atualmente.\n"
+"\n"
+"Galhos devem estar completamente crescidos e expostos à <style=\"KKeyword\">Luz</style> para serem produtivos\n"
+"\n"
+"{BRANCH_0}\n"
+"{BRANCH_1}\n"
+"{BRANCH_2}\n"
+"{BRANCH_3}\n"
+"{BRANCH_4}\n"
+"\n"
+"Produtividade Otimizada: {0} galhos com  {1} cada\n"
+"\n"
+"A produção de <style=\"KKeyword\">Néctar</style> será retomada quando as condições melhorarem"
 
 #. STRINGS.CREATURES.STATUSITEMS.SUGARWATERPRODUCTIONWILTED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SUGARWATERPRODUCTIONWILTED.NAME"
 msgid "Nectar Production Halted: {0}"
-msgstr ""
+msgstr "Produção de Néctar interrompida: {0}"
 
 #. STRINGS.CREATURES.STATUSITEMS.SUGARWATERPRODUCTIONWILTED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SUGARWATERPRODUCTIONWILTED.TOOLTIP"
@@ -39959,6 +40030,9 @@ msgid ""
 "\n"
 "<style=\"KKeyword\">Nectar</style> production will resume when conditions improve"
 msgstr ""
+"Esta planta está murcha\n"
+"\n"
+"A produção de <style=\"KKeyword\">Néctar</style> será retomada quando as condições melhorarem"
 
 #. STRINGS.CREATURES.STATUSITEMS.TEMPERATURE_COLD_DEADLY.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.TEMPERATURE_COLD_DEADLY.NAME"
@@ -49264,17 +49338,17 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATS.TEMPERATURE.TOOLTIP_DOMESTICATEDCRITTER
 msgctxt "STRINGS.DUPLICANTS.STATS.TEMPERATURE.TOOLTIP_DOMESTICATEDCRITTER"
 msgid "This critter's <style=\"KKeyword\">Body Temperature</style> is <b>{1}</b>"
-msgstr ""
+msgstr "A <style=\"KKeyword\">Temperatura Corporal</style> desta criatura é de <b>{1}</b>"
 
 #. STRINGS.DUPLICANTS.STATS.TRUNKHEALTH.NAME
 msgctxt "STRINGS.DUPLICANTS.STATS.TRUNKHEALTH.NAME"
 msgid "Trunk Health"
-msgstr ""
+msgstr "Saúde do Tronco"
 
 #. STRINGS.DUPLICANTS.STATS.TRUNKHEALTH.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATS.TRUNKHEALTH.TOOLTIP"
 msgid "Tree branches will die if they do not have a healthy trunk to grow from"
-msgstr ""
+msgstr "Os galhos da árvore dependem de um tronco saudável para sobreviver"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.ANALYZINGARTIFACT.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.ANALYZINGARTIFACT.NAME"
@@ -55662,15 +55736,13 @@ msgstr ""
 
 #. STRINGS.ELEMENTS.SUGARWATER.DESC
 msgctxt "STRINGS.ELEMENTS.SUGARWATER.DESC"
-msgid ""
-"Nectar is a natural, lightly concentrated solution of <link=\"SUCROSE\">Sucrose</link> "
-"dissolved in <link=\"WATER\">Water</link>."
-msgstr ""
+msgid "Nectar is a natural, lightly concentrated solution of <link=\"SUCROSE\">Sucrose</link> dissolved in <link=\"WATER\">Water</link>."
+msgstr "Néctar é uma solução natural, levemente concentrada de <link=\"SUCROSE\">Sacarose</link> dissolvida em <link=\"WATER\">Água</link>."
 
 #. STRINGS.ELEMENTS.SUGARWATER.NAME
 msgctxt "STRINGS.ELEMENTS.SUGARWATER.NAME"
 msgid "<link=\"SUGARWATER\">Nectar</link>"
-msgstr ""
+msgstr "<link=\"SUGARWATER\">Néctar</link>"
 
 #. STRINGS.ELEMENTS.SULFUR.DESC
 msgctxt "STRINGS.ELEMENTS.SULFUR.DESC"
@@ -55755,12 +55827,12 @@ msgstr ""
 #. STRINGS.ELEMENTS.TALLOW.DESC
 msgctxt "STRINGS.ELEMENTS.TALLOW.DESC"
 msgid "A chunk of uncooked grease from a deceased <link=\"SEAL\">Spigot Seal</link>."
-msgstr ""
+msgstr "Uma porção de gordura crua de uma <link=\"SEAL\">Foca-Sifão</link> falecida."
 
 #. STRINGS.ELEMENTS.TALLOW.NAME
 msgctxt "STRINGS.ELEMENTS.TALLOW.NAME"
 msgid "<link=\"TALLOW\">Tallow</link>"
-msgstr ""
+msgstr "<link=\"TALLOW\">Banha</link>"
 
 #. STRINGS.ELEMENTS.TEMPCONDUCTORSOLID.DESC
 msgctxt "STRINGS.ELEMENTS.TEMPCONDUCTORSOLID.DESC"
@@ -61612,7 +61684,7 @@ msgstr ""
 #. STRINGS.ITEMS.FOOD.CARROT.NAME
 msgctxt "STRINGS.ITEMS.FOOD.CARROT.NAME"
 msgid "<link=\"CARROT\">Plume Squash</link>"
-msgstr ""
+msgstr "<link=\"CARROT\">Abóbora Plumosa</link>"
 
 #. STRINGS.ITEMS.FOOD.COLDWHEATBREAD.DESC
 msgctxt "STRINGS.ITEMS.FOOD.COLDWHEATBREAD.DESC"
@@ -61770,26 +61842,23 @@ msgstr ""
 
 #. STRINGS.ITEMS.FOOD.DEEPFRIEDFISH.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.DEEPFRIEDFISH.RECIPEDESC"
-msgid ""
-"<link=\"FISHMEAT\">Pacu Fillet</link> lightly battered and deep-fried in "
-"<link=\"TALLOW\">Tallow</link>."
-msgstr ""
+msgid "<link=\"FISHMEAT\">Pacu Fillet</link> lightly battered and deep-fried in <link=\"TALLOW\">Tallow</link>."
+msgstr "<link=\"FISHMEAT\">Filé de Pacu</link> levemente empanado e frito com <link=\"TALLOW\">Banha</link>."
 
 #. STRINGS.ITEMS.FOOD.DEEPFRIEDMEAT.DESC
 msgctxt "STRINGS.ITEMS.FOOD.DEEPFRIEDMEAT.DESC"
 msgid "A juicy slab of meat with a crunchy deep-fried upper layer."
-msgstr ""
+msgstr "Um suculento pedaço de carne com uma camada superior crocante."
 
 #. STRINGS.ITEMS.FOOD.DEEPFRIEDMEAT.NAME
 msgctxt "STRINGS.ITEMS.FOOD.DEEPFRIEDMEAT.NAME"
 msgid "<link=\"DEEPFRIEDMEAT\">Deep Fried Steak</link>"
-msgstr ""
+msgstr "<link=\"DEEPFRIEDMEAT\">Bife frito</link>"
 
 #. STRINGS.ITEMS.FOOD.DEEPFRIEDMEAT.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.DEEPFRIEDMEAT.RECIPEDESC"
-msgid ""
-"A juicy slab of <link=\"MEAT\">Raw Meat</link> deep-fried in <link=\"TALLOW\">Tallow</link>."
-msgstr ""
+msgid "A juicy slab of <link=\"MEAT\">Raw Meat</link> deep-fried in <link=\"TALLOW\">Tallow</link>."
+msgstr "Um pedaço de <link=\"MEAT\">Carne Crua</link> suculento que foi frito em <link=\"TALLOW\">Banha</link>"
 
 #. STRINGS.ITEMS.FOOD.DEEPFRIEDNOSH.DESC
 msgctxt "STRINGS.ITEMS.FOOD.DEEPFRIEDNOSH.DESC"
@@ -61939,10 +62008,8 @@ msgstr ""
 
 #. STRINGS.ITEMS.FOOD.FRIESCARROT.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.FRIESCARROT.RECIPEDESC"
-msgid ""
-"Crunchy sticks of <link=\"CARROT\">Plume Squash</link> deep-fried in <link=\"TALLOW\">Tallow</"
-"link>."
-msgstr ""
+msgid "Crunchy sticks of <link=\"CARROT\">Plume Squash</link> deep-fried in <link=\"TALLOW\">Tallow</link>."
+msgstr "Palitos crocantes de <link=\"CARROT\">Abóbora Plumosa</link> fritos em <link=\"TALLOW\">Banha</link>."
 
 #. STRINGS.ITEMS.FOOD.FRUITCAKE.DESC
 msgctxt "STRINGS.ITEMS.FOOD.FRUITCAKE.DESC"
@@ -62225,23 +62292,23 @@ msgstr ""
 #. STRINGS.ITEMS.FOOD.PEMMICAN.DESC
 msgctxt "STRINGS.ITEMS.FOOD.PEMMICAN.DESC"
 msgid ""
-"<link=\"MEAT\">Meat</link> and <link=\"TALLOW\">Tallow</link> pounded into a calorie-dense "
-"brick with an exceptionally long shelf life.\n"
+"<link=\"MEAT\">Meat</link> and <link=\"TALLOW\">Tallow</link> pounded into a calorie-dense brick with an exceptionally long shelf life.\n"
 "\n"
 "Survival never tasted so good."
 msgstr ""
+"<link=\"MEAT\">Carne</link> e <link=\"TALLOW\">Banha</link> compactados em uma barra hipercalórica, de conservação prolongada.\n"
+"\n"
+"A sobrevivência nunca foi tão saborosa."
 
 #. STRINGS.ITEMS.FOOD.PEMMICAN.NAME
 msgctxt "STRINGS.ITEMS.FOOD.PEMMICAN.NAME"
 msgid "<link=\"PEMMICAN\">Pemmican</link>"
-msgstr ""
+msgstr "<link=\"PEMMICAN\">Carne Seca</link>"
 
 #. STRINGS.ITEMS.FOOD.PEMMICAN.RECIPEDESC
 msgctxt "STRINGS.ITEMS.FOOD.PEMMICAN.RECIPEDESC"
-msgid ""
-"<link=\"MEAT\">Meat</link> and <link=\"TALLOW\">Tallow</link> pounded into a nutrient-dense "
-"brick with an exceptionally long shelf life."
-msgstr ""
+msgid "<link=\"MEAT\">Meat</link> and <link=\"TALLOW\">Tallow</link> pounded into a nutrient-dense brick with an exceptionally long shelf life."
+msgstr "<link=\"MEAT\">Carne</link> e <link=\"TALLOW\">Banha</link> compactados em uma barra nutritiva com uma vida útil excepcionalmente longa."
 
 #. STRINGS.ITEMS.FOOD.PICKLEDMEAL.DESC
 msgctxt "STRINGS.ITEMS.FOOD.PICKLEDMEAL.DESC"
@@ -62800,7 +62867,7 @@ msgstr ""
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ICE_BELLY_POOP.NAME
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ICE_BELLY_POOP.NAME"
 msgid "<link=\"ICEBELLYPOOP\">Bammoth Patty</link>"
-msgstr ""
+msgstr "<link=\"ICEBELLYPOOP\">Bifeca de Bamute</link>"
 
 #. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.MACHINE_PARTS.DESC
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.MACHINE_PARTS.DESC"
@@ -65111,7 +65178,7 @@ msgstr "Esta estação sequenciou uma nova mutação de semente"
 #. STRINGS.MISC.STATUSITEMS.GROWINGBRANCHES.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.GROWINGBRANCHES.NAME"
 msgid "Growing Branches"
-msgstr "Ramos em Crescimento"
+msgstr "Galhos em Crescimento"
 
 #. STRINGS.MISC.STATUSITEMS.GROWINGBRANCHES.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.GROWINGBRANCHES.TOOLTIP"
@@ -72336,21 +72403,27 @@ msgstr ""
 #. STRINGS.SUBWORLDS.CARROTQUARRY.UTILITY
 msgctxt "STRINGS.SUBWORLDS.CARROTQUARRY.UTILITY"
 msgid ""
-"<link=\"CARROTPLANT\">Plume Squash</link> is a calorie-dense crop that thrives in "
-"<link=\"OXYGEN\">Oxygen</link>, <link=\"CONTAMINATEDOXYGEN\">Polluted Oxygen</link> and "
-"<link=\"CARBONDIOXIDE\">Carbon Dioxide</link> environments.\n"
+"<link=\"CARROTPLANT\">Plume Squash</link> is a calorie-dense crop that thrives in <link=\"OXYGEN\">Oxygen</link>, <link=\"CONTAMINATEDOXYGEN\">Polluted Oxygen</link> "
+"and <link=\"CARBONDIOXIDE\">Carbon Dioxide</link> environments.\n"
 "\n"
-"They make up the <link=\"BELLYSPECIES\">Bammoths'</link> entire diet. These gentle giants are "
-"a joy to ranch, <link=\"MEAT\">Meat</link>, <link=\"PHOSPHORITE\">Phosphorite</link>, "
-"<link=\"CINNABARORE\">Cinnabar Ore</link> and <link=\"BASICFABRIC\">Reed Fiber</link>.\n"
+"They make up the <link=\"BELLYSPECIES\">Bammoths'</link> entire diet. These gentle giants are a joy to ranch, "
+"<link=\"MEAT\">Meat</link>, <link=\"PHOSPHORITE\">Phosphorite</link>, <link=\"CINNABAR\">Cinnabar Ore</link> and <link=\"BASICFABRIC\">Reed Fiber</link>.\n"
 "\n"
-"The latter is of particular importance, as my Duplicants will need to wear warmly insulated "
-"clothing if they are to survive these low temperatures.\n"
+"The latter is of particular importance, as my Duplicants will need to wear warmly insulated clothing if they are to survive these low temperatures.\n"
 "\n"
-"Initial investigations also reveal an abundance of <link=\"IRONORE\">Iron Ore</link> and "
-"<link=\"IGNEOUSROCK\">Igneous Rock</link> in this <link=\"OXYGEN\">Oxygen</link>-rich "
-"environment, ideal for industrial projects."
+"Initial investigations also reveal an abundance of <link=\"IRONORE\">Iron Ore</link> and <link=\"IGNEOUSROCK\">Igneous Rock</link> "
+"in this <link=\"OXYGEN\">Oxygen</link>-rich environment, ideal for industrial projects."
 msgstr ""
+"<link=\"CARROTPLANT\">Abóbora Plumosa</link> é uma cultura altamente calórica que prospera em ambientes com <link=\"OXYGEN\">Oxigênio</link>, <link=\"CONTAMINATEDOXYGEN\">Oxigênio Poluído</link> "
+"e <link=\"CARBONDIOXIDE\">Dióxido de Carbono</link>.\n"
+"\n"
+"Elas constituem toda a dieta dos <link=\"BELLYSPECIES\">Bamutes</link>. Esses gentis gigantes são uma alegria para criar, "
+"fornecendo <link=\"MEAT\">Carne</link>, <link=\"PHOSPHORITE\">Fosforito</link>, <link=\"CINNABAR\">Minério de Mercúrio</link> e <link=\"BASICFABRIC\">Fibra de Junco</link>.\n"
+"\n"
+"Esta última é de particular importância, pois meus Duplicantes precisarão usar roupas bem isoladas para sobreviver a essas baixas temperaturas.\n"
+"\n"
+"Investigações iniciais também revelam uma abundância de <link=\"IRONORE\">Minério de Ferro</link> e <link=\"IGNEOUSROCK\">Rocha Ígnea</link> "
+"neste ambiente rico em <link=\"OXYGEN\">Oxigênio</link>, ideal para projetos industriais."
 
 #. STRINGS.SUBWORLDS.FOREST.DESC
 msgctxt "STRINGS.SUBWORLDS.FOREST.DESC"
@@ -72831,16 +72904,17 @@ msgstr ""
 #. STRINGS.SUBWORLDS.SUGARWOODS.DESC
 msgctxt "STRINGS.SUBWORLDS.SUGARWOODS.DESC"
 msgid ""
-"The <link=\"SNOW\">snow</link>-laden Nectar Biome is home to the massive "
-"<link=\"SPACETREE\">Bonbon Tree</link>. This complex plant produces "
-"<link=\"SUGARWATER\">Nectar</link>, which can be refined into <link=\"SUCROSE\">Sucrose</link> "
+"The <link=\"SNOW\">snow</link>-laden Nectar Biome is home to the massive <link=\"SPACETREE\">Bonbon Tree</link>. "
+"This complex plant produces <link=\"SUGARWATER\">Nectar</link>, which can be refined into <link=\"SUCROSE\">Sucrose</link> "
 "and <link=\"STEAM\">Steam</link>."
 msgstr ""
+"O Bioma do Néctar coberto de <link=\"SNOW\">Neve</link> é o lar da massiva <link=\"SPACETREE\">Árvore Docinha</link>. "
+"Esta planta complexa produz <link=\"SUGARWATER\">Néctar</link>, que pode ser refinado em <link=\"SUCROSE\">Sacarose</link> and <link=\"STEAM\">Vapor</link>."
 
 #. STRINGS.SUBWORLDS.SUGARWOODS.NAME
 msgctxt "STRINGS.SUBWORLDS.SUGARWOODS.NAME"
 msgid "Nectar"
-msgstr ""
+msgstr "Néctar"
 
 #. STRINGS.SUBWORLDS.SUGARWOODS.UTILITY
 msgctxt "STRINGS.SUBWORLDS.SUGARWOODS.UTILITY"
@@ -72859,6 +72933,17 @@ msgid ""
 "<link=\"ICEFLOWER\">Idylla Flower</link>, there is something quite heartwarming about the way "
 "that the  <link=\"LIGHTBUG\">Shine Bugs'</link> glowing lights glitter on the frozen landscape."
 msgstr ""
+"<link=\"SEALSPECIES\">Focas-Sifão</link> consomem esse líquido doce e produzem "
+"<link=\"ETHANOL\">Etanol</link> para reforçar os suprimentos de combustível de uma colônia. "
+"Criação de Focas-Sifão também produzem <link=\"TALLOW\">Banha</link>, uma substância gordurosa que pode ser usada como "
+"<link=\"FOOD\">Comida</link> ou refinada em <link=\"CRUDEOIL\">Petróleo Bruto</link> para apoiar o "
+"sistema local de <link=\"POWER\">Energia</link>.\n"
+"\n"
+"Sob a <link=\"SNOW\">Neve</link> e <link=\"ICE\">Gelo</link> estão generosos depósitos de <link=\"MERCURY\">Mercúrio</link> "
+"sólido, um metal raro que pode ser liquefeito para uso em sistemas de resfriamento industrial.\n"
+"\n"
+"Este bioma é realmente um espetáculo à parte: além do charme suave da ocasional <link=\"ICEFLOWER\">Flor da Íris</link>, "
+"há algo bastante reconfortante na maneira como as luzes brilhantes dos <link=\"LIGHTBUG\">Vagalumes</link> cintilam na paisagem congelada."
 
 #. STRINGS.SUBWORLDS.SWAMP.DESC
 msgctxt "STRINGS.SUBWORLDS.SWAMP.DESC"
@@ -89687,12 +89772,12 @@ msgstr "Missões de Foguetes em Andamento"
 #. STRINGS.UI.RETIRED_COLONY_INFO_SCREEN.STATS.TRAVEL_TIME
 msgctxt "STRINGS.UI.RETIRED_COLONY_INFO_SCREEN.STATS.TRAVEL_TIME"
 msgid "Total Travel Time"
-msgstr "Média de Tempo de Viagem"
+msgstr "Tempo Total de Viagem"
 
 #. STRINGS.UI.RETIRED_COLONY_INFO_SCREEN.STATS.WORK_TIME
 msgctxt "STRINGS.UI.RETIRED_COLONY_INFO_SCREEN.STATS.WORK_TIME"
 msgid "Total Work Time"
-msgstr "Média de Tempo Trabalhado"
+msgstr "Tempo Total de Trabalho"
 
 #. STRINGS.UI.RETIRED_COLONY_INFO_SCREEN.TIMELAPSE_UNAVAILABLE
 msgctxt "STRINGS.UI.RETIRED_COLONY_INFO_SCREEN.TIMELAPSE_UNAVAILABLE"
@@ -92463,11 +92548,8 @@ msgstr "Chuva de Meteoros de Gelo"
 #| msgctxt "STRINGS.UI.SPACEDESTINATIONS.CLUSTERMAPMETEORSHOWERS.ICE.DESCRIPTION"
 #| msgid "A hailstorm of icy space rocks on a collision course with the surface of an asteroid."
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.CLUSTERMAPMETEORSHOWERS.ICEANDTREES.DESCRIPTION"
-msgid ""
-"A hailstorm of sweet, icy space rocks on a collision course with the surface of an asteroid"
-msgstr ""
-"Uma tempestade de granizo de rochas espaciais geladas em rota de colisão com a superfície de "
-"um asteroide."
+msgid "A hailstorm of sweet, icy space rocks on a collision course with the surface of an asteroid"
+msgstr "Uma tempestade de granizo de rochas espaciais geladas em rota de colisão com a superfície de um asteroide."
 
 #. STRINGS.UI.SPACEDESTINATIONS.CLUSTERMAPMETEORSHOWERS.ICEANDTREES.NAME
 #, fuzzy
@@ -92475,13 +92557,12 @@ msgstr ""
 #| msgid "Ice Meteor Shower"
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.CLUSTERMAPMETEORSHOWERS.ICEANDTREES.NAME"
 msgid "Icy Nectar Meteor Shower"
-msgstr "Chuva de Meteoros de Gelo"
+msgstr "Chuva de Meteoros de Néctar Congelado"
 
 #. STRINGS.UI.SPACEDESTINATIONS.CLUSTERMAPMETEORSHOWERS.IRON.DESCRIPTION
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.CLUSTERMAPMETEORSHOWERS.IRON.DESCRIPTION"
 msgid "A shower of metallic space rocks on a collision course with the surface of an asteroid."
-msgstr ""
-"Uma chuva de rochas espaciais metálicas em rota de colisão com a superfície de um asteroide."
+msgstr "Uma chuva de rochas espaciais metálicas em rota de colisão com a superfície de um asteroide."
 
 #. STRINGS.UI.SPACEDESTINATIONS.CLUSTERMAPMETEORSHOWERS.IRON.NAME
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.CLUSTERMAPMETEORSHOWERS.IRON.NAME"
@@ -92491,8 +92572,7 @@ msgstr "Chuva de Meteoros de Ferro"
 #. STRINGS.UI.SPACEDESTINATIONS.CLUSTERMAPMETEORSHOWERS.LIGHTDUST.DESCRIPTION
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.CLUSTERMAPMETEORSHOWERS.LIGHTDUST.DESCRIPTION"
 msgid "A cloud-like shower of dust fluff meteors heading towards the surface of an asteroid."
-msgstr ""
-"Uma chuva de meteoros de poeira em forma de nuvem indo em direção à superfície de um asteroide."
+msgstr "Uma chuva de meteoros de poeira em forma de nuvem indo em direção à superfície de um asteroide."
 
 #. STRINGS.UI.SPACEDESTINATIONS.CLUSTERMAPMETEORSHOWERS.LIGHTDUST.NAME
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.CLUSTERMAPMETEORSHOWERS.LIGHTDUST.NAME"
@@ -92683,7 +92763,7 @@ msgstr "Meteoro de Neve"
 #| msgid "Iron Meteor"
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.COMETS.SPACETREESEEDCOMET.NAME"
 msgid "Bonbon Meteor"
-msgstr "Meteoro Metálico"
+msgstr "Meteoro Docinho"
 
 #. STRINGS.UI.SPACEDESTINATIONS.COMETS.URANIUMORECOMET.NAME
 msgctxt "STRINGS.UI.SPACEDESTINATIONS.COMETS.URANIUMORECOMET.NAME"
@@ -96485,14 +96565,12 @@ msgstr ""
 #. STRINGS.UI.TOOLTIPS.VITALS_CHECKBOX_SPACETREE_ILLUMINATION_DARK
 msgctxt "STRINGS.UI.TOOLTIPS.VITALS_CHECKBOX_SPACETREE_ILLUMINATION_DARK"
 msgid "This plant must be lit in order to produce <style=\"KKeyword\">Nectar</style>"
-msgstr ""
+msgstr "Essa planta precisa ser iluminada para produzir <style=\"KKeyword\">Néctar</style>"
 
 #. STRINGS.UI.TOOLTIPS.VITALS_CHECKBOX_SPACETREE_ILLUMINATION_LIGHT
 msgctxt "STRINGS.UI.TOOLTIPS.VITALS_CHECKBOX_SPACETREE_ILLUMINATION_LIGHT"
-msgid ""
-"This plant is currently lit, and will produce <style=\"KKeyword\">Nectar</style> when fully "
-"grown"
-msgstr ""
+msgid "This plant is currently lit, and will produce <style=\"KKeyword\">Nectar</style> when fully grown"
+msgstr "Essa planta está sendo iluminada e produzirá <style=\"KKeyword\">Néctar</style> quando estiver totalmente crescida"
 
 #. STRINGS.UI.TOOLTIPS.VITALS_CHECKBOX_SUBMERGED_FALSE
 msgctxt "STRINGS.UI.TOOLTIPS.VITALS_CHECKBOX_SUBMERGED_FALSE"
@@ -103807,8 +103885,7 @@ msgstr ""
 "Um planetoide menor em órbita em torno de um mundo maior e rico em recursos.\n"
 "\n"
 "<smallcaps>As Luas Estéreis são ricas em minerais, mas os Duplicantes precisarão partir para o "
-"espaço mais cedo para encontrar os recursos que a colônia precisa para se manter viva.</"
-"smallcaps>\n"
+"espaço mais cedo para encontrar os recursos que a colônia precisa para se manter viva.</smallcaps>\n"
 
 #. STRINGS.WORLDS.MOON_BARREN.NAME
 msgctxt "STRINGS.WORLDS.MOON_BARREN.NAME"
