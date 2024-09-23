@@ -15211,7 +15211,7 @@ msgstr "<link=\"MONUMENTTOP\">Topo do Monumento</link>"
 #. STRINGS.BUILDINGS.PREFABS.MORBROVERMAKER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MORBROVERMAKER.DESC"
 msgid "Allows a skilled Duplicant to manufacture a steady supply of icky yet effective bots."
-msgstr ""
+msgstr "Permite que um Duplicante habilidoso fabrique um suprimento constante de robôs nojentos, porém eficazes."
 
 #. STRINGS.BUILDINGS.PREFABS.MORBROVERMAKER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MORBROVERMAKER.EFFECT"
@@ -15220,11 +15220,14 @@ msgid ""
 "\n"
 "Defunct <link=\"STORYTRAITMORBROVER\">Biobots</link> drop harvestable <link=\"STEEL\">Steel</link>."
 msgstr ""
+"Usa <link=\"ZOMBIESPORES\">Esporos Zumbis</link> e <link=\"STEEL\">Aço</link> para criar máquinas biocombustíveis que podem ser enviadas para ambientes hostis.\n"
+"\n"
+"<link=\"STORYTRAITMORBROVER\">Biobôs</link> desativados liberam <link=\"STEEL\">Aço</link> coletável."
 
 #. STRINGS.BUILDINGS.PREFABS.MORBROVERMAKER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MORBROVERMAKER.NAME"
 msgid "<link=\"STORYTRAITMORBROVER\">Biobot Builder</link>"
-msgstr ""
+msgstr "<link=\"STORYTRAITMORBROVER\">Construtor de Biobôs</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.MOULDINGTILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MOULDINGTILE.DESC"
@@ -30181,7 +30184,7 @@ msgstr "NÍVEL DE CRIPTOGRAFIA: TRÊS"
 #. STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.SEEDSOFEVOLUTION.TITLE
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MEGA_BRAIN_TANK.SEEDSOFEVOLUTION.TITLE"
 msgid "A Seed is Planted"
-msgstr ""
+msgstr "Uma semente é plantada"
 
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.DESCRIPTION
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.DESCRIPTION"
@@ -30190,11 +30193,14 @@ msgid ""
 "\n"
 "If correctly rebuilt, it could save Duplicant lives."
 msgstr ""
+"Reinicie um ambicioso projeto colaborativo liderado pelos departamentos de bioengenharia e robótica da Gravitas.\n"
+"\n"
+"Se reconstruído corretamente, ele poderia salvar vidas de Duplicantes."
 
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.DESCRIPTION_SHORT
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.DESCRIPTION_SHORT"
 msgid "Reboot an ambitious collaborative project spearheaded by Gravitas's bioengineering and robotics departments."
-msgstr ""
+msgstr "Reinicie um ambicioso projeto colaborativo liderado pelos departamentos de bioengenharia e robótica da Gravitas."
 
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.ENVELOPE.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.ENVELOPE.BODY.CONTAINER1"
@@ -30223,6 +30229,27 @@ msgid ""
 "\n"
 " - Dr. Saruhashi"
 msgstr ""
+Dr. Seyed Ali,\n"
+"\n"
+"Você tinha razão em ficar com raiva de mim. Eu <i>sou</i> a razão pela qual o projeto do robô de trabalho sem motorista foi reatribuído. A Diretora Stern me chamou para discutir suas preocupações sobre a contaminação cruzada da mucina Esporbo, e eu...\n"
+"\n"
+"Ela disse que os testes suplementares no modelo X representavam uma ameaça à missão Ceres.\n"
+"\n"
+"Depois do que aconteceu com aquele pobre técnico de laboratório, eu deveria ter dito mais, mas...\n"
+"\n"
+"Já era tarde demais para ele.\n"
+"\n"
+"Pode ser tarde demais para todos nós.\n"
+"\n"
+"Você deve saber que a Diretora recebeu uma videochamada de alguém do Instituto Vertex quando eu saí... Eu fiquei parada do lado de fora da porta dela e ouvi ela se dirigindo a eles como chefe de segurança transnacional! A maneira como eles estavam falando sobre o Biobô...\n"
+"\n"
+"Não é seguro escrever mais aqui. Eu vou esperar por você no hangar do foguete depois do seu turno hoje à noite.\n"
+"\n"
+"Espero que você venha. Eu entendo se você não vier.\n"
+"\n"
+"Sinto muito, muito mesmo.\n"
+"\n"
+" - Dr. Saruhashi"
 
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.ENVELOPE.TITLE
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.ENVELOPE.TITLE"
@@ -30232,7 +30259,7 @@ msgstr "Com Arrependimentos"
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.NAME"
 msgid "Biobot Builder"
-msgstr ""
+msgstr "Construtor de Biobôs"
 
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.BEGIN.BUTTON
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.BEGIN.BUTTON"
@@ -30251,11 +30278,14 @@ msgid ""
 "\n"
 "It is unclear whether the apparatus is intended for biological experimentation or advanced mechatronics...or both."
 msgstr ""
+"Meus Duplicantes descobriram um laboratório cheio de maquinário empoeirado. Talvez sejam os vestígios de experimentos de outra colônia?\n"
+"\n"
+"Não está claro se o aparelho é destinado para experimentação biológica ou mecatrônica avançada... ou ambos."
 
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.BEGIN.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.BEGIN.NAME"
 msgid "Story Trait: Biobot Builder"
-msgstr ""
+msgstr "Traço de História: Construtor de Biobôs"
 
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.END.BUTTON
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.END.BUTTON"
@@ -30265,7 +30295,7 @@ msgstr "Fechar"
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.END.BUTTON_READLORE
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.END.BUTTON_READLORE"
 msgid "Inspect Toy"
-msgstr ""
+msgstr "Inspecionar brinquedo"
 
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.END.CODEX_NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.END.CODEX_NAME"
@@ -30277,16 +30307,22 @@ msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.END.DESCRIPTION"
 msgid ""
 "Success! My Duplicants' efforts to get the Biobot Builder up and running have finally paid off!\n"
 "\n"
-"Our first fully assembled P.E.G.G.Y. biobot is ready to perform tasks in hazardous environments, which means less exposure to danger for my Duplicants. There seems to be no limit to the number "
-"of biobots that we could produce.\n"
+"Our first fully assembled P.E.G.G.Y. biobot is ready to perform tasks in hazardous environments, which means less exposure to danger for my Duplicants. "
+"There seems to be no limit to the number of biobots that we could produce.\n"
 "\n"
 "A small toy bot was found discarded behind the Sporb tank. It occasionally plays a deteriorated laugh track."
 msgstr ""
+"Sucesso! Os esforços dos meus Duplicantes para colocar o Construtor de Biobôs em funcionamento finalmente deram resultado!\n"
+"\n"
+"Nosso primeiro biobô R.O.B.I.A totalmente montado está pronto para realizar tarefas em ambientes perigosos, o que significa menos exposição ao perigo para meus Duplicantes. "
+"Parece não haver limite para o número de biobôs que poderíamos produzir.\n"
+"\n"
+"Um pequeno robô de brinquedo foi encontrado descartado atrás do tanque de Esporbos. Ocasionalmente, ele reproduz uma trilha de risadas deteriorada."
 
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.END.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.END.NAME"
 msgid "Story Trait Complete: Biobot Builder"
-msgstr ""
+msgstr "Traço de História Completo: Construtor de Biobôs"
 
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.LOCKER.DESCRIPTION
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.LOCKER.DESCRIPTION"
@@ -30295,6 +30331,9 @@ msgid ""
 "\n"
 "It contains two <link=\"EVILFLOWER\">Sporechid</link> seeds and a carefully penned note."
 msgstr ""
+"Um gabinete hermeticamente fechado.\n"
+"\n"
+"Ele contém duas sementes de <link=\"EVILFLOWER\">Esporóforo</link> e uma nota cuidadosamente escrita."
 
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.REVEAL.BUTTON_CLOSE
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.REVEAL.BUTTON_CLOSE"
@@ -30322,26 +30361,33 @@ msgid ""
 "\n"
 "A tattered transcript print-out was recovered from the mess."
 msgstr ""
+"Nosso trabalho de restauração está completo!\n"
+"\n"
+"Uma pequena placa no tanque de montagem mecânica desta estrutura lê: \"Robô Orgânico para Biotarefas em Investigações Arriscadas.\"\n"
+"\n"
+"O tanque adjacente contém a forma flutuante de um organismo semi-formado. Sua coloração vívida me lembra os anfíbios venenosos que foram erradicados das selvas do nosso planeta natal.\n"
+"\n"
+"Uma impressão de transcrição desgastada foi recuperada da bagunça."
 
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.REVEAL.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.POPUPS.REVEAL.NAME"
 msgid "Story Trait: Biobot Builder"
-msgstr ""
+msgstr "Traço de História: Construtor de Biobôs"
 
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.BUILDING_BEING_REVEALED.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.BUILDING_BEING_REVEALED.NAME"
 msgid "Being Restored"
-msgstr ""
+msgstr "Sendo restaurada"
 
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.BUILDING_BEING_REVEALED.TOOLTIP
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.BUILDING_BEING_REVEALED.TOOLTIP"
 msgid "This building is being restored to its former glory"
-msgstr ""
+msgstr "Esta estrutura está sendo restaurada à sua antiga glória"
 
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.BUILDING_BEING_WORKED_BY_DOCTOR.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.BUILDING_BEING_WORKED_BY_DOCTOR.NAME"
 msgid "Preparing Biobot"
-msgstr ""
+msgstr "Preparando Biobô"
 
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.BUILDING_BEING_WORKED_BY_DOCTOR.TOOLTIP
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.BUILDING_BEING_WORKED_BY_DOCTOR.TOOLTIP"
@@ -30351,22 +30397,22 @@ msgstr "Essa estrutura está sendo operada por um Duplicante qualificado"
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.BUILDING_REVEALING.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.BUILDING_REVEALING.NAME"
 msgid "Restoring Equipment"
-msgstr ""
+msgstr "Restaurando Equipamento"
 
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.BUILDING_REVEALING.TOOLTIP
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.BUILDING_REVEALING.TOOLTIP"
 msgid "This Duplicant is carefully restoring the Biobot Builder"
-msgstr ""
+msgstr "Este Duplicante está restaurando cuidadosamente o Construtor de Biobôs"
 
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.CRAFTING_ROBOT_BODY.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.CRAFTING_ROBOT_BODY.NAME"
 msgid "Crafting Biobot"
-msgstr ""
+msgstr "Criando Biobô"
 
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.CRAFTING_ROBOT_BODY.TOOLTIP
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.CRAFTING_ROBOT_BODY.TOOLTIP"
 msgid "This building is using <link=\"STEEL\">Steel</link> to craft a Biobot frame"
-msgstr ""
+msgstr "Esta estrutura está usando <link=\"STEEL\">Aço</link> para criar uma estrutura de Biobô"
 
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.DOCTOR_READY.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.DOCTOR_READY.NAME"
@@ -30376,17 +30422,17 @@ msgstr "Aguardando Doutor"
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.DOCTOR_READY.TOOLTIP
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.DOCTOR_READY.TOOLTIP"
 msgid "This building is waiting for a skilled Duplicant to perform an occupational health and safety check"
-msgstr "Essa estrutura está aguardando um Duplicante qualificado para realizar uma verificação de saúde e segurança ocupacional"
+msgstr "Esta estrutura está aguardando um Duplicante qualificado para realizar uma verificação de saúde e segurança ocupacional"
 
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.DOCTOR_WORKING_BUILDING.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.DOCTOR_WORKING_BUILDING.NAME"
 msgid "Assessing Sporb"
-msgstr ""
+msgstr "Avaliando Esporbo"
 
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.DOCTOR_WORKING_BUILDING.TOOLTIP
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.DOCTOR_WORKING_BUILDING.TOOLTIP"
 msgid "This Duplicant is assessing the Sporb's readiness for Biobot assembly"
-msgstr ""
+msgstr "Este Duplicante está avaliando a prontidão do Esporbo para a montagem do Biobô"
 
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.DUSTY.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.DUSTY.NAME"
@@ -30401,7 +30447,7 @@ msgstr "Essa estrutura deve ser restaurada antes de poder ser usada"
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.GERM_COLLECTION_PROGRESS.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.GERM_COLLECTION_PROGRESS.NAME"
 msgid "Incubating Sporb: {0}"
-msgstr ""
+msgstr "Incubando Esporbo: {0}"
 
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.GERM_COLLECTION_PROGRESS.TOOLTIP
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.GERM_COLLECTION_PROGRESS.TOOLTIP"
@@ -30414,9 +30460,9 @@ msgid ""
 "\n"
 "Current Total: {1} / {2} [{GERM_NAME}]"
 msgstr ""
-"Com 100% de incubação, o Sporb começa a converter o {GERM_NAME} absorvido em bactérias fotossintéticas que podem ser usadas como biocombustível\n"
+"Com 100% de incubação, o Esporbo começa a converter o {GERM_NAME} absorvido em bactérias fotossintéticas que podem ser usadas como biocombustível\n"
 "\n"
-"Em seguida, está pronto para ser avaliado e transferido para uma estrutura Biobot completo\n"
+"Em seguida, está pronto para ser avaliado e transferido para uma estrutura Biobô completo\n"
 "\n"
 "Taxa de consumo: {0} [{GERM_NAME}]\n"
 "\n"
@@ -30425,7 +30471,7 @@ msgstr ""
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.NOGERMSCONSUMEDALERT.NAME
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.NOGERMSCONSUMEDALERT.NAME"
 msgid "Insufficient Resources: {0}"
-msgstr ""
+msgstr "Recursos insuficientes: {0}"
 
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.NOGERMSCONSUMEDALERT.TOOLTIP
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.STATUSITEMS.NOGERMSCONSUMEDALERT.TOOLTIP"
@@ -30434,6 +30480,9 @@ msgid ""
 "\n"
 "{0} can be delivered via <link=\"GASCONDUIT\">Gas Pipe</link> "
 msgstr ""
+"Este edifício requer {0} adicional para funcionar\n"
+"\n"
+"{0} pode ser entregue via <link=\"GASCONDUIT\">Tubulação de Gás</link>"
 
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.UI_SIDESCREENS.CANCEL_REVEAL_BTN
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.UI_SIDESCREENS.CANCEL_REVEAL_BTN"
@@ -30443,7 +30492,7 @@ msgstr "Cancelar"
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.UI_SIDESCREENS.CANCEL_REVEAL_BTN_TOOLTIP
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.UI_SIDESCREENS.CANCEL_REVEAL_BTN_TOOLTIP"
 msgid "Cancel building restoration"
-msgstr ""
+msgstr "Cancelar Restauração da Estrutura"
 
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.UI_SIDESCREENS.DROP_INVENTORY
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.UI_SIDESCREENS.DROP_INVENTORY"
@@ -30457,6 +30506,9 @@ msgid ""
 "\n"
 "Disabling the building will also prevent <link=\"STEEL\">Steel</link> from being delivered"
 msgstr ""
+"Esvazia o <link=\"STEEL\">Aço</link> armazenado\n"
+"\n"
+"Desabilitar o edifício também impedirá que <link=\"STEEL\">Aço</link> seja entregue"
 
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.UI_SIDESCREENS.REVEAL_BTN
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.UI_SIDESCREENS.REVEAL_BTN"
@@ -30466,7 +30518,7 @@ msgstr "Restaurar Estrutura"
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.UI_SIDESCREENS.REVEAL_BTN_TOOLTIP
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.UI_SIDESCREENS.REVEAL_BTN_TOOLTIP"
 msgid "Assign a Duplicant to restore this building's functionality"
-msgstr ""
+msgstr "Designe um Duplicante para restaurar a funcionalidade desta estrutura"
 
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.UNSAFETRANSFER.BODY.CONTAINER1
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.UNSAFETRANSFER.BODY.CONTAINER1"
@@ -30550,6 +30602,24 @@ msgid ""
 "\n"
 "PS: I made Steve let me in so I could leave you this, hope that's okay."
 msgstr ""
+"Eu sou\n"
+"   uma partícula subatômica\n"
+"menor que um grão de poeira\n"
+"  removida do seu olhar\n"
+"\n"
+"     no lava-olhos de emergência\n"
+"\n"
+"   Meu amor é como plutônio\n"
+" cinza e opaco e\n"
+"insuportavelmente pesado\n"
+"  até    eu estar perto de você\n"
+"\n"
+" a cada respiração \n"
+"      eu ardo, com\n"
+"    anseio\n"
+"              invisível\n"
+"\n"
+"PS: Fiz o Estevão me deixar entrar para lhe deixar isto, espero que não se importe."
 
 #. STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.VALENTINESDAY.TITLE
 msgctxt "STRINGS.CODEX.STORY_TRAITS.MORB_ROVER_MAKER.VALENTINESDAY.TITLE"
@@ -42669,12 +42739,12 @@ msgstr "Os Duplicantes perdem muito do controle motor e sentem extremo desconfor
 #. STRINGS.DUPLICANTS.DISEASES.ZOMBIESICKNESS.LEGEND_HOVERTEXT
 msgctxt "STRINGS.DUPLICANTS.DISEASES.ZOMBIESICKNESS.LEGEND_HOVERTEXT"
 msgid "Area Causes Zombie Spores\n"
-msgstr "Área Causa Esporos de Zumbis\n"
+msgstr "Área Causa Esporos Zumbis\n"
 
 #. STRINGS.DUPLICANTS.DISEASES.ZOMBIESICKNESS.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.ZOMBIESICKNESS.NAME"
 msgid "<link=\"ZOMBIESICKNESS\">Zombie Spores</link>"
-msgstr "<link=\"ZOMBIESICKNESS\">Esporos de Zumbis</link>"
+msgstr "<link=\"ZOMBIESICKNESS\">Esporos Zumbis</link>"
 
 #. STRINGS.DUPLICANTS.DISEASES.ZOMBIESPORES.DESC
 msgctxt "STRINGS.DUPLICANTS.DISEASES.ZOMBIESPORES.DESC"
@@ -42682,18 +42752,18 @@ msgid ""
 "Zombie Spores are a parasitic brain fungus released by <link=\"EVILFLOWER\">Sporechids</link>. "
 "Duplicants who touch or inhale the spores risk becoming infected and temporarily losing motor control."
 msgstr ""
-"Os Esporos de Zumbis são um fungo cerebral parasita liberado por <link=\"EVILFLOWER\">Esporóforo</link>."
+"Os Esporos Zumbis são um fungo cerebral parasita liberado por <link=\"EVILFLOWER\">Esporóforo</link>."
 "Duplicantes que tocam ou inalam os esporos correm o risco de serem infectados e perderem temporariamente o controle motor."
 
 #. STRINGS.DUPLICANTS.DISEASES.ZOMBIESPORES.LEGEND_HOVERTEXT
 msgctxt "STRINGS.DUPLICANTS.DISEASES.ZOMBIESPORES.LEGEND_HOVERTEXT"
 msgid "Zombie Spores present\n"
-msgstr "Esporos de Zumbis presentes\n"
+msgstr "Esporos Zumbis presentes\n"
 
 #. STRINGS.DUPLICANTS.DISEASES.ZOMBIESPORES.NAME
 msgctxt "STRINGS.DUPLICANTS.DISEASES.ZOMBIESPORES.NAME"
 msgid "<link=\"ZOMBIESPORES\">Zombie Spores</link>"
-msgstr "<link=\"ZOMBIESPORES\">Esporos de Zumbis</link>"
+msgstr "<link=\"ZOMBIESPORES\">Esporos Zumbis</link>"
 
 #. STRINGS.DUPLICANTS.GENDER.FEMALE.NAME
 msgctxt "STRINGS.DUPLICANTS.GENDER.FEMALE.NAME"
@@ -43681,7 +43751,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.MODIFIERS.EXPOSEDTOZOMBIESPORES.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.EXPOSEDTOZOMBIESPORES.NAME"
 msgid "Zombie Spores Exposure"
-msgstr "Exposição a Esporos Zumbi"
+msgstr "Exposição a Esporos de Zumbis"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.EXPOSEDTOZOMBIESPORES.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.EXPOSEDTOZOMBIESPORES.TOOLTIP"
@@ -45527,7 +45597,7 @@ msgstr ""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.ZOMBIESICKNESSRECOVERY.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ZOMBIESICKNESSRECOVERY.TOOLTIP"
-msgid "This Duplicant recently recovered from <link=\"ZOMBIESICKNESS\">Zombie Spores</link> and is temporarily immune to the <style=\"KKeyword\">Disease</style>"
+msgid "This Duplicant recently recovered from <link=\"ZOMBIESICKNESS\">Esporos Zumbis</link> and is temporarily immune to the <style=\"KKeyword\">Disease</style>"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.NAMETITLE
@@ -67701,7 +67771,7 @@ msgstr ""
 #. STRINGS.ROBOTS.MODELS.MORB.NAME
 msgctxt "STRINGS.ROBOTS.MODELS.MORB.NAME"
 msgid "<link=\"STORYTRAITMORBROVER\">Biobot</link>"
-msgstr ""
+msgstr "<link=\"STORYTRAITMORBROVER\">Biobô</link>"
 
 #. STRINGS.ROBOTS.MODELS.SCOUT.DESC
 msgctxt "STRINGS.ROBOTS.MODELS.SCOUT.DESC"
@@ -76030,7 +76100,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.NO_TRAITS
 msgctxt "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.NO_TRAITS"
 msgid "No Traits"
-msgstr "Sem Traços"
+msgstr "Sem Características"
 
 #. STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.SELECTED_CLUSTER_TRAITS_HEADER
 msgctxt "STRINGS.UI.FRONTEND.COLONYDESTINATIONSCREEN.SELECTED_CLUSTER_TRAITS_HEADER"
@@ -80819,8 +80889,7 @@ msgstr "Caixa de Ferramentas Enferrujada"
 #. STRINGS.UI.KEEPSAKES.MEGA_BRAIN.DESCRIPTION
 msgctxt "STRINGS.UI.KEEPSAKES.MEGA_BRAIN.DESCRIPTION"
 msgid "A treasured souvenir that was once a common accompaniment to children's meals during commercial flights. There's a hole in the bottom from when Dr. Holland had it mounted on a stand."
-msgstr ""
-"Uma lembrança preciosa que já foi um acompanhamento comum nas refeições das crianças durante os voos comerciais. Há um buraco na parte inferior, de quando o Dr. Holland o montou em um suporte."
+msgstr "Uma lembrança preciosa que já foi um acompanhamento comum nas refeições das crianças durante os voos comerciais. Há um buraco na parte inferior, de quando o Dr. Holland o montou em um suporte."
 
 #. STRINGS.UI.KEEPSAKES.MEGA_BRAIN.NAME
 msgctxt "STRINGS.UI.KEEPSAKES.MEGA_BRAIN.NAME"
@@ -96257,7 +96326,7 @@ msgstr "Adicione ou remova este material do armazenamento"
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ONLYALLOWSPICEDITEMSBUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ONLYALLOWSPICEDITEMSBUTTON"
 msgid "Spiced Food Only"
-msgstr "Somente Comida Temperada"
+msgstr ""
 
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ONLYALLOWSPICEDITEMSBUTTONTOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ONLYALLOWSPICEDITEMSBUTTONTOOLTIP"
