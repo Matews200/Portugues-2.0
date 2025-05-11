@@ -1,6 +1,9 @@
 ## Changelog
 
 ### v0.1-beta | 03.04.25
+- Tradução atualizada para a versão de março de 2025.
+
+### v0.1-beta | 03.04.25
 - Tradução atualizada para a versão de fevereiro de 2025.
 
 ### v0.0.20-alpha | 20.03.25
