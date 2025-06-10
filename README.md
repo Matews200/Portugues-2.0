@@ -1,6 +1,6 @@
 _Obs: É utilizado o **português brasileiro** para a tradução_
 
-### Aviso: The Bionic Booster Pack incluído – versão atual: fevereiro de 2025.
+### Aviso: The Prehistoric Planet Pack incluído – versão atual: Maio de 2025.
 
 Olá, o mod **Português (BR)**, atualmente, é a versão mais atualizada de tradução BR para o *Oxygen Not Included*. O mod ainda está em versão **beta**, o que significa que pode conter erros e possíveis bugs.
 
