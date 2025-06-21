@@ -1,4 +1,6 @@
 ## Changelog
+### v0.2.1-beta | 10.06.25
+- Tradução 100% DLC O Pacote Planeta Pré-histórico (beta-build).
 
 ### v0.2-beta | 11.05.25
 - Tradução atualizada para a versão de março de 2025.
